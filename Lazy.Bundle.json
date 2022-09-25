@@ -1,0 +1,241 @@
+{
+    "version": "1.0",
+    "sourceName": "Lazyshop",
+    "sourceAuthor": "Lazyshop",
+    "sourceImage": "https://lazyshop.app/assets/top_logo.jpg",
+    "sourceUpdateTime": "2022-09-26T00:07:00+0300", 
+    "sourceDescription": "GBox官方软件源的描述",
+    "appCategories": [
+        "Lazy Bundle Source"
+    ],
+    "apps": [
+
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "LazyVK",
+            "version": "7.35 + 2.4",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/LazyVK.ipa",
+            "localizedDescription": "Чертовски крутой твик, написанный с нуля, чтобы заменить собой умерший VKAgain, принести новые крутые возможности и выкинуть все странные и ненужные нагромождения.",
+            "versionDate": "2022-09-25T22:21:00+0300",
+            "iconURL": "https://lazyshop.app/icons/7y289q9rjv.png",
+        },
+
+        {
+            "name": "YouTube 8-в-1 (Premium)",
+            "version": "17.25.1 + 5.3.10",
+            "downloadURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/541278042/c3e928e8-68d0-4cc4-bc6e-06c5cc20da0c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220925%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220925T192334Z&X-Amz-Expires=300&X-Amz-Signature=ce3f9f261fe4753ffe499f3a3bed2d7e4971dc9936302ba9c8ca9a57b4a45660&X-Amz-SignedHeaders=host&actor_id=75086620&key_id=0&repo_id=541278042&response-content-disposition=attachment%3B%20filename%3DYouTubeCercube.ipa&response-content-type=application%2Foctet-stream",
+            "localizedDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы.",
+            "versionDate": "2022-09-07T21:24:00+0300",
+            "iconURL": "https://lazyshop.app/icons/jkprao1kmc.png",
+        },
+
+        {
+            "name": "AdGuard Pro",
+            "version": "4.4.0",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/AdGuard%20Pro.ipa",
+            "localizedDescription": "Впервые вне App Store! Cамый эффективный блокировщик рекламы для Safari, антитрекер, персональные фильтры, защита при помощи DNS-серверов, уменьшение потребления трафика, и многое другое.",
+            "versionDate": "2022-09-25T23:28:00+0300",
+            "iconURL": "https://lazyshop.app/icons/18wrcd1qxe.png",
+        },
+
+        {
+            "name": "AdGuard VPN (Unlimited)",
+            "version": "2.0.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/AdGuard%20VPN.ipa",
+            "localizedDescription": "С AdGuard VPN перед вами откроются безграничные возможности, а ваши личные данные будут под надёжной защитой. AdGuard VPN скрывает ваш реальный IP-адрес и местоположение и даёт вам возможность оставаться анонимным в интернете. Просто откройте/разверните приложение, чтобы автоматически получить следующие 3 ГБ на максимальной скорости.",
+            "versionDate": "2022-09-25T23:28:00+0300",
+            "iconURL": "https://lazyshop.app/icons/v04aru6wqb.png",
+        },
+
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+        {
+            "name": "VK Dream",
+            "version": "2.15.3",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
+            "versionDate": "2022-09-25T22:12:00+0300",
+            "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
+        },
+        
+
+       
+    ]
+}
