@@ -1,0 +1,423 @@
+{
+    "version": "1.0",
+    "sourceName": "Lazyshop",
+    "sourceAuthor": "Lazyshop",
+    "sourceLinkTitle": "Lazyshop",
+    "sourceLinkUrl": "",
+    "sourceImage": "https://lazyshop.app/assets/top_logo.jpg",
+    "sourceDescription": "hacked by @retr0dev(tg) https://t.me/lazyshop_leak",
+    "appCategories": [
+        "Lazyshop"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-06-18T19:15:00+0800",
+            "appName": "VK Dream",
+            "appVersion": "3.6.7",
+            "appImage": "https://lazyshop.app/icons/9wkvekzxlq.png",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/VK%20Dream.ipa",
+            "appDescription": "签名此App后，点击安装，闪退即代表升级成功，更新内容:\n- 新增智能后台下载、签名安装模式"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-05-08T18:45:00+0800",
+            "appName": "GBox",
+            "appVersion": "3.3.5",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzouw.com/iS1FHp66z3a",
+            "appDescription": "5月08日最新版，签名此App后，点击安装，闪退即代表升级成功，更新内容:\n1. 优化签名和其他细节功能"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-12-08T11:35:00+0800",
+            "appName": "GBox(支持视频下载)",
+            "appVersion": "3.0.0",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzouw.com/iHyIzj5n7gf",
+            "appDescription": "支持网页视频下载的版本，签名后安装即可"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-01-06T08:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "8.0.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/im8uDyfkmmd",
+            "appDescription": "支持A12-A13设备的iOS 14.6-14.8系统越狱\n支持A7-A13设备的iOS 11.0-14.3 系统（不支持IOS12.3+12.31和iOS13.5.1-13.7系统，也不支持IOS12.4.2及以后的系统）"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-11-09T11:50:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "7.0.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/ih0bbwbcvab",
+            "appDescription": "包括 Fugu14 设备在内的所有版本的主要稳定性和可靠性改进\n\n支持A7-A13设备的iOS 11.0-14.3 系统（不支持IOS12.3+12.31和iOS13.5.1-13.7系统，也不支持IOS12.4.2及以后的系统）"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-08-06T09:40:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.2.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/ilysYsadxih",
+            "appDescription": "改进iOS 14的稳定性和可靠性\n\n支持A7-A13设备的iOS 11.0-14.3 系统（不支持IOS12.3+12.31和iOS13.5.1-13.7系统，也不支持IOS12.4.2及以后的系统）"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-04-15T16:30:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.1.3",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzoub.com/iomdq038qlkj",
+            "appDescription": "CoolStar最新出品的越狱工具，支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-11-08T22:00:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.1.1",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/i8luOwax00f",
+            "appDescription": "支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-06-12T12:15:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.6",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/i6w4Pqsmewh",
+            "appDescription": "优化细节，CoolStar最新出品的越狱工具，支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-06-07T10:15:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.5",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iKtdupw2cef",
+            "appDescription": "优化细节，CoolStar最新出品的越狱工具，支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-16T21:00:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.4",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iBBjto6ugyf",
+            "appDescription": "CoolStar最新出品的越狱工具，支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-13T13:50:00+0800",
+            "appName": "Taurine",
+            "appVersion": "1.0.3",
+            "appImage": "https://gbox.pub/Public/appicons/Taurine.png",
+            "appPlist": "https://gbox.lanzouw.com/iXSbho00o3g",
+            "appDescription": "CoolStar最新出品的越狱工具，支持全系列iOS设备14.0～14.3系统越狱"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-08T10:00:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iqPkzns3imj",
+            "appDescription": "1. 优化iOS 14上的稳定性和可靠性\n\n支持A7-A13设备的iOS 11.0-14.3 系统（不支持IOS12.3+12.31和iOS13.5.1-13.7系统，也不支持IOS12.4.2及以后的系统）"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-03-07T17:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iRS71mmzvfa",
+            "appDescription": "1. 修复并支持Xcode对app进行调试\n\n支持A7-A13设备的iOS 11.0-14.3 系统（不支持IOS12.3+12.31和iOS13.5.1-13.7系统，也不支持IOS12.4.2及以后的系统）"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-07T17:25:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.0",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iQ6hlmiccqf",
+            "appDescription": "6.1.0 版本unC0ver"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-28T18:36:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.3.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iNiVDf2iygf",
+            "appDescription": "iOS 越狱工具，支持iOS 11.0 - 13.5"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-09T13:56:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.2.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzouw.com/iYic7eg6t1g",
+            "appDescription": " Fixes include fixing jailbreak errors on A7 and A8 devices. (iOS and tvOS)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-16T13:45:00+0800",
+            "appName": "PlankFilza",
+            "appVersion": "3.8",
+            "appImage": "https://gbox.pub/Public/appicons/Filza.png",
+            "appPlist": "https://gbox.lanzouw.com/iMqiDlpzish",
+            "appDescription": "文件管理器，支持 iOS 14.0 ~ 14.3系统，使用有风险，谨慎安装"
+        },
+
+        {
+            "hide": true,
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-02-16T13:45:00+0800",
+            "appName": "cometjb",
+            "appVersion": "2.0",
+            "appImage": "https://s3.ax1x.com/2021/02/16/yc3eBT.png",
+            "appPlist": "https://gbox.lanzouw.com/ijA1xlq1def",
+            "appDescription": "越狱工具(半成品)，仅获取root权限，可使用ssh安装插件"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-02-01T10:00:00+0800",
+            "appName": "奥德赛(Odyssey)",
+            "appVersion": "1.4.1",
+            "appImage": "https://gbox.pub/Public/appicons/Odyssey.png",
+            "appPlist": "https://gbox.lanzouw.com/iNQYlzi23ng",
+            "appDescription": "奥德赛最新版"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-03-03T10:00:00+0800",
+            "appName": "奥德赛(Odyssey)",
+            "appVersion": "1.3",
+            "appImage": "https://gbox.pub/Public/appicons/Odyssey.png",
+            "appPlist": "https://gbox.lanzouw.com/iyaExmeized",
+            "appDescription": "支持iOS 13.0-13.7越狱，优化稳定性"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-11-27T14:23:00+0800",
+            "appName": "奥德赛(Odyssey)",
+            "appVersion": "1.2.2",
+            "appImage": "https://gbox.pub/Public/appicons/Odyssey.png",
+            "appPlist": "https://gbox.lanzouw.com/iX3veitm75g",
+            "appDescription": "支持iOS 13.0-13.7越狱(最新版v1.2.2支持A8/A9)\n为了获得最佳结果，请重启设备并等待15秒钟，然后再运行越狱。 如果无法运行，请确保重新启动后等待15秒钟，然后再运行它。"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-11-10T15:46:00+0800",
+            "appName": "奥德赛(Odyssey)",
+            "appVersion": "1.1.2",
+            "appImage": "https://gbox.pub/Public/appicons/Odyssey.png",
+            "appPlist": "https://gbox.lanzouw.com/i8Ue0i96kra",
+            "appDescription": "奥德赛最新版，需自行签名安装"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-04-26T21:50:00+0800",
+            "appName": "签名测试",
+            "appVersion": "1.0",
+            "appImage": "https://gbox.pub/Public/appicons/Test.png",
+            "appPlist": "https://gbox.lanzoub.com/ieXGq07otveb",
+            "appDescription": "在GBox证书管理页面选择其中一本证书，先签名此包再安装，如果能正常打开，则证明签名流程和证书有效"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-08-29T16:30:00+0800",
+            "appName": "AppCake",
+            "appVersion": "7.2.2",
+            "appImage": "https://gbox.pub/Public/appicons/AppCake.png",
+            "appPlist": "https://wwu.lanzouy.com/iFs3L0aip1xi",
+            "appDescription": "国外第三方Apps商店。已去广告，无需获取udid即可用。\n使用方法：先下载里面的应用，然后点击“share”导入到GBox签名即可安装"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-20T12:20:00+0800",
+            "appName": "ipa下载器",
+            "appVersion": "1.0",
+            "appImage": "https://gbox.pub/Public/appicons/IpaDownload.png",
+            "appPlist": "https://gbox.lanzouw.com/iik9mgs90oh",
+            "appDescription": "ipa提取工具"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SHAREING",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-26T09:30:00+0800",
+            "appName": "Price Tag",
+            "appVersion": "2.3.1",
+            "appImage": "https://bbsimg.joyslink.com/2018/04/19/14443676_246x0w.jpg",
+            "appPlist": "https://gbox.lanzouw.com/i89vukd",
+            "appDescription": "iOS13不支持, 无须签名直接安装，然后在App Store登录此账号即可：\n(切勿在系统设置登录，否则有可能被锁机)\nshare1313@163.com\nLaoapp922"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-30T10:30:00+0800",
+            "appName": "Filza",
+            "appVersion": "3.6",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Apps/filza/filza.png",
+            "appPlist": "https://gbox.lanzouw.com/i8cic2h",
+            "appDescription": "强大的文件管理器，免越狱访问系统全路径，支持iOS11 ~ iOS12，部分机型打开闪退"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-09-15T15:26:00+0800",
+            "appName": "小鸡模拟器",
+            "appVersion": "1.5.9",
+            "appImage": "https://gbox.pub/Public/appicons/XiaoJi.png",
+            "appPackage": "http://dl.xiaoji001.com/download/ios/xiaoji_org.ipa",
+            "appDescription": "需要iOS 11或以上系统"
+        },
+
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-12T10:35:00+0800",
+            "appName": "RetroArch",
+            "appVersion": "1.8.9",
+            "appImage": "https://s1.ax1x.com/2020/07/12/U1xnkq.png",
+            "appPackage": "https://buildbot.libretro.com/stable/1.8.9/apple/ios/RetroArch.ipa",
+            "appDescription": "各种掌机模拟器集合"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2021-11-27T23:16:00+0800",
+            "appName": "Dolphin(海豚模拟器)",
+            "appVersion": "3.1.1",
+            "appImage": "https://gbox.pub/Public/appicons/Dolphin.png",
+            "appPlist": "https://gbox.lanzouw.com/iAyCLwz0c0j",
+            "appDescription": "GameCube, Wii模拟器。\n非越狱设备签名即可安装，理论上支持iOS 12 ～ iOS 14.3系统，15.1以下系统或许可以，但未经测试，请悉知。"
+        },
+        
+        {
+            "appType": "SHAREING",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-16T17:45:00+0800",
+            "appName": "Dolphin",
+            "appVersion": "3.0.0",
+            "appImage": "https://gbox.pub/Public/appicons/Dolphin.png",
+            "appPlist": "https://gbox.lanzouw.com/iNsFFennwbi",
+            "appDescription": "GameCube, Wii模拟器(必须越狱，无须签名直接安装)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "PPSSPP",
+            "appVersion": "1.6.3",
+            "appImage": "https://gbox.pub/Public/appicons/Ppsspp.png",
+            "appPlist":"https://gbox.lanzouw.com/i7ys8da",
+            "appDescription": "PSP模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-04-20T18:00:00+0800",
+            "appName": "iNDS",
+            "appVersion": "1.10.7",
+            "appImage": "https://gbox.pub/Public/appicons/NDS.png",
+            "appPlist":"https://gbox.lanzouw.com/ibnbglc",
+            "appDescription": "NDS模拟器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-12-08T11:35:00+0800",
+            "appName": "Delta",
+            "appVersion": "1.1.2",
+            "appImage": "https://gbox.pub/Public/appicons/Delta.png",
+            "appPlist":"https://gbox.lanzouw.com/i9OGDj5nawj",
+            "appDescription": "支持GBA, GBC, N64, SNES, NES, Sega等模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-05-21T23:50:00+0800",
+            "appName": "吉里吉里",
+            "appVersion": "1.3.9",
+            "appImage": "https://gbox.pub/Public/appicons/Krkr.png",
+            "appPlist": "https://gbox.lanzoub.com/iGbwM058c1qd",
+            "appDescription": "吉里吉里(KrKr)模拟器，玩GAL游戏的必备神器。"
+        }
+    ]
+}
