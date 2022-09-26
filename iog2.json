@@ -11,7 +11,7 @@
     ],
     "appRepositories": [
         {
-            "appType": "SELF_SIGN",
+            "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-26T13:38:00+0300",
             "appName": "VSCO: Photo & Video Editor Hack",
