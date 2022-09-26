@@ -5,13 +5,13 @@
     "sourceLinkTitle": "iOSGods",
     "sourceLinkUrl": "https://iosgods.com/",
     "sourceImage": "https://iosgods.com/uploads/monthly_2019_03/apple-touch-icon.thumb.png.390383fd330eb594c5a70f463febc82e.png",
-    "sourceDescription": "only jail",
+    "sourceDescription": "only jailbreak",
     "appCategories": [
         "Приложения"
     ],
     "appRepositories": [
         {
-            "appType": "ENT_SIGN",
+            "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-26T13:38:00+0300",
             "appName": "VSCO: Photo & Video Editor Hack",
