@@ -155,7 +155,7 @@
 
         {
            "name": "YouTube 8-в-1 (Premium)",
-            "version": "17.25.1 + 5.3.10",
+            "version": "17.25.1 + 5.3.10 (stable)",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/YouTubeCercube.ipa",
             "localizedDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы.",
             "versionDate": "2022-09-26T01:35:00+0300",
@@ -300,6 +300,16 @@
             "localizedDescription": "Научись программировать на Python, JavaScript и HTML.\n❗️Для активации взлома перезапустите приложение!",
             "versionDate": "2022-09-27T00:32:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/67e2d8f0da.png",
+            "size": 159173836 ,
+        },
+
+        {
+           "name": "YouTube 8-в-1 (Premium)",
+            "version": "17.37.3 + 5.3.11 (new)",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/youtube8in1.ipa",
+            "localizedDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы.",
+            "versionDate": "2022-09-28T21:47:00+0300",
+            "iconURL": "https://lazyshop.app/icons/jkprao1kmc.png",
             "size": 159173836 ,
         }
     ]

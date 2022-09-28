@@ -182,7 +182,7 @@
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-26T01:35:00+0300",
             "appName": "YouTube 8-в-1 (Premium)",
-            "appVersion": "17.25.1 + 5.3.10",
+            "appVersion": "17.25.1 + 5.3.10 (stable)",
             "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/YouTubeCercube.ipa",
             "appDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы."
@@ -340,6 +340,17 @@
             "appImage": "https://dl.lazyshop.app/images/catalog/67e2d8f0da.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Mim0Pro.ipa",
             "appDescription": "Научись программировать на Python, JavaScript и HTML.\n❗️Для активации взлома перезапустите приложение!"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-28T21:47:00+0300",
+            "appName": "YouTube 8-в-1 (Premium)",
+            "appVersion": "17.37.3 + 5.3.11 (new)",
+            "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/youtube8in1.ipa",
+            "appDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы."
         }
     ]
 }
