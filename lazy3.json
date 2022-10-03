@@ -311,6 +311,56 @@
             "versionDate": "2022-09-28T21:47:00+0300",
             "iconURL": "https://lazyshop.app/icons/jkprao1kmc.png",
             "size": 159173836 ,
+        },
+
+        {
+           "name": "English Galaxy PRO",
+            "version": "1.2.5",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/English.Galaxy.ipa",
+            "localizedDescription": "Английский язык и грамматика с нуля и до продвинутого",
+            "versionDate": "2022-10-03T17:02:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/7243666c40.png",
+            "size": 64801996 ,
+        },
+
+        {
+           "name": "Things 3",
+            "version": "3.16.2",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Things.ipa",
+            "localizedDescription": "Управляйте вашей жизнью максимально эффективно",
+            "versionDate": "2022-10-03T17:02:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/40be8b2d7f.png",
+            "size": 58929971 ,
+        },
+
+        {
+           "name": "Bazaart PRO",
+            "version": "8.0.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Bazaart.ipa",
+            "localizedDescription": "Фоторедактор с уникальной функциональностью",
+            "versionDate": "2022-10-03T17:02:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/95fb57e286.png",
+            "size": 83990937 ,
+        },
+
+        {
+           "name": "30 Day Fitness PRO",
+            "version": "2.13.2",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/30.Day.Fitness.Challenge.ipa",
+            "localizedDescription": "30 дней 7-минутных тренировок дома + диета",
+            "versionDate": "2022-10-03T17:02:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5aa4b67292.png",
+            "size": 290350694 ,
+        },
+
+        {
+           "name": "Deezer Premium",
+            "version": "8.38.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/DeezerPro.ipa",
+            "localizedDescription": "Плейлисты и музыка офлайн в вашем устройстве",
+            "versionDate": "2022-10-03T17:02:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
+            "size": 74868326 ,
         }
     ]
 }

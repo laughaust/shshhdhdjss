@@ -351,6 +351,61 @@
             "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/youtube8in1.ipa",
             "appDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "English Galaxy PRO",
+            "appVersion": "1.2.5",
+            "appImage": "https://dl.lazyshop.app/images/catalog/7243666c40.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/English.Galaxy.ipa",
+            "appDescription": "Английский язык и грамматика с нуля и до продвинутого"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Things 3",
+            "appVersion": "3.16.2",
+            "appImage": "https://dl.lazyshop.app/images/catalog/40be8b2d7f.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Things.ipa",
+            "appDescription": "Управляйте вашей жизнью максимально эффективно"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Bazaart PRO",
+            "appVersion": "8.0.0",
+            "appImage": "https://dl.lazyshop.app/images/catalog/95fb57e286.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Bazaart.ipa",
+            "appDescription": "Фоторедактор с уникальной функциональностью"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "30 Day Fitness PRO",
+            "appVersion": "2.13.2",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5aa4b67292.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/30.Day.Fitness.Challenge.ipa",
+            "appDescription": "30 дней 7-минутных тренировок дома + диета"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Deezer Premium",
+            "appVersion": "8.38.0",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/DeezerPro.ipa",
+            "appDescription": "Плейлисты и музыка офлайн в вашем устройстве"
         }
     ]
 }
