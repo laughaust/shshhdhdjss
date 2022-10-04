@@ -361,6 +361,16 @@
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
             "size": 74868326 ,
+        },
+
+        {
+           "name": "Pillow PRO",
+            "version": "3.9.92",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/PillowPRO.ipa",
+            "localizedDescription": "Умный будильник и анализатор фаз вашего сна",
+            "versionDate": "2022-10-04T13:44:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
+            "size": 147324928 ,
         }
     ]
 }

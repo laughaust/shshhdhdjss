@@ -406,6 +406,17 @@
             "appImage": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/DeezerPro.ipa",
             "appDescription": "Плейлисты и музыка офлайн в вашем устройстве"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-04T13:44:00+0300",
+            "appName": "Pillow PRO",
+            "appVersion": "3.9.92",
+            "appImage": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/PillowPRO.ipa",
+            "appDescription": "Умный будильник и анализатор фаз вашего сна"
         }
     ]
 }
