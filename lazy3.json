@@ -371,6 +371,56 @@
             "versionDate": "2022-10-04T13:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
             "size": 147324928 ,
+        },
+
+        {
+           "name": "Аудиокниги Premium",
+            "version": "9.0.4",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/AudioBooks.ipa",
+            "localizedDescription": "Тысячи аудиокниг, сотни авторов, десятки жанров",
+            "versionDate": "2022-10-07T23:55:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c8b7f7f0d6.png",
+            "size": 9017753 ,
+        },
+
+        {
+           "name": "KyBook 2 PRO",
+            "version": "1.2.8",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/KyBook2.ipa",
+            "localizedDescription": "Лучшая читалка книг с поиском и скачиванием из сети",
+            "versionDate": "2022-10-07T23:55:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/f222f90fbb.png",
+            "size": 74868326 ,
+        },
+
+        {
+           "name": "ProMovie Recorder",
+            "version": "1.11.6",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/ProMovieRec.ipa",
+            "localizedDescription": "Простейшая видеокамера с массой настроек",
+            "versionDate": "2022-10-07T23:55:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/9ca35356f3.png",
+            "size": 1782579 ,
+        },
+
+        {
+           "name": "ProCam 8",
+            "version": "14.0.4",
+            "downloadURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/ProCam8.ipa",
+            "localizedDescription": "Профессиональная фото-видеокамера + редактор",
+            "versionDate": "2022-10-07T23:55:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e2adccd2fb.png",
+            "size": 13631488 ,
+        },
+
+        {
+           "name": "LazyTool",
+            "version": "2.163",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/LazyTool.ipa",
+            "localizedDescription": "Доступ к ВК, оффлайн режим, эквалайзер, плейлисты, ночная тема и множество других плюшек.",
+            "versionDate": "2022-10-08T00:10:00+0300",
+            "iconURL": "https://lazyshop.app/icons/fgqxg07vz7.png",
+            "size": 39636172 ,
         }
     ]
 }
