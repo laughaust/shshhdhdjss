@@ -417,6 +417,61 @@
             "appImage": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/PillowPRO.ipa",
             "appDescription": "Умный будильник и анализатор фаз вашего сна"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "Аудиокниги Premium",
+            "appVersion": "9.0.4 | 8.6 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c8b7f7f0d6.png",
+            "appPackage": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/AudioBooks.ipa",
+            "appDescription": "Тысячи аудиокниг, сотни авторов, десятки жанров"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "KyBook 2 PRO",
+            "appVersion": "1.2.8 | 71.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/f222f90fbb.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/KyBook2.ipa",
+            "appDescription": "Лучшая читалка книг с поиском и скачиванием из сети"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "ProMovie Recorder",
+            "appVersion": "1.11.6 | 1.7 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/9ca35356f3.png",
+            "appPackage": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/ProMovieRec.ipa",
+            "appDescription": "Простейшая видеокамера с массой настроек"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "ProCam 8",
+            "appVersion": "14.0.4 | 13 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e2adccd2fb.png",
+            "appPackage": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/ProCam8.ipa",
+            "appDescription": "Профессиональная фото-видеокамера + редактор"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-10-08T00:10:00+0300",
+            "appName": "LazyTool",
+            "appVersion": "2.163 | 37.8 MB |",
+            "appImage": "https://lazyshop.app/icons/fgqxg07vz7.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/LazyTool.ipa",
+            "appDescription": "Доступ к ВК, оффлайн режим, эквалайзер, плейлисты, ночная тема и множество других плюшек."
         }
     ]
 }
