@@ -527,7 +527,7 @@
             "appVersion": "1.1.1 | 31.7 MB |",
             "appImage": "https://lazyshop.app/icons/sj3ghycro9.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Taurine.ipa",
-            "appDescription": "Полуотвязанный джейлбрейк для устройств iPhone (6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max, 11, 11 Pro, 11 Pro Max, SE 2), iPad (Air 3, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5, 11, 12.9(3G)), iPad mini (4, 5) под управлением iOS (13.0 - 13.7)"
+            "appDescription": "Полуотвязанный джейлбрейк для iOS (14.0-14.3)"
         },
 
         {
@@ -561,6 +561,17 @@
             "appImage": "https://lazyshop.app/icons/cmkib5jsog.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/h3lix.ipa",
             "appDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5, 5C), iPad 4 под управлением iOS 10 (10.0.1, 10.0.2, 10.1, 10.1.1, 10.2, 10.2.1, 10.3, 10.3.1, 10.3.2, 10.3.3, 10.3.4)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-10-09T18:34:00+0300",
+            "appName": "Unc0ver",
+            "appVersion": "8.0.2 | 52 MB |",
+            "appImage": "https://lazyshop.app/icons/yq04yq5722.png",
+            "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/unc0ver.ipa",
+            "appDescription": "Полуотвязанный джейлбрейк для iOS (11.0-14.8)"
         }
     ]
 }
