@@ -1,16 +1,478 @@
 {
-  "appCategories" : [
-    "Базовый набор",
-    "Оптимальный набор",
-    "Большой каталог"
-  ],
-  "sourceUpdateTime" : "2022-10-08T23:57+0300",
-  "sourceAuthor" : "Lazyshop",
-  "sourceLinkUrl" : "https:\/\/t.me\/lazyshop_leak",
-  "sourceDescription" : "hacked by @retr0dev https:\/\/t.me\/lazyshop_leak",
-  "version" : "1.0",
-  "sourceName" : "Lazyshop",
-  "sourceLinkTitle" : "TELEGRAM",
-  "sourceImage" : "https:\/\/lazyshop.app\/assets\/top_logo.jpg",
-  "appRepositories" : "AwFPrrk\/EmGP9zwf8hwoHqk6CzYn7fONYaEtSi1zku2bAtBq43QckrFBvFFyfuUO59BG509uPsWKZB\/Cf82YcqmNJZqMoo75i\/KQpMOEM9nRZhDa7+QG6AXRXOotYJDXg2Fa+2O\/+Ox1WrPvRd4X2nHEvP4NiRc628JG8v6QDT1eSPW96FW2\/taPFdSWJe8Owqfsn5E5nNTgng2XYW0lH9jTCPr4Snq0rY9rL0aFUBT4QlAH77JqwRFEWMU2aNznr0\/NepkxKauuPE9LJ3+1TinFChct0YXzol2QJIwTQOlCSaX3l7sSbzfCzlKui5M3HAkt9aycHUYo7nOPWTEK38x4hdqS4Bu6oumxirhjsiV\/2hWayoAc6\/l8xR\/Ymo2J14g5I+uFSceipMgLWPZF8fnmc05hSiMre2X\/4vcDFrIcHftPzh7NaHGo3syKO3oIsI7Kc+3r5w8HzKMTCTYwjOioKEr59x8OnDy90eKaWA2hlHtEOnAPtPuhUW0WBN892tjeSOclot19ffN7UNPXBXNFeJWwhYMu4v4efIz+e6isKvw4dbYU5uQfahzQU4mlYI+1jPB\/ZteqnZuFT7xHR6WBIEg7Qa\/XKMRyHg6zcfv7mbuE7VWmgenwXr3rJRzt8gLI9lH2NrVkrNvSvkbsYROK+uT8jM0EOWaUoTPwCVe9xZ7B3TG1PWtOsJ91g70o7HKn1ePL\/Z9PVm195TWuvi0fzTlcxQhBiCh5kPomUxVSWT1V6lnm79UtlAoYDTQyaxEk4qivlMMo1+15zPHCIV3ZtUZWRRL5Eh4WWuAfioeluK4ioRb1z4WuqVTexCwgkLVWDyOBZro+fkFoBBuDnocWnlWKmJxCTBy9I4C5b9gUaNx4fRWh1QJ9q+DAB+lOJKyFrf5RPkw4erVB2U4cpl8FDEFljMQz2\/cixH8cfOc8XpWbx1ZDvGVh\/mVHhMQZebYBDBqHlsaibhG\/lRkdg30EiMYRA9rskLtfrsl9\/JJuFiLMZVum5dr67Sk7q0XIMCX5xmZqeCwuF8BDQJc5NmKhmXzJQOdbdCPZMElDoBGGn3wgoV0C2tGnD5PUfHd2V9SKxy4klUIfLGVIfSy3AhPlx6KJ+a9ffS8g67YPLEoMzm\/VJzeYghr85i0411qA2ODcH6CSMYqWb3Y\/CUqZXy1uMb2y3RKSoSvtG1At1KKOWibZEC+RJNTq1lqOS1Se9uGpm7aZfXVl27fQQ6\/FdpvJtaGJ85jxmw2z56S7CkPrOZj6a2LCD2C\/5pG+Kr139DnWl3xryo6wVsfZ1Lq3Etmrno56u5cZi0PSQ3xF+GwoiosPpUI6QKAm0K88MqclGMz9LRtjRwPRMe3MiirqaKX9X899eKXdeXbxuTeEI2RLNjGoE7JUEtfBkLkxDMsbPy2RAlc+37VKQaYyF+ntJdGkN4BncHoVnLeg2K5v7Fm8gQkOelQqjGjaP8c\/Beso7pDvEHg6xajUBcizopouWuOU7dEjYiEtJ9mHE6SSV1dvTasIEPqcuSLFCQXmMxzsDP3V\/JjC7WX5fo6bETO0\/VH6AKOY8fo9KT7DCFn3ctQr+ICqmFYi7lU7xJzHKmPvAUTZV4B0aGU8VDvMHFXCOTwuM8oS0S8F3YF\/9V\/bIeHR9OWp2+s+iQgrkyQBVKCW5N2oJlUE2jtb43ejSzxXKQdsJ9Q3pXg426B5DDy34+whlkE2BjkXfXL1rCV3YOcehnlRwqvZJrOVS7ntum1RwfgHoVGltoRsSIw9TPxJDsbZDXGPHxfecVeAtxhojd4kgk1DV8CIPu57dzHddJs3FRhON4CmqFajNvwQB5jZ6OOFnJvedjtrmbUFxMrWuLaQr3nri3oszHoTO5XLSGcETGqVgNKGQbfaW9q5g721Qfd3HGgQbF2G97HP3XejnkoDqdWYeXNJ2z7Vg\/Eaw70jvYTwUrNlbPQdwnmyg\/aAJZQXDcohK5mMY2sv+YJdt3VLQLbvEIP7jquke1qc7U8EnEjvbj48qLewuhb2pUXqTbJjoirxRT9dKcR2cfYiNsWEq+0wRLyiUcbnteQMhU4dBorQlycAirYBNWE8yNXnoXDG\/JGQmkCvVmHBeFdiT8+UtMVgQINfimeV\/pLA8\/H8LLHgjbg81zucpjnLqKtzK5El3kBKpqEEJDYEF03Up\/jzPuZ\/kzlDlb0liPrruuI4IeTAxsMaCP\/w7ghawD\/i9XX9b4XzSHE2f+4o\/R7+qJ3T+r9Vn7koNpCwAzdm7K5Sg3uX334rwPI4yV16XbXg5dIHxv36T58LknQ\/aijiNWdGXCFSg2x+ymmT2hXTnqn4dw\/\/5gYfs45iUBLiNB+Q2J2Go1i+WNdOZYmrKEIy+lMZKeRVsrii+aqQMxn1UmdET+mU+uoyslXUEfeGpWCv02lsR1ggMk+YJp1dj6fIj4rDjmRZXlXoBf7\/rHuU8B6w9Hqqyh8lc9EWCGxj6r07FCNnPNKEsJDFKhsy+zCVrSosVpXFF1dhcWggViHkdYx4dGsu0xKS4HuI73+7kB1aRFJcoyS4Aa8YYm1Os+QaZWRGtaDDwGnGNGFsAw\/Oif+qqaojudGl8dA7P9V0lBGxsidE7ysYP+GrSE09js+AeFQQ3f0SI+THOCONPfOZHAaF+4\/AkpaRKPQQVF4FttyYhSovTiBAu2fex4ZnI+wR69JnOyu1LEs30ZKLJReAw1BOgfBLvbzQF+kQhOVIvkKedfz0KR4VJRinMtnbDRL1hMYGVPJAcHJocxg\/wPnXDtnPfYli6V7O9FDsP9ecFuO\/PD6dUNkBZEgah52lhS3hpGsfLtnCe0WqeCvHpLjASdA4tbIMhlAOMGjgOaQEcCRIWs8ER+Jp2y5N2kyDTUeQ2VxtD4ds8t\/87+NneJEicny+k0hjwa\/1LoBwC2ogi67VknCAvDeHXpYjwOi3zzb4Ve65DORspSDgbsqNCojHj1z389fspTV4645p23rcPWhZ\/6B5WD3\/vfr2LmBduArk5j349XKajbbbBFHXDw7uKD2grtlUpuMB1AP1RQ0Q4lAveZqF89se1g5k5RuotxBKm3oLJUm+gBttJParkKrK7N7w2dl372cR4wFbih\/tp1\/RfqfedLkc5Hmm2QoAfvMI\/Z44etIQmwPC0ebZhp2d4F0Xv1Qq8i8pS2CgTUjeiu4BUaJOj1SoK8\/2f25YnKudZXJN43TW1gOiM\/VsZKJXLWoccN0FZ1oMq2+cdMQ1S2Ts2PVZekrSbRg1gcxs1xlWXu0It+5PMW0E1lC1srcJC0dBtZVZ3ywts9Bwrc18nm2jy0jN6G1hk+JqTOUrnha\/xJaejmXYafm0AYaHg26U5s0GXWXfAgOGrofZTUijK5VjNjRTyH4uN+OWaPDraXDWl1XqJjBaB74zhbNbrhsKyUPhXU2O0VUhJmE21Ffo50ymEU4VRuqZACp\/SeXQHbg0Hc05Tlo3NVehta5TykfFk4kvaceJRsL3GPATjT+fK3TgVV\/rDpxYagHTQnwWEhADa36srWlDaf09l3lG9BzAM8B50KB06AfJp62+yoN2K3b0uIuTuBq194RndBaj3rZT6tAfdqyY6yAIPFfHRMCDXzQCevlNpdlkIM0tWlCj2niten7gUYnFzSyPx8FypamabsvsKPqFb3MCne8wB9Y3GI7PPerQqRTaau6rtmPz\/EPbk7aEJi\/9Yx+myR87LIYZt2+xk9\/MjoJ\/+KQYCPoVcXlDrRlC2F4T8Tqog\/iWJKbsFEFY5cAyccWbJY9GsXrnxzBNCbLCqT3XvikgCDpiY7iJzX3D2gVbVlYrJtbhQODYQl9AQEgM+s\/3a+qKrLKf8pMk1OemootfmoQcid3qEknvfSmLMge6oSWaL52AUtsp0hT4SC7Auucv3U9DZEoxR+WxWZlvAd7q94ujDzGgOKkKWOheY3p120WlrZQEnR+cbwAZvvcMpF+80lgzx4fGV13rgSs9i\/gOaCqygILtR5VTa\/kTuxzzWA\/1vvWP4k74XAM81DwPqhDRTLY5VKx3Sy\/BbVmuv7lhlNN5Y2qjnSsz1FjO2BqETivwp1rOdfWIe3iFM14D4BceqIWZeRTn0NPcF8SjnI8PMXwqcFtueoQbp7uMBOz28MZ2JZfiGeSdOVYYfqPSo4f7XXCyXvzNGDKszkETN6YfFde+eYrSfuurA7\/jZOtZg7Ll7nmb8bWVA\/ZNXenI02G0ajQo82DsBkI0ZOBmWEYeBsrc8VSf5Y3DhkK4LLH8uVfEyO5Z8eQMkBEo0nBFHACXEB8VLRjoL27rQLVHK8JBVFh331Tis3DuTSV4wSrLbo99OF9J4sl5jQU8eGxsD9M\/9aIFe7OYAT5UtBea\/brefzf8ahIyxzHsW93NEC2WXxTUe3o9n1\/GsUGF2iEk34v4ho4isWG9DNayi4gmZRJeA7BYLlMgMBOOhJe5079eKnjmuXqrbXoRnUdMluacI7r0SArMPPgoYS47Ip20GcMPFfPo9ubUmvoGklWa4N2zOBcVINpUf8s3PmzlzgInkTOqOAbfEMvw3bhloD23guTlg33l14OwcHwQMnmXL\/iilvvIBRzLNU38SeKXDcPYPq38BdK2CQvlaBGpwPOr+u4N6Kr4BjZtk4LqAS3gEkcIosOsT8IiFjemAJksAknlZmZhMlMbLyJ9LqbUdfNlSwJtW8FjjBBdimGRR+4JBcYhg1UxkdW8kjBLFvEmTTGnIW+wvxs+ZSEr\/6WBGZ4nmf8f\/Q\/MHMbF3Cp1OXKae5fyQwf2x15EMOMfTLq0\/m8YkTUgOmJYr7pbyP83HNJQOxGZ5LlRW7oPFOhzE5Tskd73V2R46fSHzods\/oQpWHuQg3mm13ivOk\/SWZvzF3LgQyPalfugGnxLz+zcqgEcN0tD41mR7x5vU4z9j2a5THetEvB+UT+HNfUHuqEeeb3BobMJT4tyxhveK+WjS7pEqAtsKiTmmRu0GQ630xfgYFBK1PyvKPzU5\/AYrakC11\/U2Uequ3tuVV8LS5dzlRWFqDF2dzLhuT7tZLnrIP4q69+RbQVBAbSjKe\/LeeRGEn7JBLHn+e2WvBtVp3CJVYnw\/B3cTQDhk20KOzgMVImoUm9nQ\/9SL+LeC3qjX6c5NRGeOsvsWRjmQYESeJU6fRVvCjEkJh+Wqd80ZOBqmQZsUXzjmzlw850YStitGx5wBWFkW\/qol51HUxTKT6edFmUh4M2TO70GiHmT+xER4wlXzYsTDu9lpGPzLRiqjAtS7OB9oZ87ibNe8PG7bnq8fTguHNVz1qBaFYDWcaFQotpVIwOyWycFAcpSmf3qRGHeLajKvMX1pIDjKYkOpayesraStmiZ8X3Hg145ug+4CeQz5oePULRvyjBXgQmihFTcX951B8ZjZxZsQca\/FVOzogrTQUXiJd3dedmRlnhSlRfbf0VZzocajRaC9Nljx37a6YzHzprqBRwThQ\/GqKPJ6ErM4XetjlSq+N3BKx1QKDmFJ9B49AiAZ4I1P8MkKU\/4RBMifN22GGQyQKZYySDLap3S3LrSfKx8piWKcUcuEPLAG4O7E40dPRb1nd3KQ19OC264QVDaqcwGMGTtfaS6YajT2ieSQl3muXHDSH0C9PEu1k1tDE7wrqGHV5y9l4DvFVJFWKZo5+Axfc+8bk+Kr6ihCINvsbTttsPtW1oYrZYo1CfG7+\/mRQyNNT7CNZPRB0mXkvQJJNFoAGpTPa+3WqwwTIHigCAkucxXOoQbo1VhX+tct\/vOyumiv+KTfG7mmdCygHcXFuVxnD+opMwyugStIfp4XRVA11\/CUxU1Y2TOzaZp4z5PKjT\/mjNR0xFCkB66Ub7V6+CXCFlUJnYgmEU0Y0TAnaYlGdyN4FMFlUKA7Fx\/ig1x+s\/f+1i\/E2Cj+eW6+PrzTqeWHpvNP2wkt6dZfIzi6AFCQKYNHaA2ZXON\/mWd4XtN0lbUGZulMPOLZUWXGEzzMiPvlIFKbYRkbzwrXUiSkeLtT4keNc3TRkLDNDKvyr9A09\/AYC1fxf86lIfui6cJsMCMRx8MspCI6ICC3B5+WIx4I4amu2\/z6Z3Uz5+o\/Add4vk4UejKZzTjEycyGcmomYNV3hfnQJmcyepvMiEV+BjGSQMl4EahJDEHkYZE8OQDAfzhUGn9\/iYz70dFWK96bjMJhw4829\/xkr+YInkJWlMYpx1P35Mu8w2M2pIOc1j3P1J3vRbHkIcM+d\/lkd\/pL9s8nVH6O\/XmvKQiN7hQMJSQ7Hmk7wpBEKuGFsKx49rNHN6xFW+\/2bZJjSmkdB7DJNk0nGiiTHGUzhOZlTKy79Cuqikq7Mt05G69Fg26r+rwRb+6P4sqjqMSCEFifeQWmDqX5zUDxK\/sGO4xFibg6fSv6BPRVg4WVdHkrbpLxBDZBXJP13C5PR6M5Y62xdW2so\/3K19GYNYsGPS6YM+S1a801MslCi7x47v5\/aqR2qdjCvfTDlGuDv7PzaK3mwmMDG8u5UQNIbP0luo0YvFPWpJas4YDKYmwn94sAwTzx7fQSAWUXlXX7f7vxkg1ZbggpOCxH+n6TePjpmmg1lv+8HA4OUJYuCwmyc9h70fFTEPbKuRlwcjFu5YGUF0d5Po4F\/aquX9pKdX\/8zjQhJUDN2bnBWVKGwYc4rvec3Cr\/5Qbx1uaoWqel5tdexSxgK\/kfXMFNRvviz51xvQonTpSzGfV3uLz80pFi5CP0mMVcC2MN5oZjQ4jmLXeM\/2EWa3S29Ph5ngwziE6Iz+6SMBfhgmYuncum0Ikn+eaaxz+IrqMV7Mz5tXsPyFFWnU82FYDU7QIjI+WN6BHuncirWfJrYCq\/8vGyHUrvqfwzgK2G6xZmw2SXg4qxPclPCjGGQgF3UVnAXnpvAN2uqROj3iNrwvV53mPUkIrPXtpMOpNL0Xjj\/xfNa1uCDOz279WgYQf3eYzHanlhLiTiJ5N16DiuXCGnDIT\/817pChsPabjkQMNIKJyR5Jw87KQL0cxH\/VeWkCuaosgnsHu4QtTKYpfsTh1DpzM4xJXA3TOB1X5OEBYwGibNpsOWyE0ynoql4exNwfB+8IWniZN+R2m0b4lEIQaNHb3\/KUdk3RrL4Q6KthN1OEOZOfJRiENgU1pgt7aAFe0NEOXcgqLjNgh7J61vHdAQD2qe9johBNJNV0cI60OLblolQAc3K\/qiWAQcLEBcopuNCYQEkbtPbnQyHMdodf+1Bcbm7FdoaKOrqJQ7W6PIdwgNqbWl0ZasCPMbACphRMS2zgwVfP2Es+ZkyUev7eDSEsduB7s7TbWKLM4YOadzqfm9Y559\/EDDD+U\/xbZqqIPWP7vK8O7an922jswkL6mKW8SK47qcgFcYf66ZAsHiCcuc7VTh3\/J4nArujptmO2N8rq3kXNKbzLatlLEEMajTE2aZ6X7wQEeERdHJs8vwUrN58dGSnVtLpyoYN253\/0ZKd5DM2LywjXp3wedZ9G9FQybqKZ+e8yJNwnxDlXgASezWQnF6WZN7tANaKrSwoeRUFsP2TyBbRQ6K66\/NJvKq+pIzVvQlaLaI+s8InDyITR70H95KWZXCqEueClrUCLt4lKX7AH\/HrviMdgCNpMwQUnq0qXw141eG7v7ANdAr0L2JakYTpYjd85JBajFiW+PWOC+Am8IUwrnqxVGvedTVeOvkAzi+e8ydTkZP6EffDqmA4HTB8grLgp0Ued5J8hW0BsRq0e16Kjf1QmKIlao+zRpZpDbkaDDhir7\/2k9YVf\/X48iEaVQuknHS+0XOCqrrzR\/buNRdYBGnk4yPMUHoXyhjDzLebXbTytF7UDf5OmG\/8BOOZeuA6630aC68Bae6AV2oZlczUQbbUE9ew4tZnuytizewP3Cu2PIu0g\/phYE0Nk9iGwkE0ufxOj0\/aY967QrLyvDcruNUnPPcyZQg6uIdPc897tvge8jAUaRcwGoj+iRX2EpESbY7C4MrQb7tQcSUofecg7ymSoHCb4BOVTidNL9ot+eA9R2iWanss+qCQ8psvUSZyrNRhIi8PiCuSIYFzuyqYrMdtJBIiwGYwwjmesCKy6sAKOTXpH0r5jiiSW9y0\/IFA543lk\/fDYk02ijVXZADRAqFabudhGPG6IY6rfZzWkFPN2eOpJfaiWdvyojRtfuHBYBLY2pCjOu8iorE+A2c\/wJ6qpfieKn+i\/CzzGmuMdVQ1wV9tWEaQMydUoy0cU9VmUwXB+9qUhbe+KamIg6mgbsEKbwyHFTu719YcWrEzVdLF\/NzEcY05tbvb34nYbIuW6NEd\/ISmLImbYG6iBmt3XjkR6GgEEviAgOuoUt+H2uXAk0Pjq6CO0ydeBfEFvU\/9sKb5xCM4C52jDIXHYgL\/UbaL9Sy+G6iPvwSuJWqFDWyEWwXEMSiTdamIqwwpGFIy68XMnSjgtd8K+bsxVJqIeFM4to1VQ6AeAP5ujDfNYocJ4KgPDmt9hq7uTHJkImoEOp8\/IAKbP4rKmszryajurSfnw\/7b1bAhJOyhM2QxvOlcXdFSHzXEi+qb9HLgpLcY3t02SeggFHvHrPCi7Hfo15wXHNllZc35QrWeEWI5iD3+ZJbZhb5VOodOMqxbmM\/ew3VUgMT6PDrXNP\/CsRQiXxtvw5lGzY8HIttbUMA4qpYzPCTPTjlC7+qsRQ0upeapXrZ8EuSwWiIAkZ2KYJsYhiNcM+uAKq9q7HQir++KP+fb\/4hlVeQ6nemW\/zml7J0nGroJXcbfnWUDNqZaJPBsE152FcqgFBhQ+\/pLloP+qAMeDlNEIWmJ7nULnP7xa2pFdiUiY2iXzoA8niDA+\/MZFsSsCPPlDCPu0WPQOnIU0rTO2H2QXcObI\/KdBj8d9dRPbV8pY2haYCryiftlohkG9ymz4aIjDWCsmTMue89+Re85Hec\/XV7vI3IUN1wGcgVztlBNCamyw7Jw3mbZ8ffhYigLAtoMMvHpO6wWlbDhvXSv57u8dJm9pvnEqN6H7i6Ohdzr7Yl8yGkvjz\/gv4slDuSTyWFAath5O8u1sT4DXlv7KAcrkCArVXURXW5PtlN7mumUekHILrSwkjN55Gbulz5IJINuwPYJhJ1FpNvEC33H08Jkz0gtFfRZj8TZwUQLAJEpZF\/i94RddP5TcCiUOdyhR8y+RjGzXdyVosLZxsSc7z4euyf\/aC9Ca9cw\/n6sT\/XJ+WXk30fCeBi6AxD0\/D8Xr5ce0zkjKO948gDoMWLIjv0chcjjwxK7iMS3vozD9mnpW55rnp4fShkWXAKtq2+h2csGEBEDlB9EVglgE2kCP\/ml0imJDAO57ylxp1Zckn\/g5FQqaAwCDx2Ffz908+JH20YAZU+YMxmZMtFBhqY8qhd9958\/fUaz6AAJ5kGWOjaIsTW7\/bq0x7FMKHw5YZLpL7eSZPsOuD+qy7OTCZx2RVstKITgtL3\/NDeD3osrU9ak9lzwCTts\/jWm4JmwB8X6hM+QDj9nh4ugEfErCJ1IxOn2cWKHR7LDYANjntjSS81KCyOW3X1v+YxznAwlDDlIukhYhPjQckm2Ex97rWJNTy5id5KoWz+p6ZVkQazFqusK\/tyvuD8GVJmRyjMXKeiQRjR+JdLeAByRBGW34yrEchRWSANhP+Z2lajy2KjgM\/xr2WrGrcbRihTLk4BUxEfart0wV4BK1a+SqKR47Phd2u5O81V0yKuMHuGpp5RMUHB6Lo7iMSV9kPOwNG3LL+9uHjn\/kHM9gE2\/KhIKEiEgGW7d+LWOcrru+kLYV7WjOqZqr0WpUOzE4ab3lINIB2YbsrdWCxTyCzwfWeZlVZsR64A3uslBQQI\/beHSpT4qoGrdwXOnaDnK\/h2rODuJAF0spuwYfPhavOP445FYlG2y2yRLeT7mByWE0cOMOkoX5LF4xrzGNycXqbrVNKdVp3s3\/gkORVO0tAIJGuc6\/DA\/PDDhr2TvQr5OlF\/gRTZy\/LaZtE3ItZN3O8Jb9CaIepz5bQYVZdwKVveL\/ixaGAZg8PjjVa57nrfHOMbAbnZVwdItXh3cY+h\/thmI0vsqDjRge6o7LTbOAhL+S1EAfRSkjsh5\/5B8WYe3Uw1Lo0ggxHVoHU5v\/x5kR4ou1QQYF1SXo5Obkf3ZMrVdQYWIY1WzuZE1rM601dI62e0Eki0mymuP4wz6\/6rU4ogsNlERLGASobGN3MWsRJ5KW+5281om5Sv53ghCUgkCDVFpKAv0St8DrSszLtUG7X4dSEKhlXe5GDB874feEzD52Kg\/3LcmoKVF+nHnDF6DUUNmEqGqsX3xkSP0EwRFoxgs88DS85odI+i2GNwBb1QXJjSLWC6C3B\/Z0BOESYj041jSoPtEFof\/XbdXBziW0UCn4BqrNFkOdh2Qrssw83Ja1ENTXVJHxjTGo6hJSf3fJIykdyRfkd57RYX2iRt7Hazj\/5mwN2T+IhGvDlIVZ4Xltaug6+g\/BlbYyQLY5DgcLlxtGsuSR\/okt\/QpWcvRIxOMkXj4gPduMf+IzV2AvzxR2dqb\/d\/thsIcQE6qNGkbnk6Kjohz9ptaepQF9LXjuEcZMr1HxoZTJl\/ZoYfaaXY+BhiORXwdPCRb4txk6pyoheSqA0Vz0QgqFna6DsBjA9MKLCabYBRw6D1M8EgEWyJ4GLiz33woZk8q2biC\/nnYHA1ik0MuzyVi0xBFkfdT2LVcPZiyz8TSa+UNdJwW3jKE0ZEodjj6EAWfx5isBFKAgTCYnnYBA4+UBeqzWfSH9Gfz02GVPB94l1Ml+DkeJmN++Xn68nK6nFcLMZG4dRVplq0ZJo3FCQHEkr94z0irGp8sV6f6RFV5jtKLm8Ya8idBrAtaMJrN+XELjpo5ffbo+OgHRsBlA3zClbzFGR\/FuCuqOW+qYw44ItXv5yLsQ6ujMaM2HREMl7cnbIzKm7xU+OOlzHBdbS9633hptL3dPXG7eQdUBXoudhklkcwxeiXgqiKXpCnnl+IYOjkozLLlC8lID7yMpj0Hj\/aPiO7lsag89l5QbTP470KN1QOT25Eu8L8ED+6LO9ADjoaKjDiIOW7VZ\/DBhyQxO1g4TkdJKS+0zZCo\/ChXXm5K\/kEXgoFfXSFcSVwvkEXbnTXHTrM9P2tdjaJn3wWr05O3547zRyEGvvkfnt9YVlwBmjA5ppDK4MnEFCBBzIplGnP0MYkOEq9IxW+hoN7x2ZuQKua1g3\/MMxjnGUn2OjaxIvOHufJgp37fJ4sAvaGnTrYIbpgimaz1WHRaHlB6CYnaMoB6gP7\/7kNaEwnvvkKVrbn53lesDp5dqhzD3ldbRpiHY4\/IVDTnfcp8aOXH94RlLA9efaehQCMVUQj8SagEc4zwvDxo5daoOL9KwWTxulxG5rSGkKWqOjKsRdX6uigrtseWwv6It79zNcIiJy\/5CY6ZBkbe3lhWzbf8F0D1eY10MH1nsqsAwEkfzDJtDc8DcRnt8WSbjyqtaDA\/aH9z27ovQ9aGX2KvMn1CrpeY6W01aPI\/WrIeaFIjmAMsuIkvEi7bLeZJ4dssdS6q1eaep08txJYcPfoK4fjb7qf6O6W2YHz10ULIlF0fGUTlOyV04sMgD3f\/E\/n\/Osc4REqmWQQmUZA1MfwSG0YJ5xjPmaRGgoouA2oLQQhEkp75R5\/BjZAdR17KZ9yxWNIRexOuWdEXNFDDAfUARQ6Ql\/+pXVY1HJ\/y\/1y+QEqQ+qBczWl\/9OwSSD4m5apjv2bI7BoWMBSrEMRjv3Xp8CRYJgFpjX8TUce3C5JBIHcL0\/kB9MbnvdTs6aP\/11Q+rYejrPK4oWAHl8lOrr29tXJkk8C9PFuQlXUrjo+U+8iNW73cgT7QQlwqcLqJ9gH+9E6t\/r+rwuwyoKiQ2xPCf9YplzV3pF2dPy4flZzzjSqT8P+y2W\/H901B1QOCHl19JAc6gyzQPZEm50319iR4Mc18\/3TFn1jaM07V68kvx1HkIa01holS4Ex0jIrLNk4urje94hzRZwCgUEFYPtGr9jEwnIqjU59M5LuPOWneNbvbh5dK6PBtW0DOf6DH7J+2zrOjEkpyG+vlHzV79HqrkVDsfR9Y+ckUt7NEE7UKs404amKCDdL4FsK\/Laf06kwuUAyLBO4UhZEtNA1tRFkRW+4aYGyk4iZ8qVxyz8aIpxSAkGKRzcR8YojPyiR\/SqyKPvFMzPpCiZarwTiZRgNcOcBdQ+U0Jc4NC2gVT7eVKpM6qUhM39bdI\/MiAsYo6s4zQuV5vXiCVnUuQ3mGO\/G+gLjO0kSLZC\/I16LUIFD5ne1ucaS0+fw\/F9TzJB87XBgNvvGntshLKvuEhxyxscoHjw3UPoDu54cyMn2FdEb0cbZAHJdv0Rtgw3oPgPA\/0+4FJYTHLrvja\/R7GXW1ddUeWXD+agcv7EtyvKlm3iKVA643LwA5j54e+j3h41SiOaZh81EbKNk3cRM\/LJuyHYUnQG52K1O+uMVTFIaqGntlnreo\/fecz7xFZ5RbZfORvUwz6x6bNqQOeVGfo1upeBdtimTwp2T7RkkuL60OsJodQtyIsd3Hppxrnaz8wdduuJx8QovahBCnjKAR4Ch2Kg9SYDcdXgy0yiT\/iUQiyl4wP42qJm8LdDZQ44gtCMT\/imQAinT1KkHqpcZ9TEYgwHsbjgnysdS5O5RFVkJqyjxabqjAEKtLq2xEsqTjHsgj0jskiXbXUQFWjH3+d+hIPzplfVCg\/p03tS2ZjG8UWM4aWH9OJ6SaHTSeFZG\/wi2dnfymnBqvEQrI5fmIl0ngUSxjGjRrhbjGuPEXp5PsJiQkWVb7GN7nf79zvJGkkvu91pzw9MC6fLOaJ9Ocz62\/uhme\/Jhk7iQjwR4b4L32TGP9+VAOLZyyssiI5ddJF7wHUNHgHhHj1gEZfDqixQoWNrbqFq+WcP4Tz5agViNZMqbo2f0V6PloiIprW+M+gQJc7hiqyU3sGg4dqfPddjXAzxbXOTAAMUqLpt0XIEJymPuWOrYjN8bJDs1Hh5besvB+Qbb3N510IiP+ngaFM\/n6\/SlisdFSSe4rmrdX96zZZKLCm5YlQZ3d5wRIVsa9MGIvLV13jRwJ196y31mUWg4Nf0qCezTzUBGtAvx\/scjTcQDUi1ClJ\/hzA8g3yRJkTG4zkwdVJFYIFtKex4DeyzEWBeBFroDx\/XuldmZ2igUdrnkU2L1P3+wsK3QZSGVBaWOPOMSCv9Wj1RwE7fyqQLPWEmjGzVjkEPP2z+Y+XA7m6UiqxjL7B2wL7J74Sl9uEb5nQKgTHGwVJSdDyrf\/3y8ydml7CAmEX6FjqDp1zt+W2RoXDVi+zNPCacU2UqEpMXfQ2GwBlGwuUfPlckQKqq9C32YRNRTnHr5lT3jsVwkXjBA+bd66NUOfbthCX9E+\/EDvU1LAGKBCpKOOgHLBibLTXUOSh3CYq4SPBXw8i45O1LCAMr\/jnQpbnZRevCvZVmwvMCbG7\/Davmfq0vVTuB\/l5ii3eA0EvaosUJF9fO1Fr6GkgKrr6sL0qZT9HyNJqTR0pLswc+pylezZ0aBL\/oH7tggLcQbYzKWBNwmtL0lbl+aV2i+puc9kx3shtLb1svKaKX1kXhyZBV9RSsIO0pmpHgyA2vQ8qbM3xspYl6A2In1w3em2WdYpDKmNK+YirJX9mq7vD7QLgv3g+nm74DCz8Fp+a7Aqd9FffM2y2v0FvaGaTA3pH9Ev71rF55oU2uRuAjv5641MaJ1pZIdgCEv2TazYH\/ulkTKWqmZuhXp+PfatCZBPc1MSPnp9URJJLbFL4fYIwOVpTVrjkZ6TCEMfw1Qyo5EtxlynnozFYIePboYBE\/J8ArSlzyrGc+2GYyUowx6Qmj2ML93odAw9r+Q4jKSLjNHjqC9XKqCpmlfGT16ogH\/2pDdnb6dMbZKbPkAus6rwjxsGSrt07\/s03zl7VMNJKSw5eQsIST+5PNeT9TnEWEaVrQ2zSs+VX9jB1i4dTnxDEoArEx9MKXXuocfQJZ3ZZ5SxcRpqSaeYfdOdJC5zzI2JhUNYg2l1StVxo1HNv4nylq1OAa2He9M76n+LyDvUB\/UrqBGs\/8VI4pMFeXAEeS7H2KdF\/WdSj7Z\/BB7A32AvQDhnZ+PriWsS+lNzEZoldRc74DBcu+aSWvg6YYVfUFTEPERCKFaG7dJ6Sy+04PG3iyJmYaPoHid6d1q8ITHaz7RY2Au+iNDkpDN6C7zawHx3ohwjxUPA9h4nU5OOuv3RlVLGBKfT\/kvh6kBNn0NTeROjB+sKh6YwKhWsb4\/VEIAb3OnjT+loURCTDCEcKgCOsATgemV28sOD3Z4XX1F2Z+8aQz3SlzpXdR4uiA\/dv67pOhvYzFTFHWe4G48+YReEQgRO8yIVBgvVrkzjrLjq6W7yi+RQySWpDYuCycVBN2r1s6bqTRL+x9z7Ajhw18nYhHdIN1DeL7gBUs2Dc4EeQ6pHhtEoBp7EYuPH8rfQse9NSSVIXaKQm7CQ7CwMOmeiN1eT\/bJJLaHk4SVto7qebdQd\/rcxztul2GY8kNr11k6\/aQXoFscMg99TKoVnmHwUxE0HPvXv8Sxl6bY07ey4oy8aVmcs15Vk0huhv2BdQNQmI8d8HgoolQCwCA0YInJUjMiOFf8ccmfxa1h1rnWtYNwRNEpm2Sk8vxvAHLZhdO43O1GbJwlNsBFLt8YKu7+I0VbSAJBX9COVsCDjBOmkO5sf5PGB2rT1Stsny7Yw+YfsPnlySRvDO44wTkoxZV8Nvj6OWR3lioMCPXpYlNmB3HblDz5IwLes2oGEgp2cMh+tIBAGJLuBX0hEOFCn5BZPuM0svjW11vyuUkrRJHoxHcT7TjGeAM+sUqs77QSbc6pNi+5h\/GqW701AIU2O49\/Ref+pI1J7Q5SrCP4vAQo\/K3DdRC95RcXQKgTLIcQPypAOlpJSzHgqCSpVolFb\/a9\/5240kKI9wGJbkIjME9NGR27Gvt\/6ii19dqto4kXCh7BMW1vsNzGL8MI+JvpThJXm3p4efeB8vBeBMLOjfLQQNyTfzZFURp7Nmqyv0mGdXcEGVOT2NfcyK+OnuzXrsZF1phHeZSZ6ftlZBjUyoKy9o8jBbBQztrXou3ZSvpeQKE4xaOyzXOx8W5XCnNLbJaFSCRJ50u8inFyHCv4i3y9opDUvbaVzlb8TCZoUhH\/0ZOIFa9JG49VCYOOTBOUDmUhtKkDsLssn3GgM5nugojal4HrlBqCTT65rYgG1JRVN7a\/BNW4N+2V0WOumWCtXwadOncuUBr7oCGJt1GCfkdGJfbw6WVeiovH45s68zdnOutmm7EOgP+mScEuSE9aoCUFlz6FRhOjgRaJ\/Hi6j\/QqlmI8XL7D1ntHlQEeZOGk1Z\/iTD8J1Fxa1mLn4spr4Wz7Jo4xWoxQfp09i3fCvIEk4nnOT0geKkI9EfNbCl+Cxjd1buAEnY62fpoX488nOaKKRiGaTg7UvRPm52u1EjRGe6rf9+Ztm0SP5BgT\/zCryQLiQonT1Qmyqvunb4OyvIC2DbymZXYidG+jalelZ0g8v2G4eCulvajbgBD02QCMBiQ1Pe40OOvihI\/E6rlt8ndBTwlpxeM02aOSCpQnbW87k1pcA6AIPcSCAdME2oVuVkOuUk26yo3jogU1Bkt+Nantx8we2LDnlFwc6zj8AgFwEhLEwnO43prRK73ufv90Ot5BSeTA\/qB2sKnBIdzxzpsRW0lSyzakrJNu6qr9BXRzD623Y\/cnUfhvhSl8+LR5CPTjm8dzu8RiK96ZwUIEvdJh5mkRnZEAGDfcG4GMY3Wusoldprq8Np\/OF7dqLG0kkT1aCU04ABi6k50\/IlZgCFY\/ddp0E1rUr6WbS0g+fYs4Rs2BLJMbCZSbHXApjubPTEtfeDEXcIOu42nt\/BZzCCBK8H2qnN+zjpqZpK2\/g68GuOrANRvrGuulgAI8+PCas9nRbHuNAx93csDStQNpIz4\/iQlIX+TucIUvgrpo\/9e4yUNVBxPpxD3P8vWdAjEpG\/pj04UJ9uT6Pw31LdoXXn9fBowCcb8dEVAdzpiiFjbdp6XBfMXqDgruGroulWSt3bN7z2BjJYxkp73bkgSUPBTD+7rvRPPL5HFma7yUrrnC9lg9raKZ1Z1LixjiOwVkB2Fl83cvVargM5CJXGzq28gdUUY99DDI902k7JvCCJ0dSxZJ9p0gH4VKiOOLlUi+gvHdHI6bIODiQjP+cD5YbXZvz\/aO8ZR2xuatiTz7742VH8BCITafE++8BYdih4T+9bquyDaHOR3PY5Cw7O\/C5ZlA28O\/PfhQRaPGKlx7XB0jpQR7PaAq5hEFRqnTdDEh6eb9l2N07CifS2qm9cAeZTklPDvar\/MBI90tJOS0wBb2bbGRGOENO\/PG1z6g1zD6J3VIAYknkWACxTTBXAW5PhWED+CKiUz\/gTnXUQ70tpQpZclHPXJS\/Jhyi8IgGByxOUVTlRbd9\/DMNhlRnLwhqOW7p2nDixlJHk\/Jfb0ww9tBIQ3F2kIsv48QXizWdRJbRk6l6fNyYgM\/zsLBt7bZmnuK2LOhG3ZtnXHuOeYvzm\/A8mnU5ngBb071dZ20J2lG8vMagGybVr1IsSh4KRTZUF6Z3dT+SMznkP8c9WQWT2iRd61PBVVmnCc7NH9kDxKzaHagHp8jnSHXg9Dwx40CKe9b3Vcv5UT60gcpwR7Gy5IptLGuRwbV9aFDL\/1rV\/YxJgufkFsM6nKNsiQZZZZ\/4Z5NcC\/dtjHXJqOa6LsCN2RabU\/4n\/xkS67Ir\/jQxk7Nwe1CQzJkdKCcC5QnyPISn75yA+awap7ynndR1oEltnAfWIbX+VQb3KSjPdIk0++XLt5olx5BRFZ8DLW9x8ASSmqEqSvbfw\/Bckd+gjbivwBzAl1gn6Lo6EH9uvWUtotE7HLcKjWC8rkLawgozrNw\/xy5xiBWDkS+SM4THLRqpluFJnsic1qrqD8svW\/bzhyL6SwUm9Phe5wekioJlKsxr3e6XVuuRBSCT8adoqegLZrGE7vF+J9fDtTBT3XeOXBdfMdUgXCZD\/bmS23XwsCi3iyU9AGMYcrqJvMKeDBRKCL9hHtimcDIRjlWwFFkOSSnk+to94yvW7VPUx+Y7hiFJmrXTxVRNeMEFuRmdKOLeZIYCkQpxYUryI9GjHml4NnBiFWn1NX0QsBwXd3oTO2xEBLxLihxqTplVlXgacUfgPRxVptHSiW+IGb5CjGG\/HDVzxqP4Z10Lfekvs0ton9huRe0urUQTYxoaV79QE7gfeLZmyMSL6mPJT58HZUXN\/nASxMmcpf1x3bXgcTLs1INECPrlCNqjJNSNStX\/2N3jwxn5OBh1Mxmet5Z7ICfpkFwy6Y3Q6AcL3uWCcf0zVqNFa5wlRz8eoe2UmMnmMjPodPWd8EMjy75ytWBncjDVvBxfqdrYgVxD8gSsy\/QbaTd5UzKZ3jqUbmlN3Ju0JLy1YsQwVVofnC21teaJPMQoAl34QFakyDM\/MSF+6Pet8wGisu8A54+tR30OXHhtfd4InK8qSSyNH433guFWMZp51S+DH+V799thmEwinf5Iu5WJ\/5KQ\/x5Tj\/KNyFoRHBAc6+fxx3rjMmOTOOJbf76NBAQtTdEPGhzdPoum0kPIXz6kfG5+6UI+msYjnWANxpzbZm13w2BuS4yfnEGN808f9NXyaWSPmhCagjE2mc5Pgo1KMAOIuS5\/uwJMj\/Lq+yQXE5HjVlml+hpzORfmX7Tu+o5iv+Pb8D0AQ\/GvPqs24LFVHrJNmr9RmRH33fE8NMHqoJpGyntnl0h9t54boBoGHiUCFfWkSwMWCeOQT2VRFzuCXqMg9vWIQgZycxwJCMdqpZNJRKI0alv0qPRfKBR2cReNmTI+nNHw7hvQMO+ZNFAFjS3YBcqC2\/sk4vc8131Y1ItPgyTjagKnVctsH\/Dm7B05laSeD9s8JwrunLWKydvWAFXMD1Cq2L6NuixCnoyZfh+Lxgp8EUaV5DYvd3XTj4xp4lGO3xkINn3qg7owokjTLJyTlpGHVzuMhEkf3+hSm3+tNSpWmXkaIrAgE0+jvltNuKqTnfPJLbcL0A8hFXQwds1Bfluf7Yj5IPm7q6s4Vbkvv07mg28x3K7LGlDcg8fMh4Z+EH2RWwwBpBElgik17yT+JVnufdMaeB0xGh\/GTxoXIasoTtlB2KwUtLZvSraFA7tdKYeUi6F1M\/oIFQMK4LZfjIR3BcEjhHFNJDPK+1S\/woNYqgFXZ7X9uAlBE2dMSM\/u0JiZInple9x0OXTXSJT6sNfl2zYQhST9NPlOxwKI\/gKunZt5f0OYENSl2SQBULLACIXzRFfgLoHX6irhb+nOkvA9mEvBIEDcgOGkUtSVcguZW2tsemQW7x28fBM6f02vIQOFOVONYUDZ7JQfGQOOxdJCFDrCwpbdDJZRfS02myGobrgILzd9dMN0QbZVYrI7S5hV8hY\/x5+wZK1LLvp09VVcRDMf62X+g927JrbbkGS1tczm2\/5lljSo\/OBvOacYKp1Z6ZDLcWoyVPsM3frveb8stbBqMsySAyJrtdaXix9BMohGZkfOBhIQdJiFWolUFe0Gy9m4lw20VJrarmVho4IlhOnb0t59ZSL\/Xz43Hs\/HtmzAjIHMNQjEQzGnHkHMfoH2GLrJt65IlV7isVRNSA0sRLA5vi3NR9BLGWGYlbT1Yrj7LeoaDuzIun0w0JgOahro20tP+SrmaySt4feHwLuG1o2yiLawq4WEfMLZ4lNAapqu48DwxOgIB7m7jH2jWuvt787wehIVQdN9QWlAFEflLympn+vdv19xkqeLnurt6W8ResCO2QJTrr41Qe9nPf7\/0GChzp8XaI8t6oGk0z+bgJacBotHmS2FPB5y4DKUZr\/EBI6q9f59W2F0tPL8gSzW01HK8KGnWQzI1yvRv1G5U1mAhHbg3STdPdkkH75VVpf6SPvgBVcQ0tHv8zPbCUqz6G3pG5qB4u1m0+mufx2rxWFR5xxylpyklSAQSdh4dpe2W1vpP2\/z4byKYZAFeFuI\/vU3TkJAl3skUrf3PZg+XDFKmmDPcDxoXOdOdc2sI6ykl4G\/pboM2Z3mF4b9+MTCrO8W5YdLFmG0GwxaPifUf7LEh8jklFvk4KM48DT0jHkQRDMfoZrE8Tq1NnE1WNSWoRqA\/d9LEwPiUdXapym2Je0oie5i2pAR47RPi1WI33ddHwRii2FIr6gabpWsKAOr+AwxB58vTrsTbTNoKu\/gUv24IHMyvsK8dsyp+Y9qSB8dmXNeb8FxLWPEalJ+FShxb+bEjBfZRQz846iJlC5B8ZnTOPlFZX0zCcsdXHBn6AQKngOz\/LrNRTd3vYwy9zz6h9L9xu4ES79SzMnu8FvmCIH+tG2NGSeGsQcxL7De\/K7sIld+v7XWHddpmR5COPUdZ14Dc5e3+fQrK7Y6ssTIk7ih8w4AZtODfNIUiXdIJJuREpK+v1SS++0nCRzyvSap3uxnQg\/d6etVzUADf2y8bQKU0N9k4EPHtIzqbdsE\/51dEvrgn0ynYcE+ki2orVjWc3A0TSAH5pnpKVf9wbvNJipyVLy3F10O6trVTwc8VIdTjS6q7Ie+x3w11aHpqA+zwJGEAsg\/hfuymazV+k2JpSoVN1Gh+vKuBPiC\/dDMRnDS\/\/AeRbUoshfU821i4ulviKOGi2K6ybWV5vNDDTsnZHVpC5lrUmoBq84bObdyWt5Qqsxl893TbrXldr\/aN0\/7fUlDJsTh61id+A4vjOxAvkMiv3p8g+KOwZZaIeYDv3wZykInNTvSxkceC1tlXAVqUA3FjVkLTvmpHmG\/OmbIJowY0+wZypvKorJp3sdThFSwmu8scUEE7hVb7ysE7x+OsRW5oQdwY54SRGA3kchqGfml4i0FhBZ228mCStnwyfpXZ9YuNTjyuSNrw7xQP75UGMwf2p4g1Jmlumv+MxZQe2br8z7fqncsmCNrU4FS3gaVcyf6dKnuY8PSTsyonYx8UOFChvd8HhZJk8tq4Q8gF+FVujNbEZwyDlIFJUawHT\/chbKBehU0lsMlV1+pzRoQ6nAN9NAFm\/tVXYWm5R\/m\/7FnbxqUI05PLSw8xqH42ipW+uhPJ5wmIVuUddFg8YiMqPRQK8HECIdPVydYY3qITDNhL7ojerYv0j9JKt3Dz1k0pIt68OPKCeqHtHjCALghoAtOTX0AY6QrS8wvjjrG8TwtKTITtaWXqHoFMfXSwGtXnqheTVHcnZbSNUKbG4ZaSs59aT4Jb\/4gztR36x5Xke0BMfAIz3gqXLRHUQzsI2mh\/aQMW0F\/6ypiZTY1ZS52dquF8M0nYtfO6aV1kLBQMk1IcWLR4qzo0s2eDDr2jdiScE4i23gA1yM5k\/4UP11r4Vv68rn3eKTbCpuCLjCAYbgqu3ZyZf7wcKKLkuTLLxY9\/ahe05a24G5ZoDJl4NiuTaq8sKwiyIt3oZL7mjoWU\/EJ9ZIHofon\/kZ9bGzM8rY+kufC7hG8qw\/cGJ5+31Sfi9UvG0Ls+2aXJ9iiAT22QYN2BovmLVvlEKUbiEkDVDwOJ3I63JgxnhGKnzxCaSx5lYMljKvzyC5G92YEtkjCLtkotJ1IFrfSh3duHb78NzalyRbpMV24CsDQl8xMVx7T6ME+Y8KuUKQ5fhjkFtqv3cEA\/OJvmbUc9HDpJLKup6L88k1IV1S5m4yEKEv073VWskoOP\/ylIZ9sE2JeVICazy5GnrG2o75f8kqAI1ZB14vm0l\/q9uW7G9C2uk+Wol9D7+RrQDHWjeo\/L621zIf8soE+\/P4KqTOycm7d8DR+DWTBYpVsienDgLs8LVQY8V531K88pritbgdiwo9x8kSo5gysU++kend3Xsk1Fq12Lbl5KfXHVGvkp3zP5ZB8AJoYPmP4Jy+7M1oFsuxiJ3LdcSGELSc1+5JwAhO6Yp9seXb2F5nSpJIkPVVJGfy6l3gxY0Uo75sesw1THheJ96xrwx1Cxym8JqX3ngOKheIKGhHDpw9T8e1svkhA0Rl0hyYsAJDYdIOHtF5FbwGZH5tFL\/s0lArrx5bAXKdCCJcxEHTBOG9pFnFqbC+mRRDPa08xAL3p3tH1q2Pa4d9jVzG9pXEhfnfK\/aRC6QDMMi9PqHgaQS8qIT\/Yq0c6FOyyG9e4QTDeBfTJ+1DdGoTmkyFwSsGZgZxNwiP5JVgVPx7EJgKoExHYX3ZOe0J0wBumjse3Na2ZD2oD3ZNea2CQ1xGqQq2PkTaz3nv1nFZfKIKDj6ZrnvBJSlRxZLVuHr8i\/Bwp+3tkSKwTalaSYInmHEh0D7vO+l0oZIucqC4HyQYmh7rfCYEl\/ySaCAgJCpEJBIWUKYUIx2r79H+cul8PizPih1ECIAx0u\/h41EJVxbe4DQA8ES\/wcpYR4q7YqeqSL2XrCDub+vFYBYp6ZXItr1Gep6ehrZYs5m8LFEAl0dsGV2R7KdEWIG+Esf8rqb8VhPa2ULe27H5jNI5enkrtZyTkBvJd452rXgnl+EHq0ubdqj2zQs607mouPcdgnHyfmMCG4aHofCGzyl7mPzJ2kEsnSQKCdXfselloL0pkSPzuaIe87PfgSbM5FuEgg3y\/YPdjIG4he+m4gUWJoaxqaGVcsSITxhCOi4uroEZ8jKw1krUXG1Z3RBMPOtV4GfzzMr0jOp6KYL4VOPTV4\/513AMJQMqhETTtgPo8FyveWM03JcAA9B3LTuuKq1TWsztFIgDpu57M07usU3LWUkerbkp1QWSHUrvfnt1reYwqWhjut1neSZI3QC9ggtG1YHIIrxn7a70ITg68Iwra90MGcwq2rQLm2j1auWmRGyROF26hAjldEl9mXy1A+yhTBDCbaTXOhxWbBgJ7zxvuhO\/VVukcJT\/gJT1dZ\/\/OU+jsU93KvOINUw\/Id1k2wBlrsOH4bLFcYRV2unNaxCKtQC+uPC\/6n50XJJHzqubnpsl4KCVoA8AyimPNx115c72lNPw1b1PfwFMFxasFEVLWpXMZPbJ3ULgVB53brxegLsauMp98aKzF8PR4PRgLts0VDg5ZmPDlOzKW\/M15mKvVwX0w9j08cWar762ZA9VuKvFybwh2GqjueRbMRYr8j1WkebkUDDSRI7SPzUY96SAJa80mLPYVSqC7HL5\/htsYTna4GZlLjvQLDko0JlvJDDItmVtwNS4+HE9papUMLmqUZU5x6DoHjo7AqeZsyYl8iwN3i4FjDY8aiLwtWJoqNj0hkMkYV5dPCnD\/1CyIVjVLtqHGGxZ7TamLo+uMKglVDWD6H\/ZAOukozybtPbAhhozmFks8DKL37SZQPYYAUct0DChUNo3I0wEBhynU5+PRM5Vtzl4K1Vqkqji0hlsEsRnSGthUnkeHGOkqR88bJpHiqEq\/AX\/71ZT1yD9odn\/lz1zgUOqpXHTjWhsLqJq+355c5LCYUL+cBuZWsYuY9dMCn1vm7I2n7SugN1H5y+9r9wqdh2\/JtImVXaLaRlNGpMnoKryoUH8m3fMWpehl4kc6Y9f8f21KiL0\/DM5NXzW4GaxICBd33G+xWVhSjCkuSsKzUhm6l0MB9iQ0cVznAIolN+FAyxJLyL7YSdZc+17pwgei1GB9mwD7GesHPKvOw3DQMZVofbFLHhKqIMVMC0CX+XhJyghrFQ0unCgvvyal\/rLh4+zR\/tB5FkD9tyS9CuYITGMDAz+\/4eyF7U6bZwyHSTYKWw3My+Z+HSKaDL\/0bVAmOasp98ORvkYkikwiKVn0BddsZmEnDMjAMpdcPvN+DYlGW3EQCRZU5Q2\/o7Tu1ssSWTEUlXCXg6hjdw1Bf7xIkCYjhwZVm7A9Xc3B17r+z2OwKlTEiHG\/CO0sCPFOt5\/Edpl\/tifeFH4+G+tp1CNNfBb7VZ9dWkZNqgoLXU8w3OuliY+rUpxjNydl\/yJUrZgfNI8C2JgXRpBzjXeYP8lm9HuvuTwzecL\/ZRXbLsuujeTnMvCpmuj2socQeOKqm2YyX5E1BU3OoMw5X\/u7rYvUE7Oz3kfV6vG5LttWBzWokQ8cK4vLDrYexcUI7WprU+60a5LJedNMvuLOWYUn7KwTbr5gtksXcIYDAitBPRWZ2fHmsmAdWd\/7m4gL81ny5\/PICFvWV8rk3el+21gfHnn8aJBD4DmBNsVHNWZhGUId0\/pWmorfJs48m8udB8lXijeesvanmLl7H77RZIm5Fz96Z0qBHgPScXmvQgC3avsS50ef3wm9TA7+xItorZ8XaNZIDyNUJuQ68tpXQrC6SxO5Y6KHnxFcmCKpoK2KvkyrD+PSQ50DLtN4+A66fwPMhR6IRD1MiFzUdYAHL1L\/g2Efn17PqO1Cw6I+hKx\/TYjsYZBg3+U5wOgKhG660YJuBvClKSyo8Wqc9x3udWUtCnvGe5mz3oDnRkPaQd2V59d9IfgL\/uNVxRh9pbLXCAokmbzDpmLuV9quW\/NNPbzh+9\/pL4ujSOqHrhyBa6N0bh9UcQM+MUh0FZxc\/HbqEf2gEbRgQJ0XcfCBpqYWTINWdsjeHa1tkhCkMtXI6kO7s4g2bUd\/4PJZK0mW05+bFHs7g7geDpbcPrbnRR6WdqhsYJPWFqLCJkziVnwWbHNuOuP84EjyllpDS8eYtZeT5FdwdQVvRxCcwV9m\/vMxAbhpN6R\/dzPEHGiIPdiN5zk7n2Pp8mcjURPQBwYGZRef8I+D78LCCcbgnlytnMli5csOTgkzRE9nrfvMkKHT4+cRWRD2p0ni8dQgVrfkt0EUbP11y0XkvEmKPVbE9wT3NvVmR3oyAdAcKU+K9cexGN6mBA4pLH6PgzUvFsgBE7fFUJZqp81h4ZbekONT+d1b24J3RV3IAkudUzwYdV3XLGrXq8PQmuAN18apl\/sVi6USkMNqLKlgjVleFlwdd1kKuDykPjMSc889wDSoTZj1x7U8+Ovw19ASDcRNVxfD5gvY7Oo7vHyHNCEAJzqBQ2vzCxUyZrbcFvfsZBlDyI3wJcrtao0dxN9jJNyLTdoJyNtGSGzmjpTOFxuhdG\/KQYugo8fNiXC3MHw6E\/WN+DH4vK7mazYyoBsAQfXkX0rfmA\/iGp5B9jf8MEGi96OYWDtLqvjZN4J4CHQ9gCBXWniCpDDRuHofBMoD\/zeUQ7qQfobWhfrH4GDs7jhULNzBG3xfu9YMfNpzUwG2St87HwUQxIYMy9HqUOmjXQ5XC+nN5IOyIztI7fx\/OUp1ICdNyEQM4QeT0pExfvIBVGIjzjyQH2c7k4zZZR1e9VOEb2LpoJHyBk4BhtObMhNLIIi4upYJApnOevI7NeCmfA44Y26PPO3KHSE8H91rkESFUXmDKNYLPLROfzTuiPsYCgzDRfgqBClwRAtaw7srO3douKo6wc51FY88xrTN76m2sueqi+o0OqzGYPcZpJpzbCaZLma93iCGqdY+YSUgLDE1YKCj5RdxXgOeL6UTkpk56ZI0taou+YAEaCD\/8GnAveztcoGh6xsdzOe0v2U2qwMDrLh5T0uZL4pevbvaPSss+9fJzPrcD8jo0oJplJgVH2s9ndBRxvR4Jqf1JMKY3CxNF2dwDQ7cwPqKZwk2ZWsMyn8z\/g+P8f+2K\/IgaWrzTEW7WIp+T0SUzf0E6e5Bd0WanQZEMFeAbYslLaXQDEH1ueUWRaHipeUO5lSClyv1q+\/lwMF4PpaDb0hIacZAyXLoYOFYIdVcqzgWR\/XpgV2Er8GvqQY1QbpnohavEEYudCZ2AbJjNfn+7mJ0t+6NrMGH0I47Xp+4fKSsqpxdAhFDdM1vvjjlbg8UZEntbMvOjBT+3am5hUaf0N6abf4dvYb60muSLpzoCfNlfVVD1OdiB+b545R0DG8Z0EeKP6uCh1Ijh0hPYGZGsmc90OgKqjlJkTe9VOeHnvQZZXiXQoGlZpbpQx+zyYBJTWqCKJIGyWvM3UKX9rTIwBOACrCjmdgYW54cJsJuNgs5rrbGb5v99URi3\/ZRu7AlswHuPs1YLVA0yVzZc\/2CMb3xo2INrsbiyesaZbQ+jLMxFhIxb6GtbMVhVqmFljl1x8QHrm2JOBPfWbVmE8DAyw5rrTur7uIpvSi5U+tFRPRfAANeBdeZX3ph2v\/LnuMmTKXny8WMW2UFnaZaBVxa+Rhs760rhrsG0KB9J+SU2T4AMoZw0MeX4wbpO3VtP09vkH94D5I7BxLtubM71Lwgw+ncqOLtYUZq5uJhHPdUDVUJAXuC6ltMhhi\/1VBi0PozLMAbpx47\/xELHshlFrEDHGIHTpzIObzb20Wx1VuArQtKOGsupxp5zZtOEqN3J71eMgIfq4b31bDylg65xH4UsmUELctYGPYo+ru2+7bL8cnalEo1GbUrd9SxpCWACtgxS6mc8zbuGFfhYU\/WGTLuAmi34oslqmKmfgQa\/qG4yD7DQtU8nOSV1xNiT+os\/W\/0\/NYDws7jzMW2VVqgWJh+ksujuyKJUo2DrQ1G+6zkT6SsPsDFc4R\/hICd2v1Y4zgYg2nSSNloFwRtryoL2Gb7ljPnwoWf9NbN1QLfpa4+qPwHVv1\/7I0roStTyvJdLCm781Z+D5uMCTDbvchc2NEmvl8Whd7eTgohxBEu6u5j8Wh7AxrWyvcQFLqnEWio6ZlNwTyKRTzRChlFBKZrCMLnWVOzABB1powZq4lsU5XS3XYmvvo+OpE6pSnDN+J9MQUIgjnvWXupD9PWAnCyR3v\/D8wsUpeQK9dhUuquppbHSZ2d5bCCjOPBJ7s+ePP4EnA032FT6Yn4lTVuN4Cwy9AXfDsaqBHsMSMKlicm0rwKY73ALql2JRMITlN\/CRQ1sId+AEvNv1AuLCbi8j9HT87iOukLK12N7Y1z3tKJBZeaRGcUxRsCAgfihz4qp\/0Rs8dLYrqdadXjtkJTWJKSSxOXV2z4ZXL3akIr\/SDYIndAzi\/2EXyo6bBfMrrHsXddp12vS2MqS31\/zTUexl31SYEIQcWFiQSpGVJZd+E2oIimgiQOClUOCZb5I8LV\/AJeIdbdeUIvneQz72fOXa09ysCPDrC1yIi43Cer35BKtixuwiZAp1gzvPnKNDpYHXi+3+p90Kf6JAXgo9W2bK436E5THyQfQj8e8OY0v+eIrzpD37NtJaiNGuQiyft0R1yit9+q5QEmEqRTHcMk9liwCdVKYG3W\/FW9HOWq4DFCb7GhVD0EClBuUTTVULxcDJOksIr9HgExUDmBDFU2fyR4GHejdV8XX7+pKcjkwoiAg9iyOnxiI\/rOCHatGbjdSQhCE8gdYewkUY\/9UpohHuneMaslAFNk3Addk7fvS4cLbBSFiNfz0e+VcudyFe+FhI\/Ow+NA5OcZn3Z2XSuB5pOk45moDShzex49XWTc8BDdMYUk4VdEAsZBoaQgeRBbglXqg2Gfr5avGTpHPGziJMBHndinYA5USL6ap4hJxO\/4flVILlrZoswU9EuOBMGvr83NVv\/gr60woR6B\/MCvVoAoi0Wt5HVNXUTZOT8axrVK5g6VEbWrO0io5Wgmpqi07521jy\/HSVqsuLgbYLuTs8BtKCPRutb1P9PMcPzlJ0JBJxdhniGyI+gC1yYv\/lYBFMEApRp0CXEYnMypUfneNoP8oWMGltxYP9y4dkbknPKJl\/ZOpVKjMLTXeZ+JYq9Z7piTqC6av\/HNyREirRDg3N2Hp7QNB1LpbFXpqEJNWaHP84wT3tkUiBJc\/eosAdvZG6XIdutGtcjXmXkXr+XZaE9P6e4RpGE58oQ984ZisvdP+\/X0\/v37JXxLJ9rD7KnJqWqqNjREwwxAZG8F6Ynu9hPUCKCIivs+yAMRCj9mH\/fBompIzN\/mHhoMU\/+ZucsXbkDlSqFZCAHxFbfUVJoij9uZiLjsRcsqhCadQ5m\/0v1G2els0R1TYzKH2V10vtDcnH5jvARgVjrxQLlSoqq0htQHOVwEz1sjtMWAM7iU2N+JcVzSK3U8DKoBxMQqFJi+N9jwk+ubnoh57wrsoUOAKDAdsE+9dCtuXyasFn2yZIT2\/gX+sxJ1Dd\/w1UdD7nPki9WnU8YV9rmdImANr9IzTtnynmoQ+5CGIbRAGV7AAbD+TOnk9pj3BLaIFlXybjaat4pIzNDgooeNGNho+KDU0rtfy60SsE1p9SgxJd45SQa78KZZ3WXElsfKBACz08UrvvuOr3r+8+U5wAHLqZl1+++N0y+xLBjJlw8kHU83J0RuzjKLHkhjekTn21JRPm\/hk6YXzW+he45vPy02KLXZ7UmcEiqYXVEfxnoUNkfvwkCiL0AjuE4shY11QLD\/n6gYnwOgXajK62qmrQkHex3pFSBqB3BMZMmt2IaQzfrFtOspSN9xb0eEO8xwYt82clGtKZRqPMY8W1sScJGxhfF0MWkYRbfRdvNlfi47J8URRp6AHw9wDyytGxsNBNPi6OY2Mls2csoi340h8KlHRwS+jxvWfPDnPgM14U0ah+dFA4mHwhj8dbiEVHtBDIQqGTGZTHTO1YdBa3hIKbRszIu3ZfAMW1A5KIyEEtxPIjNUhAPDe16FiI+k4G8TEnk0LhKuNcsW8ccKjVR8t6zfCpRTFqpEmocebLOjo\/yel22U7sheUlA4FCGas7lX8N89MQjyGNT6cyvPSMm\/Zn5zqxNtrgmSVeyrN5YAsey7JFLsaOlILTjyHQbwIc30ZP8PEy5sCnUC6TP0SyiJllb\/icFLLCRkllnF\/mpeiPgk6ne2xdFEpSEx9cNGWGE\/SLS6Vr9qrljNJ9RKFtiPsgrlMxftnWu4MGOZxkytwtLmc7MhqDqXJXeRiWNaf3M9L5sq8Ifw71MTjzC96IRG7Q5Eyxd+MC9W4Q0Av1B28pbt0kJUD3aOScRafv26h3nuQv8wbX7SbNXiFTNyGXgMxW74gohc66h28xTs2C\/e0Vk2es4SiToYIsocIvhRTN3Lo\/\/Ptpukc4DrkaDIX53VDEXFA8lZ0DNhWSsHGKetaiPG9kX9OZJkHgDXYDGXnK2jTRdPTb\/ZASFZldsQMG9pqGHxKylV\/Q2XSZ9LQLRG\/ZYImFuv45jsvOnUj0LwY6hPd5JItmun8QgrazBOYuDPnfzZUY2xE9O1xy3MJC8FRF4xwMScgKHsFdw2qkbSsEQyXGN1XmEAomgTD7IMpM+y\/YJRDKbF5uMPSNyQ8C1vYvqSuNVKu6yN+vDwFy\/jWWUcruARkaGFnM6yQ4ntbyfgTCjRboBkHu4CwR1L2g+qguz6\/k12zziIRTimmsS3aHb6YkSlUw1ntoGq2NFP41O1syPfZgk7OCAia\/Uq8vGhiHe\/XzOKIuC9KUvyUf4n0wVw\/ApTfjho3KmWQ3pEdt2J\/\/j3O0ystaFvoyDEB\/pWcOP2KontYlH+LFxK7hEq2jhCkS\/YqxlGUcQ5309y7Pd2iGurFufWaWaCyPyWVCh1c+abOO+wn40+nVms6TEGMOfk7LqFY2AxONapxeNbdjJN\/v6L0CQMTQ52+1cwaKVaiWguhesEj\/DEfgrQmuD8qtAQtVj1KAl+2QS+EURlZDR7VEnIJyknD2zlmmfnzMWJc\/zg1vay7WTQrTL8IJdE8CR22PT1N4FLqtca+s8+NSdEt+SetrF8v2coddONCvwGqXRHa1IBrAiKJWQSUPB6QX44sNxk\/tRURkuLzOOBsvNGMNLpByGHgPeBq5U3YluBIYyzn5k+ZunrASAp\/1mUE4JbHReMEnceXZv6kVAGpIxb5HCOhnQrzNIs9ecKXVUKXF7vyC3WYnn3q1uxBnNrb7THstQ6YvLv4SGi53A1GjCyLd23glDpERIlE8j0bnuFFlVSJiucxMvkZbwtf+oVTWPW0D+ASOZzbY5dao\/2vSBeFxkbt+CAIHoi\/8NNIqyPZhjmgZH9ZdbKnTM5zbxIVYH6kHbeyG0KSSbMKVckn2lCOGeBeAalvLMkVLprBu9STjex08\/gLEgiJAZO6RVKPVcbd3SuKtI0+GymuUlSm0Z6+T+zcYRzjROoYY77jhk8n7LJ2NPAUxnqRa5lR0ZVpAWZO33r+2ejIN4hE0o8EkDhzsCh5GhLNQneNhY0zgtHurROlmD\/VjYnPeFiCuZq1lBLhLH66qqAhEwzlU\/OtZx7GHfehxDfM++4X8aqNzMx+N5vjJybbECM02auOAWiA9THwSdckDXbsAPK\/ImiF1L94iBFEZ6tsJ1Zh8aupGjr7+AczPSZla37D4w5tcUKMAdo2kL5RZUZMAGBbuX1ckbb+FRxdaWPr8Ie83uyPkm0FImpAkejZDnrLxZNSn13tEAsRsnvBbZEqKaJZcj6vVthC0Glbk31SK8gV\/89cwFUA9iCT6Fqf2IluWqijU0QUYvDgiIefMCLiSLgVltY1\/86wl7jjHr9a7y53whVKhVKCRVoxJUDTK4Zcjb4yngQqGImivw2847Agf4GPc4BlWv7s5Noiiemd\/MLhFYmFtBVXMZY5G\/ZGIaEW48ZpCqy7jEfiQCthTxmqOgAvzcxp+KXtK\/k9AwVrQ3Ub2hkQb38nfwx8NxNjt0T4Rq3Rdyp3Agpfht5CN\/BSQTEJSoSBv9OCr1G4vKLGcgj0mMxdOzWwPJHbEYdHiXZ6ha6E8kx2vHm7c"
+    "version": "1.0",
+    "sourceName": "Lazyshop",
+    "sourceAuthor": "Lazyshop",
+    "sourceLinkTitle": "TELEGRAM",
+    "sourceLinkUrl": "https://t.me/lazyshop_leak",
+    "sourceImage": "https://lazyshop.app/assets/top_logo.jpg",
+    "sourceDescription": "hacked by @retr0dev https://t.me/lazyshop_leak",
+    "appCategories": [
+        "Базовый набор",
+        "Оптимальный набор",
+        "Большой каталог",
+        "Jailbreak утилиты"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "VK Dream",
+            "appVersion": "2.15.3 | 15.3 MB |",
+            "appImage": "https://lazyshop.app/icons/9wkvekzxlq.png",
+            "appPackage": "https://www.dropbox.com/s/td06z8frbst9lyd/VK%20Dream.ipa?dl=1",
+            "appDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "LazyVK",
+            "appVersion": "7.35 + 2.4 | 126 MB |",
+            "appImage": "https://lazyshop.app/icons/7y289q9rjv.png",
+            "appPackage": "https://www.dropbox.com/s/7tubm8e7kg3l1wl/LazyVK.ipa?dl=1",
+            "appDescription": "Чертовски крутой твик, написанный с нуля, чтобы заменить собой умерший VKAgain, принести новые крутые возможности и выкинуть все странные и ненужные нагромождения."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "AdGuard Pro",
+            "appVersion": "4.4.0 | 58.8 MB |",
+            "appImage": "https://lazyshop.app/icons/18wrcd1qxe.png",
+            "appPackage": "https://www.dropbox.com/s/bve7taglfvi01nx/AdGuard%20Pro.ipa?dl=1",
+            "appDescription": "Впервые вне App Store! Cамый эффективный блокировщик рекламы для Safari, антитрекер, персональные фильтры, защита при помощи DNS-серверов, уменьшение потребления трафика, и многое другое."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "AdGuard VPN (Unlimited)",
+            "appVersion": "2.0.3 | 74.5 MB |",
+            "appImage": "https://lazyshop.app/icons/v04aru6wqb.png",
+            "appPackage": "https://www.dropbox.com/s/4vmf2kpka1mrzpc/AdGuard%20VPN.ipa?dl=1",
+            "appDescription": "С AdGuard VPN перед вами откроются безграничные возможности, а ваши личные данные будут под надёжной защитой. AdGuard VPN скрывает ваш реальный IP-адрес и местоположение и даёт вам возможность оставаться анонимным в интернете.\n❗️Просто откройте/разверните приложение, чтобы автоматически получить следующие 3 ГБ на максимальной скорости."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Inshot (Pro)",
+            "appVersion": "1.62.1 | 89.8 MB |",
+            "appImage": "https://lazyshop.app/icons/jo98qjc5eu.png",
+            "appPackage": "https://www.dropbox.com/s/6gmk7nxnps46pj5/InShotPRO.ipa?dl=1",
+            "appDescription": "Огромное количество функций, приятный интерфейс у удобство в использовании, превратите редакцию фото и видео в удовольствие!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "NeuralCam",
+            "appVersion": "5.0.5 | 30.5 MB |",
+            "appImage": "https://lazyshop.app/icons/eu36h3bryv.png",
+            "appPackage": "https://www.dropbox.com/s/huc9vldzubcqp3z/Neuralcam.ipa?dl=1",
+            "appDescription": "Раз уж производители железа не могут реализовать качественную ночную съемку фотографий, за дело берутся разработчики сторонних приложений. И NeuralCam – это просто чудо какоe-то!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Star VPN (Premium)",
+            "appVersion": "3.5.0 | 9.6 MB |",
+            "appImage": "https://lazyshop.app/icons/m0rgfmpfgh.png",
+            "appPackage": "https://www.dropbox.com/s/susq7sa5ii8zls2/Star%20VPN.ipa?dl=1",
+            "appDescription": "Star VPN - лучший VPN для iPhone, iPad и iPod touch с неограниченной пропускной способностью. История и логи не сохраняются. Не требуется регистрация. Подключение к самым быстрым VPN-серверам в одно касание."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "WallCraft (Pro)",
+            "appVersion": "2.8 | 13.6 MB |",
+            "appImage": "https://lazyshop.app/icons/piwdo1i19f.png",
+            "appPackage": "https://www.dropbox.com/s/xhhrn4hkm96oyfc/WallCraft.ipa?dl=1",
+            "appDescription": "Эксклюзивные, ручной работы, двойные и так далее. Сотни и сотни тысяч обоев с ежечасным пополнением коллекции и с подгонкой под размер экрана вашего телефона."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "WhatsApp Watusi+Stalky",
+            "appVersion": "22.16.77 + 1.1.32 | 81.3 MB |",
+            "appImage": "https://lazyshop.app/icons/ezbil7tpvl.png",
+            "appPackage": "https://www.dropbox.com/s/97t8ypttrbltz9y/WhatsAppWatusi.ipa?dl=1",
+            "appDescription": "Добавляет новые функции в стандартное приложение WhatsApp.\n❗️Технические особенности WhatsApp, при любом типе установки в обход App Store, позволяют получать push-уведомления только если приложение запущено в данный момент!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Яндекс.Музыка (Premium)",
+            "appVersion": "5.84 | 53.2 MB |",
+            "appImage": "https://lazyshop.app/icons/yl03jeue10.png",
+            "appPackage": "https://www.dropbox.com/s/jscutcny5jirw9j/YandexMusic.ipa?dl=1",
+            "appDescription": "Открывайте для себя новую музыку! Умные плейлисты — это несколько часов музыки каждый день. Чем больше приложение узнаёт вас, тем точнее предлагает новые треки, альбомы, тематические подборки и песни, которые нравятся вашим друзьям."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "ВКармане ТВ HD (Pro)",
+            "appVersion": "5.0.1 | 7.6 MB |",
+            "appImage": "https://lazyshop.app/icons/uyd4uw3pq4.png",
+            "appPackage": "https://https://www.dropbox.com/s/x7h46g9iio87zf5/%D0%92%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%20%D0%A2%D0%92.ipa?dl=1",
+            "appDescription": "Более 300 российских и европейских телеканалов в реальном времени, с расписанием телепрограммы, напоминаниями. Федеральные каналы, спортивные, развлекательные, детские и многие другие."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "InstaPlus (Premium)",
+            "appVersion": "245.0 + 2.50 | 105.9 MB |",
+            "appImage": "https://lazyshop.app/icons/wgbdhrlccu.png",
+            "appPackage": "https://www.dropbox.com/s/exr8x3r8b8i6jq1/InstagramPlus.ipa?dl=1",
+            "appDescription": "Легкий и универсальный твик для улучшения и раскрытия полного потенциала приложения для пользователей. С помощью этого твика вы можете делать многое, чего не могли сделать раньше в приложении!\n❗️Вылетает при выборе масок!"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "LazyLRD (Premium)",
+            "appVersion": "24.3.0 + 2.1 | 161 MB |",
+            "appImage": "https://lazyshop.app/icons/cz3hd3t2s9.png",
+            "appPackage": "https://www.dropbox.com/s/er7rhpl1d7h97hh/TikTokLRD.ipa?dl=1",
+            "appDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.\n❗️Встроенная смена региона для обхода блокировок!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "InstaRocket (Pro)",
+            "appVersion": "245.0 + 3.7.46 (Stable) | 108.8 MB |",
+            "appImage": "https://lazyshop.app/icons/hjmrlycvlv.png",
+            "appPackage": "https://https://www.dropbox.com/s/lmm4coazqr4bhnp/instagramrock.ipa?dl=1",
+            "appDescription": "Добавляет новые функции в классическое приложение."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "iTorrent",
+            "appVersion": "1.8.3 | 21.2 MB |",
+            "appImage": "https://lazyshop.app/icons/mds53ciakh.png",
+            "appPackage": "https://www.dropbox.com/s/42mpk26wrpj2pra/itorrent.ipa?dl=1",
+            "appDescription": "Скачивайте фильмы, музыку и любые другие файлы с torrent трекеров, а потом легко перемещайте в соответсвующие приложения и плееры на вашем телефоне."
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "YouTube 8-в-1 (Premium)",
+            "appVersion": "17.25.1 + 5.3.10 (Stable) | 115 MB |",
+            "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
+            "appPackage": "https://https://www.dropbox.com/s/3zcwh047a5gwfu1/YouTubeCercube.ipa?dl=1",
+            "appDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы."
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Beatleap PRO",
+            "appVersion": "1.4.9 | 66.6 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/13b162e30f.png",
+            "appPackage": "https://www.dropbox.com/s/ksnhxmyfmy80n5k/Beatleap.ipa?dl=1",
+            "appDescription": "Уникальная синхронизация видео с музыкой и эффектами"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Звук Прайм",
+            "appVersion": "4.17.0 | 71.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1608784e73.png",
+            "appPackage": "https://www.dropbox.com/s/e4b8fo167ww8cx9/SberZvuk.ipa?dl=1",
+            "appDescription": "Стриминговый сервис с музыкой, аудиокнигами, подкастами, радио"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Motionleap PRO (ex Pixaloop)",
+            "appVersion": "1.9.18 | 175.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/99316b444a.png",
+            "appPackage": "https://www.dropbox.com/s/sab1osdmbi2ort1/MotionLeap.ipa?dl=1",
+            "appDescription": "Создавай невероятные анимированные фото"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Photoshop Express Premium",
+            "appVersion": "22.27.0 | 134 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/dc89aceca1.png",
+            "appPackage": "https://www.dropbox.com/s/u365yn83bdgu0s6/Photoshop.ipa?dl=1",
+            "appDescription": "Самый известный редактор фото и коллажей"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Videoleap PRO",
+            "appVersion": "1.21.3 | 167.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/7986052746.png",
+            "appPackage": "https://www.dropbox.com/s/7vaj9lei9qhbgpi/Videoleap.ipa?dl=1",
+            "appDescription": "Создание видео с профессиональными эффектами"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Lightleap PRO (ex Quickshot)",
+            "appVersion": "1.9.18 | 242.3 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/65651e4a27.png",
+            "appPackage": "https://www.dropbox.com/s/d73a3uba5lcqhe7/Lightleap.ipa?dl=1",
+            "appDescription": "Красота фотографий за пределами реальности"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Photoleap PRO (ex Photofox)",
+            "appVersion": "2.6.6 | 227.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/bb49f2a078.png",
+            "appPackage": "https://www.dropbox.com/s/8l8bf4j0wmkm9gh/Photoleap.ipa?dl=1",
+            "appDescription": "Превратите ваши фото в произведение искусства"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Instories PRO",
+            "appVersion": "5.12.0 | 179 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1f6b81a9aa.png",
+            "appPackage": "https://www.dropbox.com/s/6xob1omfyklj5j2/InStroies.ipa?dl=1",
+            "appDescription": "Фото и видеоредактор для stories в социальных сетях"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T01:35:00+0300",
+            "appName": "Mojo PRO",
+            "appVersion": "1.89.0 | 143 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/ad3699fc55.png",
+            "appPackage": "https://www.dropbox.com/s/xxuwj8bqnrvo70s/MojoPRO.ipa?dl=1",
+            "appDescription": "Лучшие анимированные шаблоны для ваших сторис"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-26T03:59:00+0300",
+            "appName": "InstaRocket (Pro)",
+            "appVersion": "253.0 + 3.8.0 (New) | 108.8 MB |",
+            "appImage": "https://lazyshop.app/icons/hjmrlycvlv.png",
+            "appPackage": "https://www.dropbox.com/s/9131lum40r5gpva/instagramrocknew.ipa?dl=1",
+            "appDescription": "Добавляет новые функции в классическое приложение."
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-26T03:59:00+0300",
+            "appName": "Call Recorder PRO",
+            "appVersion": "2.91 | 89.3 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/195f8c40fc.png",
+            "appPackage": "https://www.dropbox.com/s/gd068up0oo24m60/CallRecorder.ipa?dl=1",
+            "appDescription": "Запись ваших телефонных разговоров на iPhone"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-27T00:11:00+0300",
+            "appName": "Лето PRO (ex Шрифты)",
+            "appVersion": "7.4 | 130.7 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/f0606ae2d6.png",
+            "appPackage": "https://www.dropbox.com/s/959l0ugbohn0qej/LetoPRO.ipa?dl=1",
+            "appDescription": "Сотни крутых шрифтов для ваших видео, сторис, создание субтитров"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-09-27T00:11:00+0300",
+            "appName": "KinoPub",
+            "appVersion": "1.0 (87) | 38.7 MB |",
+            "appImage": "https://lazyshop.app/icons/1yohhcvu36.png",
+            "appPackage": "https://www.dropbox.com/s/8adjxysy5jpl5ma/kinopub.ipa?dl=1",
+            "appDescription": "Лучший в своём роде сервис с невероятной базой фильмов, сериалов, мультфильмов, ТВ-шоу, концертов.\n❗️Работает скачивание в кэш!"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-27T00:32:00+0300",
+            "appName": "Mimo PRO",
+            "appVersion": "4.73.1 | 151.8 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/67e2d8f0da.png",
+            "appPackage": "https://www.dropbox.com/s/trrtqm06jn09mo3/Mim0Pro.ipa?dl=1",
+            "appDescription": "Научись программировать на Python, JavaScript и HTML.\n❗️Для активации взлома перезапустите приложение!"
+        },
+
+         {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-28T21:47:00+0300",
+            "appName": "YouTube 8-в-1 (Premium)",
+            "appVersion": "17.37.3 + 5.3.11 (New) | 112.7 MB |",
+            "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
+            "appPackage": "https://www.dropbox.com/s/8syhuf1l5cez02t/youtube8in1.ipa?dl=1",
+            "appDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "English Galaxy PRO",
+            "appVersion": "1.2.5 | 61.8 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/7243666c40.png",
+            "appPackage": "https://www.dropbox.com/s/n0tdpcsh8lmvn81/English%20Galaxy.ipa?dl=1",
+            "appDescription": "Английский язык и грамматика с нуля и до продвинутого"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Things 3",
+            "appVersion": "3.16.2 | 56.2 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/40be8b2d7f.png",
+            "appPackage": "https://www.dropbox.com/s/edrl1z0xsb3l33l/Things.ipa?dl=1",
+            "appDescription": "Управляйте вашей жизнью максимально эффективно"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Bazaart PRO",
+            "appVersion": "8.0.0 | 80.1 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/95fb57e286.png",
+            "appPackage": "https://www.dropbox.com/s/crwoj6s5htjsdqw/Bazaart.ipa?dl=1",
+            "appDescription": "Фоторедактор с уникальной функциональностью"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "30 Day Fitness PRO",
+            "appVersion": "2.13.2 | 276.9 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5aa4b67292.png",
+            "appPackage": "https://www.dropbox.com/s/p36pcbhpon1tafi/30%20Day%20Fitness%20Challenge.ipa?dl=1",
+            "appDescription": "30 дней 7-минутных тренировок дома + диета"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-03T17:02:00+0300",
+            "appName": "Deezer Premium",
+            "appVersion": "8.38.0 | 71.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
+            "appPackage": "https://www.dropbox.com/s/340xby4jrm5unsd/DeezerPro.ipa?dl=1",
+            "appDescription": "Плейлисты и музыка офлайн в вашем устройстве"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-04T13:44:00+0300",
+            "appName": "Pillow PRO",
+            "appVersion": "3.9.92 | 140.5 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
+            "appPackage": "https://www.dropbox.com/s/huj3zo1qkhjzhvo/PillowPRO.ipa?dl=1",
+            "appDescription": "Умный будильник и анализатор фаз вашего сна"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "Аудиокниги Premium",
+            "appVersion": "9.0.4 | 8.6 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c8b7f7f0d6.png",
+            "appPackage": "https://www.dropbox.com/s/yjhdw6i3pcc8oin/AudioBooks.ipa?dl=1",
+            "appDescription": "Тысячи аудиокниг, сотни авторов, десятки жанров"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "KyBook 2 PRO",
+            "appVersion": "1.2.8 | 71.4 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/f222f90fbb.png",
+            "appPackage": "https://www.dropbox.com/s/pjro57k2bugfsdr/KyBook2.ipa?dl=1",
+            "appDescription": "Лучшая читалка книг с поиском и скачиванием из сети"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "ProMovie Recorder",
+            "appVersion": "1.11.6 | 1.7 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/9ca35356f3.png",
+            "appPackage": "https://www.dropbox.com/s/3de9o1j9g2j5rv3/ProMovieRec.ipa?dl=1",
+            "appDescription": "Простейшая видеокамера с массой настроек"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-10-07T23:55:00+0300",
+            "appName": "ProCam 8",
+            "appVersion": "14.0.4 | 13 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e2adccd2fb.png",
+            "appPackage": "https://www.dropbox.com/s/7advx6vds0pyuma/ProCam8.ipa?dl=1",
+            "appDescription": "Профессиональная фото-видеокамера + редактор"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-10-08T00:10:00+0300",
+            "appName": "LazyTool",
+            "appVersion": "2.163 | 37.8 MB |",
+            "appImage": "https://lazyshop.app/icons/fgqxg07vz7.png",
+            "appPackage": "https://www.dropbox.com/s/egz8h0vl1smaehw/LazyTool.ipa?dl=1",
+            "appDescription": "Доступ к ВК, оффлайн режим, эквалайзер, плейлисты, ночная тема и множество других плюшек."
+        }
+    ]
 }
