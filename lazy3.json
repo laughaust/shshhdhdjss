@@ -421,6 +421,96 @@
             "versionDate": "2022-10-08T00:10:00+0300",
             "iconURL": "https://lazyshop.app/icons/fgqxg07vz7.png",
             "size": 39636172 ,
+        },
+
+        {
+           "name": "Okko: кино, сериалы, спорт, ТВ",
+            "version": "10.16.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Okko.ipa",
+            "localizedDescription": "Один из крупнейших легальных онлайн-кинотеатров в России",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/05f360e19f.png",
+            "size": 77280051 ,
+        },
+
+        {
+           "name": "PREMIER - Сериалы, фильмы, шоу",
+            "version": "2.34.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/PREMIER_2.34.0_1665308433.ipa",
+            "localizedDescription": "PREMIER — онлайн-кинотеатр с любовью к российской уникальности. Если вы ищете сериалы, фильмы и шоу с острым и честным взглядом на жизнь, то вам сюда.",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/D8F0EBB6-1A3E-463F-8066-C0D670067D4D.png",
+            "size": 30828134 ,
+        },
+
+        {
+           "name": "Electra",
+            "version": "2.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Electra.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X), iPod touch 6G, iPad (Air, Air 2, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5), iPad mini (2, 3, 4) под управлением iOS 11 (11.0, 11.0.1, 11.0.2, 11.0.3, 11.1, 11.1.1, 11.1.2, 11.2, 11.2.1, 11.2.2, 11.2.5, 11.2.6, 11.3, 11.3.1, 11.4, 11.4.1)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/879mbapavv.png",
+            "size": 52219084 ,
+        },
+
+        {
+           "name": "Chimera",
+            "version": "1.6.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Chimera.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max), iPod touch (6G, 7G), iPad (Air, Air 2, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5, 11, 12.9(3G)), iPad mini (2, 3, 4) под управлением iOS 12 (12.0, 12.0.1, 12.1, 12.1.1, 12.1.2, 12.1.3, 12.1.4, 12.2, 12.4, 12.4.9)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/nibkf2uy0v.png",
+            "size": 30723276 ,
+        },
+
+        {
+           "name": "Taurine",
+            "version": "1.1.1",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Taurine.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для iOS (14.0-14.3)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/sj3ghycro9.png",
+            "size": 33239859 ,
+        },
+
+        {
+           "name": "Odyssey",
+            "version": "1.4.1",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Odyssey.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max, 11, 11 Pro, 11 Pro Max, SE 2), iPad (Air 3, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5, 11, 12.9(3G)), iPad mini (4, 5) под управлением iOS (13.0 - 13.7)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/0qld179gkt.png",
+            "size": 27472691 ,
+        },
+
+        {
+           "name": "doubleh3lix",
+            "version": "RC8",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/doubleh3lix.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE), iPod touch 6G, iPad (Air, Air 2, 5), iPad Pro (9.7, 12.9), iPad mini (2, 3, 4) под управлением iOS 10 (10.0.1, 10.0.2, 10.1, 10.1.1, 10.2, 10.2.1, 10.3, 10.3.1, 10.3.2, 10.3.3)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/8s1zu7kw6s.png",
+            "size": 11324620 ,
+        },
+
+        {
+           "name": "h3lix",
+            "version": "RC6",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/h3lix.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5, 5C), iPad 4 под управлением iOS 10 (10.0.1, 10.0.2, 10.1, 10.1.1, 10.2, 10.2.1, 10.3, 10.3.1, 10.3.2, 10.3.3, 10.3.4)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/cmkib5jsog.png",
+            "size": 8703180 ,
+        },
+
+        {
+           "name": "Unc0ver",
+            "version": "8.0.2",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/unc0ver.ipa",
+            "localizedDescription": "Полуотвязанный джейлбрейк для iOS (11.0-14.8)",
+            "versionDate": "2022-10-09T18:34:00+0300",
+            "iconURL": "https://lazyshop.app/icons/yq04yq5722.png",
+            "size": 54525952 ,
         }
     ]
 }
