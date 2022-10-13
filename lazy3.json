@@ -581,6 +581,46 @@
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/43d388e8f4.png",
             "size": 21684551 ,
+		},
+
+        {
+           "name": "VSCO Premium",
+            "version": "274.0",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/VSCO.ipa",
+            "localizedDescription": "Фоторедактор для креатива и самовыражения",
+            "versionDate": "2022-10-13T18:57:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/7f6eed3f8d.png",
+            "size": 107174952 ,
+		},
+
+        {
+           "name": "Smart Driver Premium",
+            "version": "1.9.11",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Smart.Driver.ipa",
+            "localizedDescription": "Видеорегистратор, антирадар, предупреждения об опасностях",
+            "versionDate": "2022-10-13T18:57:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/0bd2cb3c87.png",
+            "size": 68335697 ,
+		},
+
+        {
+           "name": "Mini Motorways",
+            "version": "1.7.2",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/MiniMotorways.ipa",
+            "localizedDescription": "Нарисуйте дороги, которые объединят весь город",
+            "versionDate": "2022-10-13T18:57:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/330f09535c.png",
+            "size": 86947921 ,
+		},
+
+        {
+           "name": "SimCity BuildIt HACKed",
+            "version": "1.43.1",
+            "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/SimCity.ipa",
+            "localizedDescription": "Постройте свой мегаполис и станьте его мэром",
+            "versionDate": "2022-10-13T18:57:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/7dffa58274.png",
+            "size": 144776888 ,
         }
     ]
 }
