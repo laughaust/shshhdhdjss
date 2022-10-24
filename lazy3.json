@@ -418,7 +418,7 @@
             "version": "2.163",
             "downloadURL": "https://www.dropbox.com/s/80ls1fz4r0fcuat/LazyTool.ipa?dl=1",
             "localizedDescription": "Доступ к ВК, оффлайн режим, эквалайзер, плейлисты, ночная тема и множество других плюшек. \n❗️Взломан на подписку!\nИнструкция:\n1. Войдите в свой аккаунт ВК.\n2. Обязательно перейдите в раздел «Рекомендации» и подождите пока он загрузится.\n3. Все доступные функции будут готовы к работе.\n ⚠️ При каждой смене аккаунта ВК необходимо повторять те же действия!",
-            "versionDate": "2022-10-22T10:15:00+0300",
+            "versionDate": "2022-10-23T10:15:00+0300",
             "iconURL": "https://lazyshop.app/icons/fgqxg07vz7.png",
             "size": 47290777 ,
         },
@@ -661,6 +661,26 @@
             "versionDate": "2022-10-14T15:24:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/87df35ee29.png",
             "size": 262636830 ,
+        },
+
+        {
+           "name": "PDF Pro 4",
+            "version": "4.7.3",
+            "downloadURL": "https://www.dropbox.com/s/l61ddesx7n5vjrq/PDF%20Pro.ipa?dl=1",
+            "localizedDescription": "Поразительно мощный инструмент для работы с PDF",
+            "versionDate": "2022-10-25T01:44:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5e71da11e9.png",
+            "size": 27304919 ,
+        },
+
+        {
+           "name": "Gemini PRO",
+            "version": "1.3.98",
+            "downloadURL": "https://www.dropbox.com/s/rjlkpc4tjgolb57/GeminiPRO.ipa?dl=1",
+            "localizedDescription": "Освободи гигабайты места от лишних фото и видео",
+            "versionDate": "2022-10-25T01:44:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/766cc4dd4d.png",
+            "size": 107122524 ,
         }
     ]
 }
