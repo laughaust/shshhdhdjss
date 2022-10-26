@@ -8,7 +8,7 @@
             "version": "255.0 + 2.50",
             "downloadURL": "https://www.dropbox.com/s/feexm07atwmsz3p/Instagramplus_255.0_troll_url.ipa?dl=1",
             "localizedDescription": "Легкий и универсальный твик для улучшения и раскрытия полного потенциала приложения для пользователей. С помощью этого твика вы можете делать многое, чего не могли сделать раньше в приложении!\n• Работают ссылки\n• Не вылетает при выборе масок",
-            "versionDate": "2022-10-26T00:06:01+0300",
+            "versionDate": "2022-10-26T00:06:00+0300",
             "iconURL": "https://lazyshop.app/icons/wgbdhrlccu.png",
             "size": 103483965 ,
         },
@@ -21,6 +21,16 @@
             "versionDate": "2022-10-26T00:06:00+0300",
             "iconURL": "https://lazyshop.app/icons/7y289q9rjv.png",
             "size": 93071605 ,
+        },
+
+        {
+            "name": "TikTokLRD",
+            "version": "26.5.0 + 2.1",
+            "downloadURL": "https://www.dropbox.com/s/f7ansfj9hjq0lvt/TikTokLRD_26.5.0_troll_url.ipa?dl=1",
+            "localizedDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.\n• Работают ссылки\n• Полная работоспособность мода на новых версиях не гарантируется",
+            "versionDate": "2022-10-26T11:04:00+0300",
+            "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
+            "size": 145961779 ,
         }
     ]
 }
