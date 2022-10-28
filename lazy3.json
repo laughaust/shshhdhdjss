@@ -681,6 +681,26 @@
             "versionDate": "2022-10-25T01:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/766cc4dd4d.png",
             "size": 107122524 ,
+        },
+
+        {
+           "name": "WiFi Map PRO",
+            "version": "6.2.9",
+            "downloadURL": "https://www.dropbox.com/s/vogz56nnn3x8oxd/WIFIMapPRO.ipa?dl=1",
+            "localizedDescription": "WiFi Точки доступа, Пароли от них, VPN, Proxy",
+            "versionDate": "2022-10-28T09:18:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/617a8e264e.png",
+            "size": 154245529 ,
+        },
+
+        {
+           "name": "FiLMiC PRO",
+            "version": "6.19.1",
+            "downloadURL": "https://www.dropbox.com/s/8llzdcc8mtjtm56/FilmicPRO.ipa?dl=1",
+            "localizedDescription": "Наиболее совершенная видеокамера для iPhone",
+            "versionDate": "2022-10-28T09:18:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/1d2c1b3619.png",
+            "size": 70044876 ,
         }
     ]
 }
