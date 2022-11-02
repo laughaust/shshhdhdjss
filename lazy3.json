@@ -701,6 +701,26 @@
             "versionDate": "2022-10-28T09:18:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/1d2c1b3619.png",
             "size": 66804776 ,
+		},
+
+        {
+           "name": "EnhanceFox PRO",
+            "version": "6.1.0",
+            "downloadURL": "https://www.dropbox.com/s/3g1s8mdk08mqrsa/EnhanceFoxPRO.ipa?dl=1",
+            "localizedDescription": "Улучшение качества фото, раскрашивание Ч/Б, доп. эффекты",
+            "versionDate": "2022-11-02T22:39:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c328940558.png",
+            "size": 83886080 ,
+		},
+
+        {
+           "name": "Tappsk PRO",
+            "version": "2.5.40",
+            "downloadURL": "https://www.dropbox.com/s/g1etkos0wqqoyye/TappskPRO.ipa?dl=1",
+            "localizedDescription": "Ежедневник, планировщик, трекер привычек и список дел",
+            "versionDate": "2022-11-02T22:39:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/74b9881196.png",
+            "size": 74553753 ,
         }
     ]
 }
