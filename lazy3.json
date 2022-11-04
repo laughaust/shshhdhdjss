@@ -65,12 +65,12 @@
 
         {
            "name": "Star VPN (Premium)",
-            "version": "3.5.0",
-            "downloadURL": "https://www.dropbox.com/s/kbdjolw9b6jpva0/Star%20VPN.ipa?dl=1",
+            "version": "3.6.0",
+            "downloadURL": "https://www.dropbox.com/s/d3l7cgq0qxxhhs0/StarVPN.ipa?dl=1",
             "localizedDescription": "Star VPN - лучший VPN для iPhone, iPad и iPod touch с неограниченной пропускной способностью. История и логи не сохраняются. Не требуется регистрация. Подключение к самым быстрым VPN-серверам в одно касание.",
-            "versionDate": "2022-09-26T01:35:00+0300",
+            "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://lazyshop.app/icons/m0rgfmpfgh.png",
-            "size": 10066329 ,
+            "size": 6868172 ,
         },
 
         {
@@ -95,12 +95,12 @@
 
         {
            "name": "Яндекс.Музыка (Premium)",
-            "version": "5.84",
-            "downloadURL": "https://www.dropbox.com/s/68oac9pghosx6eq/YandexMusic.ipa?dl=1",
+            "version": "5.90",
+            "downloadURL": "https://www.dropbox.com/s/6w2jtxex1zr2hvn/YaMusic.ipa?dl=1",
             "localizedDescription": "Открывайте для себя новую музыку! Умные плейлисты — это несколько часов музыки каждый день. Чем больше приложение узнаёт вас, тем точнее предлагает новые треки, альбомы, тематические подборки и песни, которые нравятся вашим друзьям.",
-            "versionDate": "2022-09-26T01:35:00+0300",
+            "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://lazyshop.app/icons/yl03jeue10.png",
-            "size": 55784243 ,
+            "size": 46032486 ,
         },
 
         {
@@ -635,12 +635,12 @@
 
         {
            "name": "Infuse 7 PRO",
-            "version": "7.4.2",
-            "downloadURL": "https://www.dropbox.com/s/ibq1ki9w5rnnd3k/InfusePRO.ipa?dl=1",
+            "version": "7.4.6",
+            "downloadURL": "https://www.dropbox.com/s/rux47s405xo13pa/InfusePRO.ipa?dl=1",
             "localizedDescription": "Видеоплеер с 5.1, AC3, DTS, Dolby Digital, стримингом, субтитрами и т.д.",
-            "versionDate": "2022-10-14T15:24:00+0300",
+            "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/ce238be09f.png",
-            "size": 39772487 ,
+            "size": 40496005 ,
         },
 
         {
@@ -721,6 +721,16 @@
             "versionDate": "2022-11-02T22:39:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/74b9881196.png",
             "size": 74606182 ,
+		},
+
+        {
+           "name": "Lightroom Premium",
+            "version": "8.0.0",
+            "downloadURL": "https://www.dropbox.com/s/f9g6ngcrtc9wtyy/Lightroom.ipa?dl=1",
+            "localizedDescription": "Профессиональный редактор фото с пресетами",
+            "versionDate": "2022-11-05T00:44:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/8227fe6a48.png",
+            "size": 174231388 ,
         }
     ]
 }
