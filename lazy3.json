@@ -731,16 +731,6 @@
             "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/8227fe6a48.png",
             "size": 174231388 ,
-        },
-
-        {
-           "name": "LazyLRD (Premium)",
-            "version": "26.2.0 + 2.4 (beta)",
-            "downloadURL": "https://www.dropbox.com/s/1ipvu8qkl20r9he/TikTokLRD.ipa?dl=1",
-            "localizedDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.\n❗️Встроенная смена региона для обхода блокировок!",
-            "versionDate": "2022-11-09T01:02:00+0300",
-            "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
-            "size": 175080734 ,
         }
     ]
 }
