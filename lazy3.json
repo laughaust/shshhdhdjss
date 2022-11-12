@@ -124,16 +124,6 @@
         },
 
         {
-           "name": "LazyLRD (Premium)",
-            "version": "24.3.0 + 2.1",
-            "downloadURL": "https://www.dropbox.com/s/356x1jvkc5a4r0x/tiktoklrd.ipa?dl=1",
-            "localizedDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.\n❗️Встроенная смена региона для обхода блокировок!",
-            "versionDate": "2022-10-12T19:15:00+0300",
-            "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
-            "size": 150994944 ,
-        },
-
-        {
            "name": "InstaRocket (Pro)",
             "version": "245.0 + 3.7.46 (stable)",
             "downloadURL": "https://www.dropbox.com/s/uo7zkr6v1xtukdm/instagramrock.ipa?dl=1",
@@ -205,12 +195,12 @@
 
         {
            "name": "Videoleap PRO",
-            "version": "1.21.3",
-            "downloadURL": "https://www.dropbox.com/s/oatrji2pmsvwhuw/Videoleap.ipa?dl=1",
+            "version": "1.23",
+            "downloadURL": "https://www.dropbox.com/s/g00z1rhkf3fpkkm/VideoLeap.ipa?dl=1",
             "localizedDescription": "Создание видео с профессиональными эффектами",
-            "versionDate": "2022-09-26T01:35:00+0300",
+            "versionDate": "2022-11-13T00:18:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/7986052746.png",
-            "size": 175531622 ,
+            "size": 199544012 ,
         },
 
         {
@@ -741,6 +731,16 @@
             "versionDate": "2022-11-11T02:47:00+0300",
             "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
             "size": 175080734 ,
+		},
+
+        {
+           "name": "Streeme",
+            "version": "1.0.50",
+            "downloadURL": "https://www.dropbox.com/s/ze4tilhkwxzep5o/Streeme.ipa?dl=1",
+            "localizedDescription": "Смотрите IPTV с комфортом прямо на мобильном",
+            "versionDate": "2022-11-13T01:00:00+0300",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/72edd12f37.png",
+            "size": 40055603 ,
         }
     ]
 }
