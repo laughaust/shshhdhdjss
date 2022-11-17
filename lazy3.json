@@ -124,16 +124,6 @@
         },
 
         {
-           "name": "InstaRocket (Pro)",
-            "version": "245.0 + 3.7.46 (stable)",
-            "downloadURL": "https://www.dropbox.com/s/uo7zkr6v1xtukdm/instagramrock.ipa?dl=1",
-            "localizedDescription": "Добавляет новые функции в классическое приложение.",
-            "versionDate": "2022-09-26T01:35:00+0300",
-            "iconURL": "https://lazyshop.app/icons/hjmrlycvlv.png",
-            "size": 114085068 ,
-        },
-
-        {
            "name": "iTorrent",
             "version": "1.8.3",
             "downloadURL": "https://www.dropbox.com/s/2c6i758g6elm9a0/itorrent.ipa?dl=1",
@@ -245,7 +235,7 @@
 
         {
            "name": "InstaRocket (Pro)",
-            "version": "253.0 + 3.8.0 (new)",
+            "version": "253.0 + 3.8.0",
             "downloadURL": "https://www.dropbox.com/s/b43dm2ijbnmtjxh/instagramrocknew.ipa?dl=1",
             "localizedDescription": "Добавляет новые функции в классическое приложение.",
             "versionDate": "2022-09-26T03:59:00+0300",
