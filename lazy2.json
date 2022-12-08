@@ -1,11 +1,11 @@
 {
     "version": "1.0",
-    "sourceName": "Lazyshop",
+    "sourceName": "Lazyshop Leak",
     "sourceAuthor": "Lazyshop",
     "sourceLinkTitle": "TELEGRAM",
     "sourceLinkUrl": "https://t.me/lazyleak",
     "sourceImage": "https://lazyshop.app/assets/top_logo.jpg",
-    "sourceDescription": "☝🏻️Введите тег для поиска(полностью или частично):\n😎Эксклюзив 💬Соцсети 🛡VPN 📹Камеры 📸Редакторы\n🎬Кино 📚Книги 😢Удаленные ❤️Здоровье 👨🏻‍💻Утилиты\n🚙Авто 🗺Навигация 📖Учеба 🎵Музыка 🕹Игры\n\nhacked by @retr0dev https://t.me/lazyleak",
+    "sourceDescription": "☝🏻️Введите тег для поиска(полностью или частично):\n\n😎Эксклюзив 💬Соцсети 🛡VPN 📸Камеры 🎞Редакторы\n🎬Видео 📚Книги 😢Удаленные ❤️Здоровье 👨🏻‍💻Утилиты\n🚙Авто 🗺Навигация 📖Обучение 🎵Аудио 🎮Игры\n🕹Arcade 🖊Офис\n\nhacked by @retr0dev https://t.me/lazyleak",
     "appCategories": [
         "Jailbreak утилиты",
         "Базовый набор",
@@ -116,7 +116,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-11-05T00:44:00+0300",
-            "appName": "Яндекс.Музыка (Premium) \n | Музыка |",
+            "appName": "Яндекс.Музыка (Premium) \n | Аудио |",
             "appVersion": "5.90 | 43.90 MB |",
             "appImage": "https://lazyshop.app/icons/yl03jeue10.png",
             "appPackage": "https://www.dropbox.com/s/02tdh250id8iihw/YaMusic.ipa?dl=1",
@@ -127,7 +127,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-09-26T01:35:00+0300",
-            "appName": "ВКармане ТВ HD (Pro) \n | Кино |",
+            "appName": "ВКармане ТВ HD (Pro) \n | Видео |",
             "appVersion": "5.0.1 | 7.6 MB |",
             "appImage": "https://lazyshop.app/icons/uyd4uw3pq4.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1VurQ74A4MV1EYzNTDYPi-VKLROSnmEmd",
@@ -160,7 +160,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-09-26T01:35:00+0300",
-            "appName": "YouTube 8-в-1 (Premium)",
+            "appName": "YouTube 8-в-1 (Premium) \n | Видео |",
             "appVersion": "17.25.1 + 5.3.10 (Stable) | 115 MB |",
             "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1wIq-tIBMI4yYmYkhXnYPz0oELPiQTKoo",
@@ -182,7 +182,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-09-26T01:35:00+0300",
-            "appName": "Звук Прайм \n | Эксклюзив | Музыка |",
+            "appName": "Звук Прайм \n | Эксклюзив | Аудио |",
             "appVersion": "4.17.0 | 71.4 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/1608784e73.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1sbsOIXHgl-tTCP6HQaO0sxvy6Dm-fvZu",
@@ -303,7 +303,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-27T00:11:00+0300",
-            "appName": "KinoPub \n | Кино |",
+            "appName": "KinoPub \n | Видео |",
             "appVersion": "1.0 (87) | 38.7 MB |",
             "appImage": "https://lazyshop.app/icons/1yohhcvu36.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1JucRjQisEN2g81QM3w1xz66Xz25DOZ5O",
@@ -314,7 +314,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-09-27T00:32:00+0300",
-            "appName": "Mimo PRO \n | Учеба | Эксклюзив |",
+            "appName": "Mimo PRO \n | Обучение | Эксклюзив |",
             "appVersion": "4.73.1 | 151.8 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/67e2d8f0da.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1GF9L3-VdjUVC72tuakZqU5aF3KClJ6YV",
@@ -325,7 +325,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-09-28T21:47:00+0300",
-            "appName": "YouTube 8-в-1 (Premium)",
+            "appName": "YouTube 8-в-1 (Premium) \n | Видео |",
             "appVersion": "17.37.3 + 5.3.11 (New) | 112.7 MB |",
             "appImage": "https://lazyshop.app/icons/jkprao1kmc.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1NtBMg4kGSZNjo9QMWg1WueHpM_aW5XT0",
@@ -336,7 +336,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-03T17:02:00+0300",
-            "appName": "English Galaxy PRO \n | Учеба | Эксклюзив |",
+            "appName": "English Galaxy PRO \n | Обучение | Эксклюзив |",
             "appVersion": "1.2.5 | 61.8 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/7243666c40.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1QA9Ua-u-AtRluE_pQzWnv8DrB6pvU-KN",
@@ -380,7 +380,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-03T17:02:00+0300",
-            "appName": "Deezer Premium \n | Музыка |",
+            "appName": "Deezer Premium \n | Аудио |",
             "appVersion": "8.38.0 | 71.4 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fW33dEPS51XNsdcqzoRl19kdJz48N4uZ",
@@ -402,7 +402,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-07T23:55:00+0300",
-            "appName": "Аудиокниги Premium \n | Книги |",
+            "appName": "Аудиокниги Premium \n | Книги | Аудио |",
             "appVersion": "9.0.4 | 8.6 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/c8b7f7f0d6.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1IAf55_XxRTfwbP2UjV9c2MfzPwgu1hz7",
@@ -446,7 +446,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2022-10-23T10:15:00+0300",
-            "appName": "LazyTool \n | Эксклюзив | Музыка |",
+            "appName": "LazyTool \n | Эксклюзив | Аудио |",
             "appVersion": "2.163 | 45.1 MB |",
             "appImage": "https://lazyshop.app/icons/fgqxg07vz7.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1DMubzNoDhViMYJy74uKFnFze6T3Mzhyz",
@@ -457,7 +457,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Okko: кино, сериалы, спорт, ТВ \n | Кино | Удаленные |",
+            "appName": "Okko: кино, сериалы, спорт, ТВ \n | Видео | Удаленные |",
             "appVersion": "10.16.0 | 73.7 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/05f360e19f.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=194owbqHlePhB0zkx2qlSTMObLI8kwKWh",
@@ -468,7 +468,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "PREMIER - Сериалы, фильмы, шоу \n | Удаленные | Кино |",
+            "appName": "PREMIER - Сериалы, фильмы, шоу \n | Удаленные | Видео |",
             "appVersion": "2.34.0 | 29.4 MB |",
             "appImage": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/D8F0EBB6-1A3E-463F-8066-C0D670067D4D.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PdbbeLBYSHfWeAD7f10VEd_DFe8MybCY",
@@ -479,7 +479,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Electra \n | Утилиты |",
+            "appName": "Electra",
             "appVersion": "2.0 | 49.8 MB |",
             "appImage": "https://lazyshop.app/icons/879mbapavv.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Electra.ipa",
@@ -490,7 +490,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Chimera \n | Утилиты |",
+            "appName": "Chimera",
             "appVersion": "1.6.0 | 29.3 MB |",
             "appImage": "https://lazyshop.app/icons/nibkf2uy0v.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Chimera.ipa",
@@ -501,7 +501,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Taurine \n | Утилиты |",
+            "appName": "Taurine",
             "appVersion": "1.1.1 | 31.7 MB |",
             "appImage": "https://lazyshop.app/icons/sj3ghycro9.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1JwtXUbtlErM5gLO8RtHGaLU5G4gionPQ",
@@ -512,7 +512,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Odyssey \n | Утилиты |",
+            "appName": "Odyssey",
             "appVersion": "1.4.1 | 26.2 MB |",
             "appImage": "https://lazyshop.app/icons/0qld179gkt.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1lvfjpbhT3SUM22XsMNi5WV0lmaW6epjl",
@@ -523,7 +523,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "doubleh3lix \n | Утилиты |",
+            "appName": "doubleh3lix",
             "appVersion": "RC8 | 10.8 MB |",
             "appImage": "https://lazyshop.app/icons/8s1zu7kw6s.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/doubleh3lix.ipa",
@@ -534,7 +534,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "h3lix \n | Утилиты |",
+            "appName": "h3lix",
             "appVersion": "RC6 | 8.3 MB |",
             "appImage": "https://lazyshop.app/icons/cmkib5jsog.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/h3lix.ipa",
@@ -545,7 +545,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-10-09T18:34:00+0300",
-            "appName": "Unc0ver \n | Утилиты |",
+            "appName": "Unc0ver",
             "appVersion": "8.0.2 | 52 MB |",
             "appImage": "https://lazyshop.app/icons/yq04yq5722.png",
             "appPackage": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/unc0ver.ipa",
@@ -556,7 +556,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-12T14:24:00+0300",
-            "appName": "Sonic Dash+ \n | Игры |",
+            "appName": "Sonic Dash+ \n | Игры | Arcade |",
             "appVersion": "1.3.0 | 161 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/fa2fd97ef5.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1dTqcVAz9a8uAnBDVAkaQ_g87Y5ueAjtl",
@@ -655,7 +655,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-13T18:57:00+0300",
-            "appName": "Mini Motorways \n | Игры |",
+            "appName": "Mini Motorways \n | Игры | Arcade |",
             "appVersion": "1.7.2 | 82.92 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/330f09535c.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1kG1sAw2xsVDMldkOrKKfH3H32YkqX40F",
@@ -688,7 +688,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-05T00:44:00+0300",
-            "appName": "Infuse 7 PRO \n | Кино | Эксклюзив |",
+            "appName": "Infuse 7 PRO \n | Видео | Эксклюзив |",
             "appVersion": "7.4.6 | 38.62 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/ce238be09f.png",
             "appPackage": "https://www.dropbox.com/s/h2fnhouv53vz3jc/InfusePRO.ipa?dl=1",
@@ -721,7 +721,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-10-25T01:44:00+0300",
-            "appName": "PDF Pro 4 \n | Утилиты |",
+            "appName": "PDF Pro 4 \n | Офис |",
             "appVersion": "4.7.3 | 26.04 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/5e71da11e9.png",
             "appPackage": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1shNodmydniHd4ZsvaIc9bKda-ps9-oaB",
@@ -809,7 +809,7 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-13T01:00:00+0300",
-            "appName": "Streeme \n | Кино |",
+            "appName": "Streeme \n | Видео |",
             "appVersion": "1.0.50 | 38.23 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/72edd12f37.png",
             "appPackage": "https://www.dropbox.com/s/ze4tilhkwxzep5o/Streeme.ipa?dl=1",
@@ -820,11 +820,1012 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-13T23:58:00+0300",
-            "appName": "KinoHome \n | Кино |",
+            "appName": "KinoHome \n | Видео |",
             "appVersion": "3.0 (beta 2) | 89.98 MB |",
             "appImage": "https://dl.lazyshop.app/images/catalog/029fc4a15d.png",
             "appPackage": "https://www.dropbox.com/s/zw23qk4r2eot033/KinoHome%281%29.ipa?dl=1",
             "appDescription": "Удобный просмотр фильмов и сериалов с бесплатных кинотеатров.\n❗️Для активации взлома следуйте инструкции:\n- установите приложение\n- запустите и подождите пару секунд\n- удалите приложение\n- установите приложение заново\nПосле всех вышеперечисленных действий подписка будет активирована."
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T22:55:00+0300",
+            "appName": "Shuggah \n | Здоровье |",
+            "appVersion": "4.10.5 | 21 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/95515415be.png",
+            "appPackage": "https://www.dropbox.com/s/gzs99a5e1q17gx5/Shuggah.ipa?dl=1",
+            "appDescription": "Контроль уровня сахара в крови в удобном приложении"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T22:56:00+0300",
+            "appName": "SpongeBob: Погоня за формулой \n | Игры | Arcade |",
+            "appVersion": "3.3.0 | 842 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c916778ae6.png",
+            "appPackage": "https://www.dropbox.com/s/6jgfej7bo2u0g91/PattyPursuit_3.3.0_Remover.ipa?dl=1",
+            "appDescription": "Захватывающий сайд-скроллер с любимыми героями"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T22:57:00+0300",
+            "appName": "Card Of Darkness \n | Игры | Arcade |",
+            "appVersion": "1.1.3 | 220 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/7b0c387fa5.png",
+            "appPackage": "https://www.dropbox.com/s/kfcn0x04uoc38u1/Card%20Of%20Darkness_1.1.3_Remover.ipa?dl=1",
+            "appDescription": "Эпическое карточное приключение ручной работы"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T22:58:00+0300",
+            "appName": "LEGO Star Wars Battles \n | Игры | Arcade |",
+            "appVersion": "1.99 | 666 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/0fbdfdc2bf.png",
+            "appPackage": "https://www.dropbox.com/s/denvx9q87ayn8q1/LEGO%20Star%20Wars%20Battles_1.99_Remover.ipa?dl=1",
+            "appDescription": "Управляйте армией LEGO® в PvP-сражениях в реальном времени"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T22:59:00+0300",
+            "appName": "Sayonara Wild Hearts \n | Игры | Arcade |",
+            "appVersion": "1.0.2 | 484 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/3b0f92e52a.png",
+            "appPackage": "https://www.dropbox.com/s/p3zz6e693zvay0w/Sayonara_1.0.2_Remover.ipa?dl=1",
+            "appDescription": "Поп-аркада с танцами, лазерами, мотоциклами и разбитыми сердцами"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:00:00+0300",
+            "appName": "Litchi for DJI Drones \n | Утилиты |",
+            "appVersion": "2.14.3 | 157 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5288e5b9f9.png",
+            "appPackage": "https://www.dropbox.com/s/ra6i6w7zhfodqaj/Litchi_2.14.3.ipa?dl=1",
+            "appDescription": "Раскройте весь потенциал вашего дрона DJI"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:01:00+0300",
+            "appName": "Sneaky Sasquatch \n | Игры | Arcade |",
+            "appVersion": "1.8.4 | 260 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/283477b8fb.png",
+            "appPackage": "https://www.dropbox.com/s/d3gmpvyizsofxmx/Sasquatch_1.8.4_Remover.ipa?dl=1",
+            "appDescription": "Займитесь невинными проказами в роли настоящего йети!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:02:00+0300",
+            "appName": "Crash Bandicoot HACKed \n | Игры |",
+            "appVersion": "1.170.29 | 615 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/580d5ec0ef.png",
+            "appPackage": "https://www.dropbox.com/s/nsp1n8knh9zdbeb/Crash%20Bandicoot%20HACKed.ipa?dl=1",
+            "appDescription": "Нестареющая классика: Беги, крутись, скользи, круши!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:03:00+0300",
+            "appName": "Score! Hero 2022 HACKed \n | Игры |",
+            "appVersion": "2.60 | 213 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e4840d8d84.png",
+            "appPackage": "https://www.dropbox.com/s/5ps54l54lesakr8/Score%21%20Hero%202022%20HACKed.ipa?dl=1",
+            "appDescription": "Получивший множество наград, хит продаж в мобильном футболе!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:04:00+0300",
+            "appName": "Kingdom Rush HACKed \n | Игры |",
+            "appVersion": "1.10.2 | 537 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/b95bf184f8.png",
+            "appPackage": "https://www.dropbox.com/s/xmat9lxl9ftybmt/Vengeance_1.10.2_Remover.ipa?dl=1",
+            "appDescription": "Управляйте своей армией тьмы для защиты башен"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:05:00+0300",
+            "appName": "Neutron Music Player \n | Аудио |",
+            "appVersion": "2.21.4 | 45 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/000d9fa88e.png",
+            "appPackage": "https://www.dropbox.com/s/40g628mgib0re8s/Neutron%20Music%20Player.ipa?dl=1",
+            "appDescription": "Аудиофильский плеер с 32/64-битным звуковым движком"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:06:00+0300",
+            "appName": "iThoughts PRO \n | Утилиты |",
+            "appVersion": "7.25 | 39 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/fe4ca5e145.png",
+            "appPackage": "https://www.dropbox.com/s/j072mmkpdc3cqcq/iThoughts%20PRO.ipa?dl=1",
+            "appDescription": "Лучший инструмент создания ментальных карт (mindmap)"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:07:00+0300",
+            "appName": "V for Wiki \n | Обучение |",
+            "appVersion": "1.9.5 | 23 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5f2e9c408f.png",
+            "appPackage": "https://www.dropbox.com/s/gecyxxdlkfaq11l/V%20for%20Wiki.ipa?dl=1",
+            "appDescription": "Wikipedia на iPhone, iPad, лучше, чем когда-либо"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:08:00+0300",
+            "appName": "Ravensword: Shadowlands \n | Игры |",
+            "appVersion": "8.0 | 532 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/150d6d9e29.png",
+            "appPackage": "https://www.dropbox.com/s/1dbo47jw5ezrbfk/Ravensword_%20Shadowlands.ipa?dl=1",
+            "appDescription": "Одна из самых красивых игр на платформе iOS"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:09:00+0300",
+            "appName": "Lawgivers Premium \n | Игры |",
+            "appVersion": "2.0.0 | 53 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/3d1b394fcf.png",
+            "appPackage": "https://www.dropbox.com/s/hqehiu9wctp2oww/Lawgivers%20Premium.ipa?dl=1",
+            "appDescription": "Политический симулятор на принципах демократии"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:10:00+0300",
+            "appName": "QuickReader \n | Обучение |",
+            "appVersion": "4.8 | 57 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c974b2b055.png",
+            "appPackage": "https://www.dropbox.com/s/7xwnwqlow6bqf5p/QuickReader.ipa?dl=1",
+            "appDescription": "Обучитесь лучшей технологии скорочтения"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:11:00+0300",
+            "appName": "Guru Maps Pro \n | Навигация |",
+            "appVersion": "5.1.0 | 58 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/fdafcd93a3.png",
+            "appPackage": "https://www.dropbox.com/s/houk0ujtpqic26f/Guru%20Maps%20Pro_5.1.0_Remover.ipa?dl=1",
+            "appDescription": "Удобные и быстрые офлайн-карты и навигация"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:12:00+0300",
+            "appName": "WhoSampled \n | Аудио |",
+            "appVersion": "1.40 | 23 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/441c83aac0.png",
+            "appPackage": "https://www.dropbox.com/s/hgmln5mdsa9mnni/WhoSampled.ipa?dl=1",
+            "appDescription": "Крупнейшая в мире база данных сэмплов, каверов и ремиксов"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:13:00+0300",
+            "appName": "Anilibria \n | Видео |",
+            "appVersion": "1.1.4 | 6 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/66563e8443.png",
+            "appPackage": "https://www.dropbox.com/s/ukrlraxjm5noo73/Anilibria.ipa?dl=1",
+            "appDescription": "Бесплатный просмотр аниме и сериалов в озучке Anilibria"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:14:00+0300",
+            "appName": "MP3 Audiobook Player Pro \n | Аудио |",
+            "appVersion": "1.155 | 49 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/eda73eac73.png",
+            "appPackage": "https://www.dropbox.com/s/2s47hjqmzjobk75/MP3%20Audiobook%20Player%20Pro.ipa?dl=1",
+            "appDescription": "Самый простой и удобный способ слушать аудиокниги"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:15:00+0300",
+            "appName": "myTuner Pro \n | Аудио |",
+            "appVersion": "8.4 | 52 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/15ab18f95d.png",
+            "appPackage": "https://www.dropbox.com/s/r8mmigmaw0eqxeu/myTuner%20Pro.ipa?dl=1",
+            "appDescription": "Тысячи радиостанций в прямом эфире без рекламы"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:16:00+0300",
+            "appName": "Root Board Game \n | Игры |",
+            "appVersion": "1.29.7 | 436 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/fa03eb688a.png",
+            "appPackage": "https://www.dropbox.com/s/8138ch4qjo4tv4o/Root%20Board%20Game.ipa?dl=1",
+            "appDescription": "Настоящие лесные сражения в формате настольной игры"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:17:00+0300",
+            "appName": "Sonic Runners Adventur‪e \n | Игры |",
+            "appVersion": "1.0.7 | 35 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1e0c52b887.png",
+            "appPackage": "https://www.dropbox.com/s/6tpaq2d06v1l9p8/Sonic%20Runners%20Adventure.ipa?dl=1",
+            "appDescription": "Ёж Соник в классическом нестареющем платформере"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:18:00+0300",
+            "appName": "Do Not Feed The Monkeys \n | Игры |",
+            "appVersion": "1.4.4 | 269 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/98d7bd5fbe.png",
+            "appPackage": "https://www.dropbox.com/s/s2xpjesucdrxvkj/Do%20Not%20Feed%20The%20Monkeys.ipa?dl=1",
+            "appDescription": "Следите за людьми и собирайте данные об их частной жизни"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:19:00+0300",
+            "appName": "jetAudio PLUS \n | Аудио |",
+            "appVersion": "10.8.1 | 12 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/cc7de39192.png",
+            "appPackage": "https://www.dropbox.com/s/262iw4rvn1cgzzo/jetAudio_10.8.1_Remover.ipa?dl=1",
+            "appDescription": "Музыкальный плеер со звуковыми эффектами и эквалайзером"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:20:00+0300",
+            "appName": "Dazz Cam PRO \n | Камеры | Эксклюзив |",
+            "appVersion": "2.4.1 | 75 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/a74e45c5a2.png",
+            "appPackage": "https://www.dropbox.com/s/h0j3b3b2giam59b/Dazz_2.4.1_Remover.ipa?dl=1",
+            "appDescription": "Ретро фото на фотоплёнку и видео на 8mm VHS камеру"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:21:00+0300",
+            "appName": "Bulk Video Compressor PRO \n | Утилиты | Эксклюзив |",
+            "appVersion": "2.5 | 12 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/bd82820ae1.png",
+            "appPackage": "https://www.dropbox.com/s/k0hu1uli5zecfqi/Bulk%20Video_2.5_Remover.ipa?dl=1",
+            "appDescription": "Освободите больше места на вашем iPhone"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:22:00+0300",
+            "appName": "ToonMe PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "0.9.34 | 71 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2953cbfd36.png",
+            "appPackage": "https://www.dropbox.com/s/lkg2odatreb9rr2/ToonMe_0.9.34_Remover.ipa?dl=1",
+            "appDescription": "Десятки мультяшных фильтров для фото и аватарок"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:23:00+0300",
+            "appName": "Flo Premium \n | Здоровье | Эксклюзив |",
+            "appVersion": "9.10.1 | 91 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/300bbe7657.png",
+            "appPackage": "https://www.dropbox.com/s/oh90wkz11oytr0a/Flo_9.10.1_Remover.ipa?dl=1",
+            "appDescription": "Женские календари (х3), гиды и курсы по женскому здоровью"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:24:00+0300",
+            "appName": "Shadow Fight 2 SE \n | Игры |",
+            "appVersion": "1.0.4 | 87 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/ebe16d7eed.png",
+            "appPackage": "https://www.dropbox.com/s/hqxmb9ojdwoeqrn/Shadow%20Fight%202_1.0.4_Remover.ipa?dl=1",
+            "appDescription": "Лучший мобильный файтинг возвращается!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:25:00+0300",
+            "appName": "Cluedo \n | Игры |",
+            "appVersion": "2.8.24 | 524 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c6dd08df2b.png",
+            "appPackage": "https://www.dropbox.com/s/qeewbpqt1km3bhu/Cluedo.ipa?dl=1",
+            "appDescription": "Классическая настольная детективная игра"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:26:00+0300",
+            "appName": "Video LUT \n | Редакторы |",
+            "appVersion": "3.86 | 178 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/cbff27c2c8.png",
+            "appPackage": "https://www.dropbox.com/s/licuopp8l0kcerz/Video%20LUT.ipa?dl=1",
+            "appDescription": "Кинематографические фильтры для ваших видео"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:27:00+0300",
+            "appName": "Grimvalor \n | Игры |",
+            "appVersion": "1.2.0 | 629 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/52a1b2dad6.png",
+            "appPackage": "https://www.dropbox.com/s/60x6n826l9c9os2/Grimvalor.ipa?dl=1",
+            "appDescription": "Захватывающий платформер в жанре hack & slash"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:28:00+0300",
+            "appName": "Cosmic Frontline AR \n | Игры |",
+            "appVersion": "1.72 | 226 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2377c2f443.png",
+            "appPackage": "https://www.dropbox.com/s/oruegfv9bbdm057/Cosmic%20Frontline%20AR.ipa?dl=1",
+            "appDescription": "Галактические битвы в дополненной реальности!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:29:00+0300",
+            "appName": "PushFit PRO \n | Здоровье |",
+            "appVersion": "2.6.8 | 8 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/185f26d058.png",
+            "appPackage": "https://www.dropbox.com/s/8chjme7udfh2y7q/PushFit%20Pro_2.6.8_Remover.ipa?dl=1",
+            "appDescription": "Автоматизирует тренировки и статистику ваших отжиманий"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:30:00+0300",
+            "appName": "Ocmo \n | Игры |",
+            "appVersion": "1.0.19 | 325 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/ec8b22900b.png",
+            "appPackage": "https://www.dropbox.com/s/gpvx92b40r9tj48/Ocmo.ipa?dl=1",
+            "appDescription": "Хардкорный платформер-хоррор на выживание"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:31:00+0300",
+            "appName": "The Escapists 2 \n | Игры |",
+            "appVersion": "1.11 | 605 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/22e84a9b39.png",
+            "appPackage": "https://www.dropbox.com/s/phb2gtfzd0yxdvk/The%20Escapists%202.ipa?dl=1",
+            "appDescription": "Смешной и захватывающий симулятор побега из тюрьмы"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:32:00+0300",
+            "appName": "Magnus Trainer PRO \n | Обучение | Эксклюзив |",
+            "appVersion": "1.19.16 | 112 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/9c01774ffe.png",
+            "appPackage": "https://www.dropbox.com/s/tlnaapxx76b4ob1/Magnus%20Trainer_1.19.16_Remover.ipa?dl=1",
+            "appDescription": "Учитесь играть в шахматы у настоящего чемпиона мира"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:33:00+0300",
+            "appName": "The Room: Old Sins \n | Игры |",
+            "appVersion": "1.0.4 | 584 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/37e67b5e91.png",
+            "appPackage": "https://www.dropbox.com/s/0wi42pe6y7xcowf/The%20Room_%20Old%20Sins.ipa?dl=1",
+            "appDescription": "Открой сокровенные тайны сложного кукольного домика"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:34:00+0300",
+            "appName": "Lensa PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "3.8.9 | 129 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e53d3f80e8.png",
+            "appPackage": "https://www.dropbox.com/s/alld7dvy00sgspg/Lensa_3.8.9_Remover.ipa?dl=1",
+            "appDescription": "Интеллектуальная коррекция селфи, размытие фона"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:35:00+0300",
+            "appName": "Package Inc. \n | Игры |",
+            "appVersion": "3.0.2 | 35 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e5073340f5.png",
+            "appPackage": "https://www.dropbox.com/s/g3h75av0f85w19z/Package%20Inc.ipa?dl=1",
+            "appDescription": "Постройте империю доставки в лучшем симуляторе на iOS"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:36:00+0300",
+            "appName": "Radio Tuner PRO \n | Аудио |",
+            "appVersion": "5.2 | 15 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/8903f44a49.png",
+            "appPackage": "https://www.dropbox.com/s/r823xxxk2vwh3dl/Radio%20Tuner_5.2_Remover.ipa?dl=1",
+            "appDescription": "Слушайте 70 000 станций, добавляйте свои, записывайте песни"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:37:00+0300",
+            "appName": "HUD Speed PRO \n | Авто |",
+            "appVersion": "55.1.0 | 8 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/69d6bbd5d7.png",
+            "appPackage": "https://www.dropbox.com/s/txow9xuxoujlb4m/HUD%20Speed%20PRO.ipa?dl=1",
+            "appDescription": "Помогает соблюдать ПДД и не получать штрафы в странах СНГ"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:38:00+0300",
+            "appName": "Sky Gamblers: Storm Raiders \n | Игры |",
+            "appVersion": "1.5.10 | 829 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/cdd1bd846e.png",
+            "appPackage": "https://www.dropbox.com/s/1g2es2r5f5mnqft/Sky%20Gamblers_%20Storm%20Raiders.ipa?dl=1",
+            "appDescription": "Воздушные сражения времен Второй Мировой Войны"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:39:00+0300",
+            "appName": "Streaks \n | Здоровье |",
+            "appVersion": "7.5.16 | 90 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/47c434dbb3.png",
+            "appPackage": "https://www.dropbox.com/s/ym5l9isnfkqp158/Streaks_7.5.16_Remover.ipa?dl=1",
+            "appDescription": "Ставьте цели и формируйте правильные привычки"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:40:00+0300",
+            "appName": "Mondly Premium \n | Обучение | Эксклюзив |",
+            "appVersion": "9.28.0 | 74 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/d2478d0f93.png",
+            "appPackage": "https://www.dropbox.com/s/pw6qd7ymqiu2xmr/Mondly_9.28.0_Remover.ipa?dl=1",
+            "appDescription": "Обучитесь чтению, слушанию, письму на 33 языках"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:41:00+0300",
+            "appName": "Streaks Workout \n | Здоровье |",
+            "appVersion": "6.0.2 | 72 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1430b92a76.png",
+            "appPackage": "https://www.dropbox.com/s/xn9ftnmog3su5d9/Workout_6.0.2_Remover.ipa?dl=1",
+            "appDescription": "Тренируйтесь дома, в парке, в зале, в любом месте!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:42:00+0300",
+            "appName": "Антирадар Стрелка \n | Авто |",
+            "appVersion": "3.65 | 22 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1cf458ff98.png",
+            "appPackage": "https://www.dropbox.com/s/62p9xwfg7yraf6l/%D0%90%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%B4%D0%B0%D1%80%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0.zip?dl=1",
+            "appDescription": "Ставьте цели и формируйте правильные привычки"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:43:00+0300",
+            "appName": "FAR: Lone Sails \n | Игры |",
+            "appVersion": "1.32 | 475 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c1048bd20e.png",
+            "appPackage": "https://www.dropbox.com/s/cnh7aag3axrl9zo/FAR_%20Lone%20Sails.ipa?dl=1",
+            "appDescription": "Красивейший платформер о путешествии по пустошам"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:44:00+0300",
+            "appName": "Говорящая АЗБУКА \n | Обучение |",
+            "appVersion": "1.7 | 434 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/b03eb9525a.png",
+            "appPackage": "https://www.dropbox.com/s/hv8o8nv3vowsknu/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B0%D1%8F%20%D0%90%D0%97%D0%91%D0%A3%D0%9A%D0%90.zip?dl=1",
+            "appDescription": "Одна из самых интересных и инновационных Азбук"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:45:00+0300",
+            "appName": "Splice PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "4.26.11 | 175 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/1ffbee8263.png",
+            "appPackage": "https://www.dropbox.com/s/cybvuo3lstbl6nn/Splice%20PRO.ipa?dl=1",
+            "appDescription": "Создатель видео с эффектами, редактор клипов"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:46:00+0300",
+            "appName": "Among Us! HACKed \n | Игры |",
+            "appVersion": "2022.6.30 | 246 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/358499246f.png",
+            "appPackage": "https://www.dropbox.com/s/9xyzv3nz30mwcbb/Among%20Us_2022.6.30_Remover.ipa?dl=1",
+            "appDescription": "Быть предателем совсем не просто! А отыскать его?"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:47:00+0300",
+            "appName": "Noted PRO \n | Офис | Эксклюзив |",
+            "appVersion": "3.2.3 | 320 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/0dff0689f8.png",
+            "appPackage": "https://www.dropbox.com/s/7fl0y33dnh0p1al/Noted_3.2.3_Remover.ipa?dl=1",
+            "appDescription": "Диктофон, аудиозаметки, перевод голоса в текст"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:48:00+0300",
+            "appName": "SleepTown \n | Здоровье | Игры |",
+            "appVersion": "3.2.17 | 113 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/9c4870c893.png",
+            "appPackage": "https://www.dropbox.com/s/sl2z5mt5wp0volk/SleepTown.ipa?dl=1",
+            "appDescription": "Создавайте привычку здорового сна в игровой форме!"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:49:00+0300",
+            "appName": "Wallpapers Central PRO \n | Утилиты | Эксклюзив |",
+            "appVersion": "1.5.3 | 35 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/60ce706b47.png",
+            "appPackage": "https://www.dropbox.com/s/aw1xkypqvk96ek4/Wallpapers_1.5.3_Remover.ipa?dl=1",
+            "appDescription": "Живые обои для iPhone, Watch Faces, обои"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:50:00+0300",
+            "appName": "Alto's Odyssey \n | Игры |",
+            "appVersion": "1.2.0 | 81 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c3bbd504b8.png",
+            "appPackage": "https://www.dropbox.com/s/gxafmmmenr477oy/Odyssey_1.2.0_Remover.ipa?dl=1",
+            "appDescription": "Раскройте все секреты бесконечной пустыни"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:51:00+0300",
+            "appName": "Spectre Camera \n | Камеры |",
+            "appVersion": "1.1.11 | 6 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/74b462906e.png",
+            "appPackage": "https://www.dropbox.com/s/0gv6gil15jrqs0g/Spectre%20Camera.ipa?dl=1",
+            "appDescription": "Создавайте потрясающие фото с длинной экспозицией"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:52:00+0300",
+            "appName": "Scanner PRO by Readdle \n | Офис |",
+            "appVersion": "7.8.1 | 117 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/875135df34.png",
+            "appPackage": "https://www.dropbox.com/s/0n6ooga92mzrcaz/Scanner%20PRO%20by%20Readdle.ipa?dl=1",
+            "appDescription": "Портативный профессиональный сканер в кармане"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:53:00+0300",
+            "appName": "LifeViewer PRO \n | Офис | Здоровье | Эксклюзив |",
+            "appVersion": "2.7.6 | 46 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/183ad70f90.png",
+            "appPackage": "https://www.dropbox.com/s/9y8l3ril5l2dy75/LifeViewer_2.7.6_Remover.ipa?dl=1",
+            "appDescription": "Суперприложение 6 в 1: Список дел, привычки, планер и др."
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:54:00+0300",
+            "appName": "WaterMinder \n | Здоровье | Эксклюзив |",
+            "appVersion": "5.1.5 | 298 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/ff20b58a78.png",
+            "appPackage": "https://www.dropbox.com/s/gb4xo8yn1iin0oq/WaterMinder_5.1.5_Remover.ipa?dl=1",
+            "appDescription": "Отслеживайте ваш уровень потребления жидкости"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:55:00+0300",
+            "appName": "TouchRetouch \n | Редактор |",
+            "appVersion": "5.0.13 | 42 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/962a32b1af.png",
+            "appPackage": "https://www.dropbox.com/s/gabknrtmxipwyyc/TouchRetouch.ipa?dl=1",
+            "appDescription": "Удалите весь мусор с ваших фотографий"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:56:00+0300",
+            "appName": "CashSync PRO \n | Офис |",
+            "appVersion": "3.3.3 | 5 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/3fd0e7e7e8.png",
+            "appPackage": "https://www.dropbox.com/s/s88stwcci68tv41/CashSync%20PRO.ipa?dl=1",
+            "appDescription": "Личные финансы, синхронизация бюджетов"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:57:00+0300",
+            "appName": "Door Kickers \n | Игры |",
+            "appVersion": "1.1.1 | 422 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/fc6924298d.png",
+            "appPackage": "https://www.dropbox.com/s/50g6i8t3s5nqg60/Door%20Kickers.ipa?dl=1",
+            "appDescription": "Спецназ, тактика, спецоперации, экшн"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:58:00+0300",
+            "appName": "Fontmania (RUS) \n | Редакторы |",
+            "appVersion": "1.8 | 40 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/8663b78685.png",
+            "appPackage": "https://www.dropbox.com/s/fy4jcw8e655tv4x/Fontmania%20%28RUS%29.ipa?dl=1",
+            "appDescription": "Добавляйте РУССКИЕ надписи и артворки на фото"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-01T23:59:00+0300",
+            "appName": "Gradient UNLIMITED \n | Редакторы | Эксклюзив |",
+            "appVersion": "2.5.8 | 141 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5e59525cb7.png",
+            "appPackage": "https://www.dropbox.com/s/fiipm7ouz084p17/Gradient_976_Remover.ipa?dl=1",
+            "appDescription": "Редактор фотографий с искусственным интеллектом"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:01:00+0300",
+            "appName": "Water Time PRO \n | Здоровье |",
+            "appVersion": "9.9.0 | 94 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/02326e3cdb.png",
+            "appPackage": "https://www.dropbox.com/s/gybdp22kxe3zm78/Water%20Time_9.9.0_Remover.ipa?dl=1",
+            "appDescription": "Не даст забыть выпить нужное количество воды"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:02:00+0300",
+            "appName": "Pocket City \n | Игры |",
+            "appVersion": "1.1.443 | 26 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/b33a928bde.png",
+            "appPackage": "https://www.dropbox.com/s/agqvv7zok190b29/Pocket%20City.ipa?dl=1",
+            "appDescription": "Постройте большой, удобный, успешный город"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:03:00+0300",
+            "appName": "Peachy PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "1.35.0 | 102 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/d5201b3675.png",
+            "appPackage": "https://www.dropbox.com/s/l9jlx6ymx7qpm35/Peachy_1.35.0_Remover.ipa?dl=1",
+            "appDescription": "Продвинутое ретуширование лица и фигуры"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:04:00+0300",
+            "appName": "SimpleRockets 2 \n | Игры |",
+            "appVersion": "0.9.923 | 141 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/d39d417118.png",
+            "appPackage": "https://www.dropbox.com/s/n819mlbc9kgdt1m/SimpleRockets%202.ipa?dl=1",
+            "appDescription": "Полностью трехмерная космическая симуляция"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:05:00+0300",
+            "appName": "Slay the Spire \n | Игры |",
+            "appVersion": "2.2.3 | 399 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/666fd2f450.png",
+            "appPackage": "https://www.dropbox.com/s/2phzymh90r53o9r/Slay%20the%20Spire.ipa?dl=1",
+            "appDescription": "Карточная игра о магии и ужасах подземелий"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:06:00+0300",
+            "appName": "BADLAND 2 \n | Игры |",
+            "appVersion": "1.4.2 | 114 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/67936a9fde.png",
+            "appPackage": "https://www.dropbox.com/s/w9srs6fs73mi8kh/BADLAND%202.ipa?dl=1",
+            "appDescription": "Продолжение сказочного приключения в лесу"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:07:00+0300",
+            "appName": "Leo's Fortune \n | Игры |",
+            "appVersion": "1.0.14 | 579 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/43ffd4546d.png",
+            "appPackage": "https://www.dropbox.com/s/z9ayowd01u1eqce/Leo%27s%20Fortune.ipa?dl=1",
+            "appDescription": "Один из лучших приключенческих платформеров"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:08:00+0300",
+            "appName": "This War of Mine \n | Игры |",
+            "appVersion": "1.6.9 | 585 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/878cc32011.png",
+            "appPackage": "https://www.dropbox.com/s/eexulhcon3l733a/This%20War%20of%20Mine.ipa?dl=1",
+            "appDescription": "Симулятор выживания в осажденном городе"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:09:00+0300",
+            "appName": "BADLAND \n | Игры |",
+            "appVersion": "3.4.4 | 218 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/fc145df06a.png",
+            "appPackage": "https://www.dropbox.com/s/fgwr7967hlmb23y/BADLAND.ipa?dl=1",
+            "appDescription": "Путешествуйте и выживайте в сказочном лесу"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:10:00+0300",
+            "appName": "Smule VIP \n | Аудио |",
+            "appVersion": "11.1.5 | 58 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2ec2006634.png",
+            "appPackage": "https://www.dropbox.com/s/63vymckbyk4yzf7/Smule_11.1.5_Remover.ipa?dl=1",
+            "appDescription": "Пойте в караоке - сами, с друзьями или с реальными звёздами по сети"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:11:00+0300",
+            "appName": "LIMBO \n | Игры |",
+            "appVersion": "1.2.2 | 113 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/352b16315f.png",
+            "appPackage": "https://www.dropbox.com/s/t6snzh9ws55ehk9/LIMBO.ipa?dl=1",
+            "appDescription": "Захватывающее мрачное путешествие в Лимбо"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:12:00+0300",
+            "appName": "Rush Rally 2 \n | Игры |",
+            "appVersion": "1.137 | 71 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/386af1f205.png",
+            "appPackage": "https://www.dropbox.com/s/6sn175zci9ygpsi/Rush%20Rally%202.ipa?dl=1",
+            "appDescription": "Просто один из лучших симуляторов ралли на iOS"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:13:00+0300",
+            "appName": "nPlayer Plus \n | Видео | Аудио |",
+            "appVersion": "3.12.12 | 66 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/4c569e8a97.png",
+            "appPackage": "https://www.dropbox.com/s/rv409carowik0gh/nPlayer%20Plus.ipa?dl=1",
+            "appDescription": "Наиболее функциональный видео/аудиоплеер"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:14:00+0300",
+            "appName": "Plague Inc. \n | Игры |",
+            "appVersion": "1.19.2 | 66 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/0c5e167f96.png",
+            "appPackage": "https://www.dropbox.com/s/d1thzpktmh7xvtc/Plague%20Inc.ipa?dl=1",
+            "appDescription": "Попробуй заразить мир смертельной инфекцией"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:15:00+0300",
+            "appName": "Minecraft \n | Игры |",
+            "appVersion": "1.19.22 | 556 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e3416675e3.png",
+            "appPackage": "https://www.dropbox.com/s/08n3jjue39umeeq/Minecraft.ipa?dl=1",
+            "appDescription": "Создавайте, креативьте, изучайте и выживайте"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:16:00+0300",
+            "appName": "Euclidean Lands \n | Игры |",
+            "appVersion": "2.1.4 | 71 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/a33933c4ce.png",
+            "appPackage": "https://www.dropbox.com/s/i28hsu5ul2jzin4/Euclidean%20Lands.ipa?dl=1",
+            "appDescription": "3D-пазлы, закручивающие и взрывающие мозг"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:17:00+0300",
+            "appName": "Machinarium \n | Игры |",
+            "appVersion": "2.4.3 | 237 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/e7329473af.png",
+            "appPackage": "https://www.dropbox.com/s/0vv1tetzrdghf7o/Machinarium.ipa?dl=1",
+            "appDescription": "Красивейшая история из жизни города роботов"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:18:00+0300",
+            "appName": "Despotism 3k \n | Игры |",
+            "appVersion": "1.0.8 | 71 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/dba648ba45.png",
+            "appPackage": "https://www.dropbox.com/s/4506ga5zv55rv2a/Despotism%203k.ipa?dl=1",
+            "appDescription": "Поработите людей, играя за искусственный интеллект"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:19:00+0300",
+            "appName": "Brotherhood of Violence Ⅱ \n | Игры |",
+            "appVersion": "3.0.4 | 363 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/5800bd9623.png",
+            "appPackage": "https://www.dropbox.com/s/i0vfvoesb37zwfb/Brotherhood%20of%20Violence.ipa?dl=1",
+            "appDescription": "Крутые рукопашные бои, чтобы победить их всех"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:20:00+0300",
+            "appName": "Noizio \n | Здоровье |",
+            "appVersion": "2.4.1 | 91 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/f89b2b42be.png",
+            "appPackage": "https://www.dropbox.com/s/55jqjfhojjmd4ac/Noizio.ipa?dl=1",
+            "appDescription": "Звуки окружающей природы для сна и медитации"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:21:00+0300",
+            "appName": "Rarevision VHS \n | Камеры |",
+            "appVersion": "1.6.3 | 14 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/9a2a48eb02.png",
+            "appPackage": "https://www.dropbox.com/s/neuqc3xce0d57yz/Rarevision%20VHS.ipa?dl=1",
+            "appDescription": "Снимайте видео в стиле видеокассет из 90-х"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:22:00+0300",
+            "appName": "Ventusky \n | Утилиты |",
+            "appVersion": "20.0.1 | 37 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/afff02069a.png",
+            "appPackage": "https://www.dropbox.com/s/go24l4f2sqzcrqk/Ventusky.ipa?dl=1",
+            "appDescription": "Максимально продвинутое погодное приложение"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:23:00+0300",
+            "appName": "Unfold PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "8.11.1 | 146 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c369ec10ec.png",
+            "appPackage": "https://www.dropbox.com/s/mn8y7649h7k0fgn/Unfold_8.11.1_Remover.ipa?dl=1",
+            "appDescription": "Популярный редактор сториз и создатель коллажей"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:24:00+0300",
+            "appName": "Google Earth \n | Утилиты | Удаленные |",
+            "appVersion": "9.175.0 | 62 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/2f06e1ed07.png",
+            "appPackage": "https://www.dropbox.com/s/s1hk93whquamw5x/Google%20Earth.ipa?dl=1",
+            "appDescription": "Смотрите на Землю в 3D с небывалой детализацией"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-02T00:25:00+0300",
+            "appName": "Avatarify PRO \n | Редакторы | Эксклюзив |",
+            "appVersion": "1.0.54 | 136 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/176af25d2f.png",
+            "appPackage": "https://www.dropbox.com/s/qe1x1tnjpvpgpna/Avatarify_1.0.54_Remover.ipa?dl=1",
+            "appDescription": "Анимируй под музыку любое селфи – своё, звезды или друга"
+	    },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-12-07T21:39:00+0300",
+            "appName": "Dead Cells+ \n | Игры | Arcade |",
+            "appVersion": "2.7.12 | 800 MB |",
+            "appImage": "https://dl.lazyshop.app/images/catalog/c2ca05ac84.png",
+            "appPackage": "https://www.dropbox.com/s/4sf8stttiqvzxng/Dead%20Cells%2B.ipa?dl=1",
+            "appDescription": "Убить. Умереть. Сделать выводы. Повторить."
         }
     ]
 }

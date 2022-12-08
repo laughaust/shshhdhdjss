@@ -1,746 +1,1826 @@
 {
-    "name": "Lazyshop",
+    "name": "Lazyshop Leak",
     "identifier": " ",
     "sourceURL": " ",
+	"message": "☝🏻️Введите хештег для поиска\n(полностью или частично):\n\n😎#эксклюзив 💬#соцсети 🛡#впн 📸#камеры\n🎞#редакторы 🎬#видео 📚#книги 😢#удаленные\n❤️#здоровье 👨🏻‍💻#утилиты 🚙#авто 🗺#навигация\n📖#обучение 🎵#аудио 🎮#игры 🕹#arcade\n🖊#офис\n\nhacked by @retr0dev https://t.me/lazyleak",
     "apps": [
         {
-           "name": "VK Dream",
+            "name": "VK Dream \n | #соцсети | #эксклюзив |",
             "version": "2.15.3",
             "downloadURL": "https://www.dropbox.com/s/lnfgm6cmmm9k008/VK%20Dream.ipa?dl=1",
             "localizedDescription": "Оживленная, доработанная и полностью адаптированная для современных устройств и современных версий iOS. Эксклюзивно для пользователей LazyShop!",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/9wkvekzxlq.png",
             "size": 16043212 ,
+			"type": "1",
         },
 
         {
-           "name": "LazyVK",
+            "name": "LazyVK \n | #соцсети | #эксклюзив |",
             "version": "7.35 + 2.4",
             "downloadURL": "https://www.dropbox.com/s/ykkeqfyw2gubpqv/lazyvk.ipa?dl=1",
             "localizedDescription": "Чертовски крутой твик, написанный с нуля, чтобы заменить собой умерший VKAgain, принести новые крутые возможности и выкинуть все странные и ненужные нагромождения.",
             "versionDate": "2022-10-12T18:27:00+0300",
             "iconURL": "https://lazyshop.app/icons/7y289q9rjv.png",
             "size": 119537664 ,
+			"type": "1",
         },
 
         {
-           "name": "AdGuard Pro",
+            "name": "AdGuard Pro \n | #эксклюзив |",
             "version": "4.4.0",
             "downloadURL": "https://www.dropbox.com/s/v6bc0s1xyanwqno/AdGuard%20Pro.ipa?dl=1",
             "localizedDescription": "Впервые вне App Store! Cамый эффективный блокировщик рекламы для Safari, антитрекер, персональные фильтры, защита при помощи DNS-серверов, уменьшение потребления трафика, и многое другое.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/18wrcd1qxe.png",
             "size": 61656268 ,
+			"type": "1",
         },
 
         {
-           "name": "AdGuard VPN (Unlimited)",
+            "name": "AdGuard VPN (Unlimited) \n | #эксклюзив | #впн |",
             "version": "2.0.3",
-            "downloadURL": "https://www.dropbox.com/s/vy32cv8f9erjxvu/AdGuard%20VPN.ipa?dl=1",
+            "downloadURL": "https://www.dropbox.com/s/vy32cv8f9erjxvu/AdGuard%20#vpn.ipa?dl=1",
             "localizedDescription": "С AdGuard VPN перед вами откроются безграничные возможности, а ваши личные данные будут под надёжной защитой. AdGuard VPN скрывает ваш реальный IP-адрес и местоположение и даёт вам возможность оставаться анонимным в интернете.\n❗️Просто откройте/разверните приложение, чтобы автоматически получить следующие 3 ГБ на максимальной скорости.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/v04aru6wqb.png",
             "size": 78118912 ,
+			"type": "1",
         },
 
         {
-           "name": "Inshot (Pro)",
+            "name": "Inshot (Pro) \n | #редакторы |",
             "version": "1.62.1",
             "downloadURL": "https://www.dropbox.com/s/t0s8luzjjtgjr4x/InShotPRO.ipa?dl=1",
             "localizedDescription": "Огромное количество функций, приятный интерфейс у удобство в использовании, превратите редакцию фото и видео в удовольствие!",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/jo98qjc5eu.png",
             "size": 94162124 ,
+			"type": "1",
         },
 
         {
-           "name": "NeuralCam",
+            "name": "NeuralCam \n | #камеры |",
             "version": "5.0.5",
             "downloadURL": "https://www.dropbox.com/s/v35kt8u3qe6d5gy/Neuralcam.ipa?dl=1",
             "localizedDescription": "Раз уж производители железа не могут реализовать качественную ночную съемку фотографий, за дело берутся разработчики сторонних приложений. И NeuralCam – это просто чудо какоe-то!",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/eu36h3bryv.png",
             "size": 31981568 ,
+			"type": "1",
         },
 
         {
-           "name": "Star VPN (Premium)",
+            "name": "Star VPN (Premium) \n | #впн |",
             "version": "3.6.0",
-            "downloadURL": "https://www.dropbox.com/s/xe2hmyx4esqhe4v/StarVPN.ipa?dl=1",
+            "downloadURL": "https://www.dropbox.com/s/xe2hmyx4esqhe4v/Star#vpn.ipa?dl=1",
             "localizedDescription": "Star VPN - лучший VPN для iPhone, iPad и iPod touch с неограниченной пропускной способностью. История и логи не сохраняются. Не требуется регистрация. Подключение к самым быстрым VPN-серверам в одно касание.",
             "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://lazyshop.app/icons/m0rgfmpfgh.png",
             "size": 6868172 ,
+			"type": "1",
         },
 
         {
-           "name": "WallCraft (Pro)",
+            "name": "WallCraft (Pro) \n | #утилиты |",
             "version": "2.8",
             "downloadURL": "https://www.dropbox.com/s/0dasiigz6c713cg/WallCraft.ipa?dl=1",
             "localizedDescription": "Эксклюзивные, ручной работы, двойные и так далее. Сотни и сотни тысяч обоев с ежечасным пополнением коллекции и с подгонкой под размер экрана вашего телефона.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/piwdo1i19f.png",
             "size": 14260633 ,
+			"type": "1",
         },
 
         {
-           "name": "WhatsApp Watusi+Stalky",
+            "name": "WhatsApp Watusi+Stalky \n | #соцсети |",
             "version": "22.16.77 + 1.1.32",
             "downloadURL": "https://www.dropbox.com/s/opv5beoan3rpxce/WhatsAppWatusi.ipa?dl=1",
             "localizedDescription": "Добавляет новые функции в стандартное приложение WhatsApp.\n❗️Технические особенности WhatsApp, при любом типе установки в обход App Store, позволяют получать push-уведомления только если приложение запущено в данный момент!",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/ezbil7tpvl.png",
             "size": 85249228 ,
+			"type": "1",
         },
 
         {
-           "name": "Яндекс.Музыка (Premium)",
+            "name": "Яндекс.Музыка (Premium) \n | #аудио |",
             "version": "5.90",
             "downloadURL": "https://www.dropbox.com/s/02tdh250id8iihw/YaMusic.ipa?dl=1",
             "localizedDescription": "Открывайте для себя новую музыку! Умные плейлисты — это несколько часов музыки каждый день. Чем больше приложение узнаёт вас, тем точнее предлагает новые треки, альбомы, тематические подборки и песни, которые нравятся вашим друзьям.",
             "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://lazyshop.app/icons/yl03jeue10.png",
             "size": 46032486 ,
+			"type": "3",
         },
 
         {
-           "name": "ВКармане ТВ HD (Pro)",
+            "name": "ВКармане ТВ HD (Pro) \n | #видео |",
             "version": "5.0.1",
             "downloadURL": "https://www.dropbox.com/s/j8yp6swvxadw6dq/%D0%92%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%20%D0%A2%D0%92.ipa?dl=1",
             "localizedDescription": "Более 300 российских и европейских телеканалов в реальном времени, с расписанием телепрограммы, напоминаниями. Федеральные каналы, спортивные, развлекательные, детские и многие другие.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/uyd4uw3pq4.png",
             "size": 7969177 ,
+			"type": "1",
         },
 
         {
-           "name": "InstaPlus (Premium)",
+            "name": "InstaPlus (Premium) \n | #соцсети |",
             "version": "245.0 + 2.50",
             "downloadURL": "https://www.dropbox.com/s/ua4pn06j7u9hvlw/InstagramPlus.ipa?dl=1",
             "localizedDescription": "Легкий и универсальный твик для улучшения и раскрытия полного потенциала приложения для пользователей. С помощью этого твика вы можете делать многое, чего не могли сделать раньше в приложении!\n❗️Вылетает при выборе масок!",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/wgbdhrlccu.png",
             "size": 111044198 ,
+			"type": "1",
         },
 
         {
-           "name": "iTorrent",
+            "name": "iTorrent \n | #утилиты |",
             "version": "1.8.3",
             "downloadURL": "https://www.dropbox.com/s/2c6i758g6elm9a0/itorrent.ipa?dl=1",
             "localizedDescription": "Скачивайте фильмы, музыку и любые другие файлы с torrent трекеров, а потом легко перемещайте в соответсвующие приложения и плееры на вашем телефоне.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/mds53ciakh.png",
             "size": 22229811 ,
+			"type": "1",
         },
 
         {
-           "name": "YouTube 8-в-1 (Premium)",
+            "name": "YouTube 8-в-1 (Premium) \n | #видео |",
             "version": "17.25.1 + 5.3.10 (stable)",
             "downloadURL": "https://www.dropbox.com/s/r1k6bxkuf94mrat/YouTubeCercube.ipa?dl=1",
             "localizedDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы.",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://lazyshop.app/icons/jkprao1kmc.png",
             "size": 120586240 ,
+			"type": "1",
         },
 
         {
-           "name": "Beatleap PRO",
+            "name": "Beatleap PRO \n | #редакторы | #эксклюзив |",
             "version": "1.4.9",
             "downloadURL": "https://www.dropbox.com/s/h9uhunh1vugvps7/Beatleap.ipa?dl=1",
             "localizedDescription": "Уникальная синхронизация видео с музыкой и эффектами",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/13b162e30f.png",
             "size": 69835161 ,
+			"type": "1",
         },
 
         {
-           "name": "Звук Прайм",
+            "name": "Звук Прайм \n | #эксклюзив | #аудио |",
             "version": "4.17.0",
             "downloadURL": "https://www.dropbox.com/s/6zpj0h4zecc7zpg/SberZvuk.ipa?dl=1",
             "localizedDescription": "Стриминговый сервис с музыкой, аудиокнигами, подкастами, радио",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/1608784e73.png",
             "size": 74868326 ,
+			"type": "3",
         },
 
         {
-           "name": "Motionleap PRO (ex Pixaloop)",
+            "name": "Motionleap PRO (ex Pixaloop) \n | #редакторы | #эксклюзив |",
             "version": "1.9.18",
             "downloadURL": "https://www.dropbox.com/s/sasy2bn2gmkknej/MotionLeap.ipa?dl=1",
             "localizedDescription": "Создавай невероятные анимированные фото",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/99316b444a.png",
             "size": 183920230 ,
+			"type": "1",
         },
 
         {
-           "name": "Photoshop Express Premium",
+            "name": "Photoshop Express Premium \n | #редакторы | #эксклюзив |",
             "version": "22.40.3",
             "downloadURL": "https://www.dropbox.com/s/r7ioq07n35zs2p3/PhotoshopExpress.ipa?dl=1",
             "localizedDescription": "Самый известный редактор фото и коллажей",
             "versionDate": "2022-11-11T14:13:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/dc89aceca1.png",
             "size": 140341411 ,
+			"type": "1",
         },
 
         {
-           "name": "Videoleap PRO",
+            "name": "Videoleap PRO \n | #редакторы | #эксклюзив |",
             "version": "1.23",
             "downloadURL": "https://www.dropbox.com/s/g00z1rhkf3fpkkm/VideoLeap.ipa?dl=1",
             "localizedDescription": "Создание видео с профессиональными эффектами",
             "versionDate": "2022-11-13T00:18:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/7986052746.png",
             "size": 199523041 ,
+			"type": "1",
         },
 
         {
-           "name": "Lightleap PRO (ex Quickshot)",
+            "name": "Lightleap PRO (ex Quickshot) \n | #редакторы | #эксклюзив |",
             "version": "1.9.18",
             "downloadURL": "https://www.dropbox.com/s/96yp6m6ygrpx98v/Lightleap.ipa?dl=1",
             "localizedDescription": "Красота фотографий за пределами реальности",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/65651e4a27.png",
             "size": 254069964 ,
+			"type": "1",
         },
 
         {
-           "name": "Photoleap PRO (ex Photofox)",
+            "name": "Photoleap PRO (ex Photofox) \n | #редакторы | #эксклюзив |",
             "version": "2.6.6",
             "downloadURL": "https://www.dropbox.com/s/1fqetpkmnxfi748/Photoleap.ipa?dl=1",
             "localizedDescription": "Превратите ваши фото в произведение искусства",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/bb49f2a078.png",
             "size": 238446182 ,
+			"type": "1",
         },
 
         {
-           "name": "Instories PRO",
+            "name": "Instories PRO \n | #редакторы | #эксклюзив |",
             "version": "5.12.0",
             "downloadURL": "https://www.dropbox.com/s/qiiw3iybbziai7u/InStroies.ipa?dl=1",
             "localizedDescription": "Фото и видеоредактор для stories в социальных сетях",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/1f6b81a9aa.png",
             "size": 187695104 ,
+			"type": "1",
         },
 
         {
-           "name": "Mojo PRO",
+            "name": "Mojo PRO \n | #редакторы | #эксклюзив |",
             "version": "1.89.0",
             "downloadURL": "https://www.dropbox.com/s/8ah8lcmhbnsl4o7/MojoPRO.ipa?dl=1",
             "localizedDescription": "Лучшие анимированные шаблоны для ваших сторис",
             "versionDate": "2022-09-26T01:35:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/ad3699fc55.png",
             "size": 149946368 ,
+			"type": "1",
         },
 
         {
-           "name": "InstaRocket (Pro)",
+            "name": "InstaRocket (Pro) \n | #соцсети |",
             "version": "253.0 + 3.8.0",
             "downloadURL": "https://www.dropbox.com/s/b43dm2ijbnmtjxh/instagramrocknew.ipa?dl=1",
             "localizedDescription": "Добавляет новые функции в классическое приложение.",
             "versionDate": "2022-09-26T03:59:00+0300",
             "iconURL": "https://lazyshop.app/icons/hjmrlycvlv.png",
             "size": 114085068 ,
+			"type": "1",
         },
 
         {
-           "name": "Call Recorder PRO",
+            "name": "Call Recorder PRO \n | #утилиты |",
             "version": "2.91",
             "downloadURL": "https://www.dropbox.com/s/o3rze9nu863xh8o/CallRecorder.ipa?dl=1",
             "localizedDescription": "Запись ваших телефонных разговоров на iPhone",
             "versionDate": "2022-09-26T03:59:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/195f8c40fc.png",
             "size": 93637836 ,
+			"type": "1",
         },
 
         {
-           "name": "Лето PRO (ex Шрифты)",
+            "name": "Лето PRO (ex Шрифты) \n | #редакторы | #эксклюзив |",
             "version": "7.5",
             "downloadURL": "https://www.dropbox.com/s/v7elu09nx4zuyj0/LetoPRO.ipa?dl=1",
             "localizedDescription": "Сотни крутых шрифтов для ваших видео, сторис, создание субтитров",
             "versionDate": "2022-10-22T16:21:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/f0606ae2d6.png",
             "size": 137363456 ,
+			"type": "1",
         },
 
         {
-           "name": "KinoPub",
+            "name": "KinoPub \n | #видео |",
             "version": "1.0 (87)",
             "downloadURL": "https://www.dropbox.com/s/tjn5gmds64pbkjm/kinopub.ipa?dl=1",
             "localizedDescription": "Лучший в своём роде сервис с невероятной базой фильмов, сериалов, мультфильмов, ТВ-шоу, концертов.\n❗️Работает скачивание в кэш!",
             "versionDate": "2022-09-27T00:11:00+0300",
             "iconURL": "https://lazyshop.app/icons/1yohhcvu36.png",
             "size": 40579891 ,
+			"type": "1",
         },
 
         {
-           "name": "Mimo PRO",
+            "name": "Mimo PRO \n | #обучение | #эксклюзив |",
             "version": "4.73.1",
             "downloadURL": "https://www.dropbox.com/s/x55zzn5sijj5otk/Mim0Pro.ipa?dl=1",
             "localizedDescription": "Научись программировать на Python, JavaScript и HTML.\n❗️Для активации взлома перезапустите приложение!",
             "versionDate": "2022-09-27T00:32:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/67e2d8f0da.png",
             "size": 159173836 ,
+			"type": "1",
         },
 
         {
-           "name": "YouTube 8-в-1 (Premium)",
+            "name": "YouTube 8-в-1 (Premium) \n | #видео |",
             "version": "17.37.3 + 5.3.11 (new)",
             "downloadURL": "https://www.dropbox.com/s/p64gwnn6vhxcba0/youtube8in1.ipa?dl=1",
             "localizedDescription": "Бесплатно добавляют все функции платной подписки YouTube Premium (скачивание, фоновое воспроизведение, без рекламы, картинка в картинке). Избавляют от спонсорской рекламы, встроенной в видео. Расчищают видео, скрывая все всплывающие элементы.",
             "versionDate": "2022-09-28T21:47:00+0300",
             "iconURL": "https://lazyshop.app/icons/jkprao1kmc.png",
             "size": 159173836 ,
+			"type": "1",
         },
 
         {
-           "name": "English Galaxy PRO",
+            "name": "English Galaxy PRO \n | #обучение | #эксклюзив |",
             "version": "1.2.5",
             "downloadURL": "https://www.dropbox.com/s/f1fuwb8zfscrqzy/English.Galaxy.ipa?dl=1",
             "localizedDescription": "Английский язык и грамматика с нуля и до продвинутого",
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/7243666c40.png",
             "size": 64801996 ,
+			"type": "1",
         },
 
         {
-           "name": "Things 3",
+            "name": "Things 3 \n | #здоровье | #эксклюзив |",
             "version": "3.16.2",
             "downloadURL": "https://www.dropbox.com/s/245hqnng7vmgyci/Things.ipa?dl=1",
             "localizedDescription": "Управляйте вашей жизнью максимально эффективно",
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/40be8b2d7f.png",
             "size": 58929971 ,
+			"type": "1",
         },
 
         {
-           "name": "Bazaart PRO",
+            "name": "Bazaart PRO \n | #редакторы | #эксклюзив |",
             "version": "8.0.0",
             "downloadURL": "https://www.dropbox.com/s/behpsc0i7hvnozg/Bazaart.ipa?dl=1",
             "localizedDescription": "Фоторедактор с уникальной функциональностью",
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/95fb57e286.png",
             "size": 83990937 ,
+			"type": "1",
         },
 
         {
-           "name": "30 Day Fitness PRO",
+            "name": "30 Day Fitness PRO \n | #здоровье | #эксклюзив |",
             "version": "2.13.2",
             "downloadURL": "https://www.dropbox.com/s/740vysxxp285vbe/30.Day.Fitness.Challenge.ipa?dl=1",
             "localizedDescription": "30 дней 7-минутных тренировок дома + диета",
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/5aa4b67292.png",
             "size": 290350694 ,
+			"type": "1",
         },
 
         {
-           "name": "Deezer Premium",
+            "name": "Deezer Premium \n | #аудио |",
             "version": "8.38.0",
             "downloadURL": "https://www.dropbox.com/s/hjx5g6l815wivmm/DeezerPro.ipa?dl=1",
             "localizedDescription": "Плейлисты и музыка офлайн в вашем устройстве",
             "versionDate": "2022-10-03T17:02:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/2318b38647.png",
             "size": 74868326 ,
+			"type": "3",
         },
 
         {
-           "name": "Pillow PRO",
+            "name": "Pillow PRO \n | #здоровье | #эксклюзив |",
             "version": "3.9.92",
             "downloadURL": "https://www.dropbox.com/s/xp0qmah462pjdwg/PillowPRO.ipa?dl=1",
             "localizedDescription": "Умный будильник и анализатор фаз вашего сна",
             "versionDate": "2022-10-04T13:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/d9c1829492.png",
             "size": 147324928 ,
+			"type": "1",
         },
 
         {
-           "name": "Аудиокниги Premium",
+            "name": "Аудиокниги Premium \n | #книги | #аудио |",
             "version": "9.0.4",
             "downloadURL": "https://www.dropbox.com/s/62kwnh61lijeq26/AudioBooks.ipa?dl=1",
             "localizedDescription": "Тысячи аудиокниг, сотни авторов, десятки жанров",
             "versionDate": "2022-10-07T23:55:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/c8b7f7f0d6.png",
             "size": 9017753 ,
+			"type": "3",
         },
 
         {
-           "name": "KyBook 2 PRO",
+            "name": "KyBook 2 PRO \n | #книги | #эксклюзив |",
             "version": "1.2.8",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/KyBook2.ipa",
             "localizedDescription": "Лучшая читалка книг с поиском и скачиванием из сети",
             "versionDate": "2022-10-07T23:55:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/f222f90fbb.png",
             "size": 74868326 ,
+			"type": "1",
         },
 
         {
-           "name": "ProMovie Recorder",
+            "name": "ProMovie Recorder \n | #камеры |",
             "version": "1.11.6",
             "downloadURL": "https://www.dropbox.com/s/ekwoyu6hdmrjlyq/ProMovieRec.ipa?dl=1",
             "localizedDescription": "Простейшая видеокамера с массой настроек",
             "versionDate": "2022-10-07T23:55:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/9ca35356f3.png",
             "size": 1782579 ,
+			"type": "1",
         },
 
         {
-           "name": "ProCam 8",
+            "name": "ProCam 8 \n | #камеры |",
             "version": "14.0.4",
             "downloadURL": "https://www.dropbox.com/s/pmximgpovz00pft/ProCam8.ipa?dl=1",
             "localizedDescription": "Профессиональная фото-видеокамера + редактор",
             "versionDate": "2022-10-07T23:55:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/e2adccd2fb.png",
             "size": 13631488 ,
+			"type": "1",
         },
 
         {
-           "name": "LazyTool",
+            "name": "LazyTool \n | #эксклюзив | #аудио |",
             "version": "2.163",
             "downloadURL": "https://www.dropbox.com/s/80ls1fz4r0fcuat/LazyTool.ipa?dl=1",
             "localizedDescription": "Доступ к ВК, оффлайн режим, эквалайзер, плейлисты, ночная тема и множество других плюшек. \n❗️Взломан на подписку!\nИнструкция:\n1. Войдите в свой аккаунт ВК.\n2. Обязательно перейдите в раздел «Рекомендации» и подождите пока он загрузится.\n3. Все доступные функции будут готовы к работе.\n ⚠️ При каждой смене аккаунта ВК необходимо повторять те же действия!",
             "versionDate": "2022-10-23T10:15:00+0300",
             "iconURL": "https://lazyshop.app/icons/fgqxg07vz7.png",
             "size": 47290777 ,
+			"type": "3",
         },
 
         {
-           "name": "Okko: кино, сериалы, спорт, ТВ",
+            "name": "Okko: видео, сериалы, спорт, ТВ \n | #видео | #удаленные |",
             "version": "10.16.0",
             "downloadURL": "https://www.dropbox.com/s/fkjisy7svp97dxz/Okko.ipa?dl=1",
-            "localizedDescription": "Один из крупнейших легальных онлайн-кинотеатров в России",
+            "localizedDescription": "Один из крупнейших легальных онлайн-видеотеатров в России",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/05f360e19f.png",
             "size": 77280051 ,
+			"type": "1",
         },
 
         {
-           "name": "PREMIER - Сериалы, фильмы, шоу",
+            "name": "PREMIER - Сериалы, фильмы, шоу \n | #удаленные | #видео |",
             "version": "2.34.0",
             "downloadURL": "https://www.dropbox.com/s/v5sditr1497bsg0/PREMIER_2.34.0_1665308433.ipa?dl=1",
-            "localizedDescription": "PREMIER — онлайн-кинотеатр с любовью к российской уникальности. Если вы ищете сериалы, фильмы и шоу с острым и честным взглядом на жизнь, то вам сюда.",
+            "localizedDescription": "PREMIER — онлайн-видеотеатр с любовью к российской уникальности. Если вы ищете сериалы, фильмы и шоу с острым и честным взглядом на жизнь, то вам сюда.",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://raw.githubusercontent.com/laughaust/shshhdhdjss/main/D8F0EBB6-1A3E-463F-8066-C0D670067D4D.png",
             "size": 30828134 ,
+			"type": "1",
         },
 
         {
-           "name": "Electra",
+            "name": "Electra",
             "version": "2.0",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Electra.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X), iPod touch 6G, iPad (Air, Air 2, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5), iPad mini (2, 3, 4) под управлением iOS 11 (11.0, 11.0.1, 11.0.2, 11.0.3, 11.1, 11.1.1, 11.1.2, 11.2, 11.2.1, 11.2.2, 11.2.5, 11.2.6, 11.3, 11.3.1, 11.4, 11.4.1)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/879mbapavv.png",
             "size": 52219084 ,
+			"type": "4",
         },
 
         {
-           "name": "Chimera",
+            "name": "Chimera",
             "version": "1.6.0",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Chimera.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max), iPod touch (6G, 7G), iPad (Air, Air 2, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5, 11, 12.9(3G)), iPad mini (2, 3, 4) под управлением iOS 12 (12.0, 12.0.1, 12.1, 12.1.1, 12.1.2, 12.1.3, 12.1.4, 12.2, 12.4, 12.4.9)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/nibkf2uy0v.png",
             "size": 30723276 ,
+			"type": "4",
         },
 
         {
-           "name": "Taurine",
+            "name": "Taurine",
             "version": "1.1.1",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Taurine.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для iOS (14.0-14.3)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/sj3ghycro9.png",
             "size": 33239859 ,
+			"type": "4",
         },
 
         {
-           "name": "Odyssey",
+            "name": "Odyssey",
             "version": "1.4.1",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/Odyssey.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (6S, 6S Plus, SE, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max, 11, 11 Pro, 11 Pro Max, SE 2), iPad (Air 3, 5, 6), iPad Pro (9.7, 12.9, 12.9(2G), 10.5, 11, 12.9(3G)), iPad mini (4, 5) под управлением iOS (13.0 - 13.7)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/0qld179gkt.png",
             "size": 27472691 ,
+			"type": "4",
         },
 
         {
-           "name": "doubleh3lix",
+            "name": "doubleh3lix",
             "version": "RC8",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/doubleh3lix.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5S, 6, 6 Plus, 6S, 6S Plus, SE), iPod touch 6G, iPad (Air, Air 2, 5), iPad Pro (9.7, 12.9), iPad mini (2, 3, 4) под управлением iOS 10 (10.0.1, 10.0.2, 10.1, 10.1.1, 10.2, 10.2.1, 10.3, 10.3.1, 10.3.2, 10.3.3)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/8s1zu7kw6s.png",
             "size": 11324620 ,
+			"type": "4",
         },
 
         {
-           "name": "h3lix",
+            "name": "h3lix",
             "version": "RC6",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/h3lix.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для устройств iPhone (5, 5C), iPad 4 под управлением iOS 10 (10.0.1, 10.0.2, 10.1, 10.1.1, 10.2, 10.2.1, 10.3, 10.3.1, 10.3.2, 10.3.3, 10.3.4)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/cmkib5jsog.png",
             "size": 8703180 ,
+			"type": "4",
         },
 
         {
-           "name": "Unc0ver",
+            "name": "Unc0ver",
             "version": "8.0.2",
             "downloadURL": "https://github.com/laughaust/shshhdhdjss/releases/latest/download/unc0ver.ipa",
             "localizedDescription": "Полуотвязанный джейлбрейк для iOS (11.0-14.8)",
             "versionDate": "2022-10-09T18:34:00+0300",
             "iconURL": "https://lazyshop.app/icons/yq04yq5722.png",
             "size": 54525952 ,
+			"type": "4",
         },
 
         {
-           "name": "Sonic Dash+",
+            "name": "Sonic Dash+ \n | #игры | #arcade |",
             "version": "1.3.0",
             "downloadURL": "https://www.dropbox.com/s/9n3qeeqbw3eom84/SonicDash%2B.ipa?dl=1",
             "localizedDescription": "Сумасшедшие гонки по красочным трёхмерным уровням",
             "versionDate": "2022-10-12T14:24:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/fa2fd97ef5.png",
             "size": 168820736 ,
+			"type": "2",
         },
 
         {
-           "name": "Papers, Please",
+            "name": "Papers, Please \n | #игры |",
             "version": "1.4.1",
             "downloadURL": "https://www.dropbox.com/s/5852aazu37o21hd/PapersPlease.ipa?dl=1",
             "localizedDescription": "Антиутопический документальный триллер",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/04fc1a70dc.png",
             "size": 27829207 ,
+			"type": "2",
         },
 
         {
-           "name": "Rovio Classics: Angry Birds",
+            "name": "Rovio Classics: Angry Birds \n | #игры |",
             "version": "1.2",
             "downloadURL": "https://www.dropbox.com/s/2xcxu8e7lyxjdnj/AngryBirds.ipa?dl=1",
             "localizedDescription": "Классика возвращается спустя 10 лет!",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/b23952bfcd.png",
             "size": 158240604 ,
+			"type": "2",
         },
 
         {
-           "name": "Road Trip MPG",
+            "name": "Road Trip MPG \n | #авто |",
             "version": "17.4.1",
             "downloadURL": "https://www.dropbox.com/s/uiwhckfqnhvc6r7/Road.Trip.ipa?dl=1",
             "localizedDescription": "Статистика экономии топлива, расходов, история ТО",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/5587192b1a.png",
             "size": 9510584 ,
+			"type": "1",
         },
 
         {
-           "name": "OBD Fusion",
+            "name": "OBD Fusion \n | #авто |",
             "version": "5.31.0",
             "downloadURL": "https://www.dropbox.com/s/3vp5rvd2jamueq9/OBDFusion.ipa?dl=1",
             "localizedDescription": "Детальная диагностика двигателя вашего автомобиля",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/f98bc61770.png",
             "size": 42771415 ,
+			"type": "1",
         },
 
         {
-           "name": "LumaFusion",
+            "name": "LumaFusion \n | #редакторы |",
             "version": "3.1.4",
             "downloadURL": "https://www.dropbox.com/s/5ekrwzpcy2mhp06/LumaFusion.ipa?dl=1",
             "localizedDescription": "Профессиональный видеомонтаж у вас в кармане",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/fb32db7cf7.png",
             "size": 130075852 ,
+			"type": "1",
         },
 
         {
-           "name": "Pocket Earth PRO",
+            "name": "Pocket Earth PRO \n | #навигация |",
             "version": "3.8.3",
             "downloadURL": "https://www.dropbox.com/s/fakqzqlkjuk1wjz/PocketEarthPRO.ipa?dl=1",
             "localizedDescription": "Офлайн карты и гиды для путешественников",
             "versionDate": "2022-10-12T15:53:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/43d388e8f4.png",
             "size": 21684551 ,
+			"type": "1",
 		},
 
         {
-           "name": "VSCO Premium",
+            "name": "VSCO Premium \n | #редакторы | #эксклюзив |",
             "version": "274.0",
             "downloadURL": "https://www.dropbox.com/s/2elpbrr7ubhio6y/VSCO.ipa?dl=1",
             "localizedDescription": "Фоторедактор для креатива и самовыражения",
             "versionDate": "2022-10-13T18:57:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/7f6eed3f8d.png",
             "size": 107174952 ,
+			"type": "1",
 		},
 
         {
-           "name": "Smart Driver Premium",
+            "name": "Smart Driver Premium \n | #авто |",
             "version": "1.9.11",
             "downloadURL": "https://www.dropbox.com/s/gd69vj08ue37rl1/Smart.Driver.ipa?dl=1",
             "localizedDescription": "Видеорегистратор, антирадар, предупреждения об опасностях",
             "versionDate": "2022-10-13T18:57:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/0bd2cb3c87.png",
             "size": 68335697 ,
+			"type": "1",
 		},
 
         {
-           "name": "Mini Motorways",
+            "name": "Mini Motorways \n | #игры | #arcade |",
             "version": "1.7.2",
             "downloadURL": "https://www.dropbox.com/s/smc60i402hd9s22/MiniMotorways.ipa?dl=1",
             "localizedDescription": "Нарисуйте дороги, которые объединят весь город",
             "versionDate": "2022-10-13T18:57:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/330f09535c.png",
             "size": 86947921 ,
+			"type": "2",
 		},
 
         {
-           "name": "SimCity BuildIt HACKed",
+            "name": "SimCity BuildIt HACKed \n | #игры |",
             "version": "1.43.1",
             "downloadURL": "https://www.dropbox.com/s/znw8gcjdziq008r/SimCity.ipa?dl=1",
             "localizedDescription": "Постройте свой мегаполис и станьте его мэром",
             "versionDate": "2022-10-13T18:57:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/7dffa58274.png",
             "size": 144776888 ,
+			"type": "2",
         },
 
         {
-           "name": "Focos PRO",
+            "name": "Focos PRO \n | #камеры | #эксклюзив |",
             "version": "2.4.5",
             "downloadURL": "https://www.dropbox.com/s/r53zxpobm7ljyiu/FocosPRO.ipa?dl=1",
             "localizedDescription": "Профессиональная камера с большой апертурой",
             "versionDate": "2022-10-14T15:24:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/29ea2f4d04.png",
             "size": 76755763 ,
+			"type": "1",
         },
 
         {
-           "name": "Infuse 7 PRO",
+            "name": "Infuse 7 PRO \n | #видео | #эксклюзив |",
             "version": "7.4.6",
             "downloadURL": "https://www.dropbox.com/s/h2fnhouv53vz3jc/InfusePRO.ipa?dl=1",
             "localizedDescription": "Видеоплеер с 5.1, AC3, DTS, Dolby Digital, стримингом, субтитрами и т.д.",
             "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/ce238be09f.png",
             "size": 40496005 ,
+			"type": "1",
+			"type": "3",
         },
 
         {
-           "name": "Focos Live PRO",
+            "name": "Focos Live PRO \n | #камеры | #эксклюзив |",
             "version": "1.4.7",
             "downloadURL": "https://www.dropbox.com/s/n5a11cj4x50l49p/FocosLive.ipa?dl=1",
             "localizedDescription": "Съемка портретного видео с размытием фона",
             "versionDate": "2022-10-14T15:24:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/dc8a9b5144.png",
             "size": 89087016 ,
+			"type": "1",
         },
 
         {
-           "name": "Sleep Cycle Premium",
+            "name": "Sleep Cycle Premium \n | #здоровье | #эксклюзив |",
             "version": "6.16",
             "downloadURL": "https://www.dropbox.com/s/a8do2aztcpr0lii/SleepCycle.ipa?dl=1",
             "localizedDescription": "Трекер и умный будильник с контролем фаз сна",
             "versionDate": "2022-10-14T15:24:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/87df35ee29.png",
             "size": 262636830 ,
+			"type": "1",
         },
 
         {
-           "name": "PDF Pro 4",
+            "name": "PDF Pro 4 \n | #офис |",
             "version": "4.7.3",
             "downloadURL": "https://www.dropbox.com/s/l61ddesx7n5vjrq/PDF%20Pro.ipa?dl=1",
             "localizedDescription": "Поразительно мощный инструмент для работы с PDF",
             "versionDate": "2022-10-25T01:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/5e71da11e9.png",
             "size": 27304919 ,
+			"type": "1",
         },
 
         {
-           "name": "Gemini PRO",
+            "name": "Gemini PRO \n | #утилиты | #эксклюзив |",
             "version": "1.3.98",
             "downloadURL": "https://www.dropbox.com/s/rjlkpc4tjgolb57/GeminiPRO.ipa?dl=1",
             "localizedDescription": "Освободи гигабайты места от лишних фото и видео",
             "versionDate": "2022-10-25T01:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/766cc4dd4d.png",
             "size": 107122524 ,
+			"type": "1",
         },
 
         {
-           "name": "WiFi Map PRO",
+            "name": "WiFi Map PRO \n | #утилиты |",
             "version": "6.2.9",
             "downloadURL": "https://www.dropbox.com/s/jo6b2dg3lzjyy7m/WIFIMapPRO.ipa?dl=1",
             "localizedDescription": "WiFi Точки доступа, Пароли от них, VPN, Proxy",
             "versionDate": "2022-10-28T09:18:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/617a8e264e.png",
             "size": 147125698 ,
+			"type": "1",
         },
 
         {
-           "name": "FiLMiC PRO",
+            "name": "FiLMiC PRO \n | #камеры |",
             "version": "6.19.1",
             "downloadURL": "https://www.dropbox.com/s/8zrndaj41ndozxj/FilmicPRO.ipa?dl=1",
             "localizedDescription": "Наиболее совершенная видеокамера для iPhone",
             "versionDate": "2022-10-28T09:18:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/1d2c1b3619.png",
             "size": 66804776 ,
+			"type": "1",
 		},
 
         {
-           "name": "EnhanceFox PRO",
+            "name": "EnhanceFox PRO \n | #редакторы | #эксклюзив |",
             "version": "6.1.0",
             "downloadURL": "https://www.dropbox.com/s/y1awv568qwvtpqh/EnhanceFoxPRO.ipa?dl=1",
             "localizedDescription": "Улучшение качества фото, раскрашивание Ч/Б, доп. эффекты",
             "versionDate": "2022-11-02T22:39:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/c328940558.png",
             "size": 188691251 ,
+			"type": "1",
 		},
 
         {
-           "name": "Tappsk PRO",
+            "name": "Tappsk PRO \n | #здоровье | #эксклюзив |",
             "version": "2.5.40",
             "downloadURL": "https://www.dropbox.com/s/beuru7aapy25mfb/TappskPRO.ipa?dl=1",
             "localizedDescription": "Ежедневник, планировщик, трекер привычек и список дел",
             "versionDate": "2022-11-02T22:39:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/74b9881196.png",
             "size": 74606182 ,
+			"type": "1",
 		},
 
         {
-           "name": "Lightroom Premium",
+            "name": "Lightroom Premium \n | #редакторы | #эксклюзив |",
             "version": "8.0.0",
             "downloadURL": "https://www.dropbox.com/s/3cu8mospwuvrhkx/Lightroom.ipa?dl=1",
             "localizedDescription": "Профессиональный редактор фото с пресетами",
             "versionDate": "2022-11-05T00:44:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/8227fe6a48.png",
             "size": 174231388 ,
+			"type": "1",
         },
 
         {
-           "name": "LazyLRD (Premium)",
+            "name": "LazyLRD (Premium) \n | #соцсети | #эксклюзив |",
             "version": "26.2.0 + 2.4 (beta)",
             "downloadURL": "https://www.dropbox.com/s/9aox2up30kd1z5n/TikTok.ipa?dl=1",
             "localizedDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.\n❗️Встроенная смена региона для обхода блокировок!",
             "versionDate": "2022-11-11T02:47:00+0300",
             "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
             "size": 175080734 ,
+			"type": "1",
 		},
 
         {
-           "name": "Streeme",
+            "name": "Streeme \n | #видео |",
             "version": "1.0.50",
             "downloadURL": "https://www.dropbox.com/s/ze4tilhkwxzep5o/Streeme.ipa?dl=1",
             "localizedDescription": "Смотрите IPTV с комфортом прямо на мобильном",
             "versionDate": "2022-11-13T01:00:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/72edd12f37.png",
             "size": 40087060 ,
+			"type": "1",
+
         },
 
         {
-           "name": "KinoHome",
+            "name": "KinoHome \n | #видео |",
             "version": "3.0 (beta 2)",
             "downloadURL": "https://www.dropbox.com/s/zw23qk4r2eot033/KinoHome%281%29.ipa?dl=1",
-            "localizedDescription": "Удобный просмотр фильмов и сериалов с бесплатных кинотеатров.\n❗️Для активации взлома следуйте инструкции:\n- установите приложение\n- запустите и подождите пару секунд\n- удалите приложение\n- установите приложение заново\nПосле всех вышеперечисленных действий подписка будет активирована.",
+            "localizedDescription": "Удобный просмотр фильмов и сериалов с бесплатных видеотеатров.\n❗️Для активации взлома следуйте инструкции:\n- установите приложение\n- запустите и подождите пару секунд\n- удалите приложение\n- установите приложение заново\nПосле всех вышеперечисленных действий подписка будет активирована.",
             "versionDate": "2022-11-13T23:58:00+0300",
             "iconURL": "https://dl.lazyshop.app/images/catalog/029fc4a15d.png",
             "size": 94350868 ,
+			"type": "1",
+		},
+
+        {
+            "size": 22020096 ,
+            "type": "1",
+            "versionDate": "2022-12-01T22:55:00+0300",
+            "name": "Shuggah \n | #здоровье |",
+            "version": "4.10.5",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/95515415be.png",
+            "downloadURL": "https://www.dropbox.com/s/gzs99a5e1q17gx5/Shuggah.ipa?dl=1",
+            "localizedDescription": "Контроль уровня сахара в крови в удобном приложении"
+	    },
+
+        {
+            "size": 882900992 ,
+            "type": "2",
+            "versionDate": "2022-12-01T22:56:00+0300",
+            "name": "SpongeBob: Погоня за формулой \n | #игры | #arcade |",
+            "version": "3.3.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c916778ae6.png",
+            "downloadURL": "https://www.dropbox.com/s/6jgfej7bo2u0g91/PattyPursuit_3.3.0_Remover.ipa?dl=1",
+            "localizedDescription": "Захватывающий сайд-скроллер с любимыми героями"
+	    },
+
+        {
+            "size": 230686720 ,
+            "type": "2",
+            "versionDate": "2022-12-01T22:57:00+0300",
+            "name": "Card Of Darkness \n | #игры | #arcade |",
+            "version": "1.1.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/7b0c387fa5.png",
+            "downloadURL": "https://www.dropbox.com/s/kfcn0x04uoc38u1/Card%20Of%20Darkness_1.1.3_Remover.ipa?dl=1",
+            "localizedDescription": "Эпическое карточное приключение ручной работы"
+	    },
+
+        {
+            "size": 698351616 ,
+            "type": "2",
+            "versionDate": "2022-12-01T22:58:00+0300",
+            "name": "LEGO Star Wars Battles \n | #игры | #arcade |",
+            "version": "1.99",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/0fbdfdc2bf.png",
+            "downloadURL": "https://www.dropbox.com/s/denvx9q87ayn8q1/LEGO%20Star%20Wars%20Battles_1.99_Remover.ipa?dl=1",
+            "localizedDescription": "Управляйте армией LEGO® в PvP-сражениях в реальном времени"
+	    },
+
+        {
+            "size": 507510784 ,
+            "type": "2",
+            "versionDate": "2022-12-01T22:59:00+0300",
+            "name": "Sayonara Wild Hearts \n | #игры | #arcade |",
+            "version": "1.0.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/3b0f92e52a.png",
+            "downloadURL": "https://www.dropbox.com/s/p3zz6e693zvay0w/Sayonara_1.0.2_Remover.ipa?dl=1",
+            "localizedDescription": "Поп-аркада с танцами, лазерами, мотоциклами и разбитыми сердцами"
+	    },
+
+        {
+            "size": 164626432 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:00:00+0300",
+            "name": "Litchi for DJI Drones \n | #утилиты |",
+            "version": "2.14.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5288e5b9f9.png",
+            "downloadURL": "https://www.dropbox.com/s/ra6i6w7zhfodqaj/Litchi_2.14.3.ipa?dl=1",
+            "localizedDescription": "Раскройте весь потенциал вашего дрона DJI"
+	    },
+
+        {
+            "size": 272629760 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:01:00+0300",
+            "name": "Sneaky Sasquatch \n | #игры | #arcade |",
+            "version": "1.8.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/283477b8fb.png",
+            "downloadURL": "https://www.dropbox.com/s/d3gmpvyizsofxmx/Sasquatch_1.8.4_Remover.ipa?dl=1",
+            "localizedDescription": "Займитесь невинными проказами в роли настоящего йети!"
+	    },
+
+        {
+            "size": 644874240 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:02:00+0300",
+            "name": "Crash Bandicoot HACKed \n | #игры |",
+            "version": "1.170.29",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/580d5ec0ef.png",
+            "downloadURL": "https://www.dropbox.com/s/nsp1n8knh9zdbeb/Crash%20Bandicoot%20HACKed.ipa?dl=1",
+            "localizedDescription": "Нестареющая классика: Беги, крутись, скользи, круши!"
+	    },
+
+        {
+            "size": 223346688 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:03:00+0300",
+            "name": "Score! Hero 2022 HACKed \n | #игры |",
+            "version": "2.60",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e4840d8d84.png",
+            "downloadURL": "https://www.dropbox.com/s/5ps54l54lesakr8/Score%21%20Hero%202022%20HACKed.ipa?dl=1",
+            "localizedDescription": "Получивший множество наград, хит продаж в мобильном футболе!"
+	    },
+
+        {
+            "size": 563085312 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:04:00+0300",
+            "name": "Kingdom Rush HACKed \n | #игры |",
+            "version": "1.10.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/b95bf184f8.png",
+            "downloadURL": "https://www.dropbox.com/s/xmat9lxl9ftybmt/Vengeance_1.10.2_Remover.ipa?dl=1",
+            "localizedDescription": "Управляйте своей армией тьмы для защиты башен"
+	    },
+
+        {
+            "size": 47185920 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:05:00+0300",
+            "name": "Neutron Music Player \n | #аудио |",
+            "version": "2.21.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/000d9fa88e.png",
+            "downloadURL": "https://www.dropbox.com/s/40g628mgib0re8s/Neutron%20Music%20Player.ipa?dl=1",
+            "localizedDescription": "Аудиофильский плеер с 32/64-битным звуковым движком"
+	    },
+
+        {
+            "size": 40894464 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:06:00+0300",
+            "name": "iThoughts PRO \n | #утилиты |",
+            "version": "7.25",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/fe4ca5e145.png",
+            "downloadURL": "https://www.dropbox.com/s/j072mmkpdc3cqcq/iThoughts%20PRO.ipa?dl=1",
+            "localizedDescription": "Лучший инструмент создания ментальных карт (mindmap)"
+	    },
+
+        {
+            "size": 24117248 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:07:00+0300",
+            "name": "V for Wiki \n | #обучение |",
+            "version": "1.9.5",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5f2e9c408f.png",
+            "downloadURL": "https://www.dropbox.com/s/gecyxxdlkfaq11l/V%20for%20Wiki.ipa?dl=1",
+            "localizedDescription": "Wikipedia на iPhone, iPad, лучше, чем когда-либо"
+	    },
+
+        {
+            "size": 557842432 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:08:00+0300",
+            "name": "Ravensword: Shadowlands \n | #игры |",
+            "version": "8.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/150d6d9e29.png",
+            "downloadURL": "https://www.dropbox.com/s/1dbo47jw5ezrbfk/Ravensword_%20Shadowlands.ipa?dl=1",
+            "localizedDescription": "Одна из самых красивых игр на платформе iOS"
+	    },
+
+        {
+            "size": 55574528 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:09:00+0300",
+            "name": "Lawgivers Premium \n | #игры |",
+            "version": "2.0.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/3d1b394fcf.png",
+            "downloadURL": "https://www.dropbox.com/s/hqehiu9wctp2oww/Lawgivers%20Premium.ipa?dl=1",
+            "localizedDescription": "Политический симулятор на принципах демократии"
+	    },
+
+        {
+            "size": 59768832 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:10:00+0300",
+            "name": "QuickReader \n | #обучение |",
+            "version": "4.8",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c974b2b055.png",
+            "downloadURL": "https://www.dropbox.com/s/7xwnwqlow6bqf5p/QuickReader.ipa?dl=1",
+            "localizedDescription": "Обучитесь лучшей технологии скорочтения"
+	    },
+
+        {
+            "size": 60817408 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:11:00+0300",
+            "name": "Guru Maps Pro \n | #навигация |",
+            "version": "5.1.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/fdafcd93a3.png",
+            "downloadURL": "https://www.dropbox.com/s/houk0ujtpqic26f/Guru%20Maps%20Pro_5.1.0_Remover.ipa?dl=1",
+            "localizedDescription": "Удобные и быстрые офлайн-карты и навигация"
+	    },
+
+        {
+            "size": 24117248 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:12:00+0300",
+            "name": "WhoSampled \n | #аудио |",
+            "version": "1.40",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/441c83aac0.png",
+            "downloadURL": "https://www.dropbox.com/s/hgmln5mdsa9mnni/WhoSampled.ipa?dl=1",
+            "localizedDescription": "Крупнейшая в мире база данных сэмплов, каверов и ремиксов"
+	    },
+
+        {
+            "size": 6291456 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:13:00+0300",
+            "name": "Anilibria \n | #видео |",
+            "version": "1.1.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/66563e8443.png",
+            "downloadURL": "https://www.dropbox.com/s/ukrlraxjm5noo73/Anilibria.ipa?dl=1",
+            "localizedDescription": "Бесплатный просмотр аниме и сериалов в озучке Anilibria"
+	    },
+
+        {
+            "size": 51380224 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:14:00+0300",
+            "name": "MP3 Audiobook Player Pro \n | #аудио |",
+            "version": "1.155",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/eda73eac73.png",
+            "downloadURL": "https://www.dropbox.com/s/2s47hjqmzjobk75/MP3%20Audiobook%20Player%20Pro.ipa?dl=1",
+            "localizedDescription": "Самый простой и удобный способ слушать аудио книги"
+	    },
+
+        {
+            "size": 54525952 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:15:00+0300",
+            "name": "myTuner Pro \n | #аудио |",
+            "version": "8.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/15ab18f95d.png",
+            "downloadURL": "https://www.dropbox.com/s/r8mmigmaw0eqxeu/myTuner%20Pro.ipa?dl=1",
+            "localizedDescription": "Тысячи радиостанций в прямом эфире без рекламы"
+	    },
+
+        {
+            "size": 457179136 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:16:00+0300",
+            "name": "Root Board Game \n | #игры |",
+            "version": "1.29.7",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/fa03eb688a.png",
+            "downloadURL": "https://www.dropbox.com/s/8138ch4qjo4tv4o/Root%20Board%20Game.ipa?dl=1",
+            "localizedDescription": "Настоящие лесные сражения в формате настольной игры"
+	    },
+
+        {
+            "size": 36700160 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:17:00+0300",
+            "name": "Sonic Runners Adventur‪e \n | #игры |",
+            "version": "1.0.7",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/1e0c52b887.png",
+            "downloadURL": "https://www.dropbox.com/s/6tpaq2d06v1l9p8/Sonic%20Runners%20Adventure.ipa?dl=1",
+            "localizedDescription": "Ёж Соник в классическом нестареющем платформере"
+	    },
+
+        {
+            "size": 282066944 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:18:00+0300",
+            "name": "Do Not Feed The Monkeys \n | #игры |",
+            "version": "1.4.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/98d7bd5fbe.png",
+            "downloadURL": "https://www.dropbox.com/s/s2xpjesucdrxvkj/Do%20Not%20Feed%20The%20Monkeys.ipa?dl=1",
+            "localizedDescription": "Следите за людьми и собирайте данные об их частной жизни"
+	    },
+
+        {
+            "size": 12582912 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:19:00+0300",
+            "name": "jetAudio PLUS \n | #аудио |",
+            "version": "10.8.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/cc7de39192.png",
+            "downloadURL": "https://www.dropbox.com/s/262iw4rvn1cgzzo/jetAudio_10.8.1_Remover.ipa?dl=1",
+            "localizedDescription": "Музыкальный плеер со звуковыми эффектами и эквалайзером"
+	    },
+
+        {
+            "size": 78643200 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:20:00+0300",
+            "name": "Dazz Cam PRO \n | #камеры | #эксклюзив |",
+            "version": "2.4.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/a74e45c5a2.png",
+            "downloadURL": "https://www.dropbox.com/s/h0j3b3b2giam59b/Dazz_2.4.1_Remover.ipa?dl=1",
+            "localizedDescription": "Ретро фото на фотоплёнку и видео на 8mm VHS камеру"
+	    },
+
+        {
+            "size": 12582912 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:21:00+0300",
+            "name": "Bulk Video Compressor PRO \n | #утилиты | #эксклюзив |",
+            "version": "2.5",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/bd82820ae1.png",
+            "downloadURL": "https://www.dropbox.com/s/k0hu1uli5zecfqi/Bulk%20Video_2.5_Remover.ipa?dl=1",
+            "localizedDescription": "Освободите больше места на вашем iPhone"
+	    },
+
+        {
+            "size": 74448896 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:22:00+0300",
+            "name": "ToonMe PRO \n | #редакторы | #эксклюзив |",
+            "version": "0.9.34",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/2953cbfd36.png",
+            "downloadURL": "https://www.dropbox.com/s/lkg2odatreb9rr2/ToonMe_0.9.34_Remover.ipa?dl=1",
+            "localizedDescription": "Десятки мультяшных фильтров для фото и аватарок"
+	    },
+
+        {
+            "size": 95420416 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:23:00+0300",
+            "name": "Flo Premium \n | #здоровье | #эксклюзив |",
+            "version": "9.10.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/300bbe7657.png",
+            "downloadURL": "https://www.dropbox.com/s/oh90wkz11oytr0a/Flo_9.10.1_Remover.ipa?dl=1",
+            "localizedDescription": "Женские календари (х3), гиды и курсы по женскому здоровью"
+	    },
+
+        {
+            "size": 91226112 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:24:00+0300",
+            "name": "Shadow Fight 2 SE \n | #игры |",
+            "version": "1.0.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/ebe16d7eed.png",
+            "downloadURL": "https://www.dropbox.com/s/hqxmb9ojdwoeqrn/Shadow%20Fight%202_1.0.4_Remover.ipa?dl=1",
+            "localizedDescription": "Лучший мобильный файтинг возвращается!"
+	    },
+
+        {
+            "size": 549453824 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:25:00+0300",
+            "name": "Cluedo \n | #игры |",
+            "version": "2.8.24",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c6dd08df2b.png",
+            "downloadURL": "https://www.dropbox.com/s/qeewbpqt1km3bhu/Cluedo.ipa?dl=1",
+            "localizedDescription": "Классическая настольная детективная игра"
+	    },
+
+        {
+            "size": 186646528 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:26:00+0300",
+            "name": "Video LUT \n | #редакторы |",
+            "version": "3.86",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/cbff27c2c8.png",
+            "downloadURL": "https://www.dropbox.com/s/licuopp8l0kcerz/Video%20LUT.ipa?dl=1",
+            "localizedDescription": "Кинематографические фильтры для ваших видео"
+	    },
+
+        {
+            "size": 659554304 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:27:00+0300",
+            "name": "Grimvalor \n | #игры |",
+            "version": "1.2.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/52a1b2dad6.png",
+            "downloadURL": "https://www.dropbox.com/s/60x6n826l9c9os2/Grimvalor.ipa?dl=1",
+            "localizedDescription": "Захватывающий платформер в жанре hack & slash"
+	    },
+
+        {
+            "size": 236978176 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:28:00+0300",
+            "name": "Cosmic Frontline AR \n | #игры |",
+            "version": "1.72",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/2377c2f443.png",
+            "downloadURL": "https://www.dropbox.com/s/oruegfv9bbdm057/Cosmic%20Frontline%20AR.ipa?dl=1",
+            "localizedDescription": "Галактические битвы в дополненной реальности!"
+	    },
+
+        {
+            "size": 8388608 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:29:00+0300",
+            "name": "PushFit PRO \n | #здоровье |",
+            "version": "2.6.8",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/185f26d058.png",
+            "downloadURL": "https://www.dropbox.com/s/8chjme7udfh2y7q/PushFit%20Pro_2.6.8_Remover.ipa?dl=1",
+            "localizedDescription": "Автоматизирует тренировки и статистику ваших отжиманий"
+	    },
+
+        {
+            "size": 340787200 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:30:00+0300",
+            "name": "Ocmo \n | #игры |",
+            "version": "1.0.19",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/ec8b22900b.png",
+            "downloadURL": "https://www.dropbox.com/s/gpvx92b40r9tj48/Ocmo.ipa?dl=1",
+            "localizedDescription": "Хардкорный платформер-хоррор на выживание"
+	    },
+
+        {
+            "size": 634388480 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:31:00+0300",
+            "name": "The Escapists 2 \n | #игры |",
+            "version": "1.11",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/22e84a9b39.png",
+            "downloadURL": "https://www.dropbox.com/s/phb2gtfzd0yxdvk/The%20Escapists%202.ipa?dl=1",
+            "localizedDescription": "Смешной и захватывающий симулятор побега из тюрьмы"
+	    },
+
+        {
+            "size": 117440512 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:32:00+0300",
+            "name": "Magnus Trainer PRO \n | #обучение | #эксклюзив |",
+            "version": "1.19.16",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/9c01774ffe.png",
+            "downloadURL": "https://www.dropbox.com/s/tlnaapxx76b4ob1/Magnus%20Trainer_1.19.16_Remover.ipa?dl=1",
+            "localizedDescription": "Учитесь играть в шахматы у настоящего чемпиона мира"
+	    },
+
+        {
+            "size": 612368384 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:33:00+0300",
+            "name": "The Room: Old Sins \n | #игры |",
+            "version": "1.0.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/37e67b5e91.png",
+            "downloadURL": "https://www.dropbox.com/s/0wi42pe6y7xcowf/The%20Room_%20Old%20Sins.ipa?dl=1",
+            "localizedDescription": "Открой сокровенные тайны сложного кукольного домика"
+	    },
+
+        {
+            "size": 135266304 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:34:00+0300",
+            "name": "Lensa PRO \n | #редакторы | #эксклюзив |",
+            "version": "3.8.9",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e53d3f80e8.png",
+            "downloadURL": "https://www.dropbox.com/s/alld7dvy00sgspg/Lensa_3.8.9_Remover.ipa?dl=1",
+            "localizedDescription": "Интеллектуальная коррекция селфи, размытие фона"
+	    },
+
+        {
+            "size": 36700160 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:35:00+0300",
+            "name": "Package Inc. \n | #игры |",
+            "version": "3.0.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e5073340f5.png",
+            "downloadURL": "https://www.dropbox.com/s/g3h75av0f85w19z/Package%20Inc.ipa?dl=1",
+            "localizedDescription": "Постройте империю доставки в лучшем симуляторе на iOS"
+	    },
+
+        {
+            "size": 15728640 ,
+            "type": "3",
+            "versionDate": "2022-12-01T23:36:00+0300",
+            "name": "Radio Tuner PRO \n | #аудио |",
+            "version": "5.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/8903f44a49.png",
+            "downloadURL": "https://www.dropbox.com/s/r823xxxk2vwh3dl/Radio%20Tuner_5.2_Remover.ipa?dl=1",
+            "localizedDescription": "Слушайте 70 000 станций, добавляйте свои, записывайте песни"
+	    },
+
+        {
+            "size": 8388608 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:37:00+0300",
+            "name": "HUD Speed PRO \n | #авто |",
+            "version": "55.1.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/69d6bbd5d7.png",
+            "downloadURL": "https://www.dropbox.com/s/txow9xuxoujlb4m/HUD%20Speed%20PRO.ipa?dl=1",
+            "localizedDescription": "Помогает соблюдать ПДД и не получать штрафы в странах СНГ"
+	    },
+
+        {
+            "size": 869269504 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:38:00+0300",
+            "name": "Sky Gamblers: Storm Raiders \n | #игры |",
+            "version": "1.5.10",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/cdd1bd846e.png",
+            "downloadURL": "https://www.dropbox.com/s/1g2es2r5f5mnqft/Sky%20Gamblers_%20Storm%20Raiders.ipa?dl=1",
+            "localizedDescription": "Воздушные сражения времен Второй Мировой Войны"
+	    },
+
+        {
+            "size": 94371840 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:39:00+0300",
+            "name": "Streaks \n | #здоровье |",
+            "version": "7.5.16",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/47c434dbb3.png",
+            "downloadURL": "https://www.dropbox.com/s/ym5l9isnfkqp158/Streaks_7.5.16_Remover.ipa?dl=1",
+            "localizedDescription": "Ставьте цели и формируйте правильные привычки"
+	    },
+
+        {
+            "size": 77594624 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:40:00+0300",
+            "name": "Mondly Premium \n | #обучение | #эксклюзив |",
+            "version": "9.28.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/d2478d0f93.png",
+            "downloadURL": "https://www.dropbox.com/s/pw6qd7ymqiu2xmr/Mondly_9.28.0_Remover.ipa?dl=1",
+            "localizedDescription": "Обучитесь чтению, слушанию, письму на 33 языках"
+	    },
+
+        {
+            "size": 75497472 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:41:00+0300",
+            "name": "Streaks Workout \n | #здоровье |",
+            "version": "6.0.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/1430b92a76.png",
+            "downloadURL": "https://www.dropbox.com/s/xn9ftnmog3su5d9/Workout_6.0.2_Remover.ipa?dl=1",
+            "localizedDescription": "Тренируйтесь дома, в парке, в зале, в любом месте!"
+	    },
+
+        {
+            "size": 23068672 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:42:00+0300",
+            "name": "Антирадар Стрелка \n | #авто |",
+            "version": "3.65",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/1cf458ff98.png",
+            "downloadURL": "https://www.dropbox.com/s/62p9xwfg7yraf6l/%D0%90%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%B4%D0%B0%D1%80%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0.zip?dl=1",
+            "localizedDescription": "Ставьте цели и формируйте правильные привычки"
+	    },
+
+        {
+            "size": 498073600 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:43:00+0300",
+            "name": "FAR: Lone Sails \n | #игры |",
+            "version": "1.32",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c1048bd20e.png",
+            "downloadURL": "https://www.dropbox.com/s/cnh7aag3axrl9zo/FAR_%20Lone%20Sails.ipa?dl=1",
+            "localizedDescription": "Красивейший платформер о путешествии по пустошам"
+	    },
+
+        {
+            "size": 455081984 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:44:00+0300",
+            "name": "Говорящая АЗБУКА \n | #обучение |",
+            "version": "1.7",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/b03eb9525a.png",
+            "downloadURL": "https://www.dropbox.com/s/hv8o8nv3vowsknu/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B0%D1%8F%20%D0%90%D0%97%D0%91%D0%A3%D0%9A%D0%90.zip?dl=1",
+            "localizedDescription": "Одна из самых интересных и инновационных Азбук"
+	    },
+
+        {
+            "size": 183500800 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:45:00+0300",
+            "name": "Splice PRO \n | #редакторы | #эксклюзив |",
+            "version": "4.26.11",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/1ffbee8263.png",
+            "downloadURL": "https://www.dropbox.com/s/cybvuo3lstbl6nn/Splice%20PRO.ipa?dl=1",
+            "localizedDescription": "Создатель видео с эффектами, редактор клипов"
+	    },
+
+        {
+            "size": 257949696 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:46:00+0300",
+            "name": "Among Us! HACKed \n | #игры |",
+            "version": "2022.6.30",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/358499246f.png",
+            "downloadURL": "https://www.dropbox.com/s/9xyzv3nz30mwcbb/Among%20Us_2022.6.30_Remover.ipa?dl=1",
+            "localizedDescription": "Быть предателем совсем не просто! А отыскать его?"
+	    },
+
+        {
+            "size": 335544320 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:47:00+0300",
+            "name": "Noted PRO \n | #офис | #эксклюзив |",
+            "version": "3.2.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/0dff0689f8.png",
+            "downloadURL": "https://www.dropbox.com/s/7fl0y33dnh0p1al/Noted_3.2.3_Remover.ipa?dl=1",
+            "localizedDescription": "Диктофон, аудиозаметки, перевод голоса в текст"
+	    },
+
+        {
+            "size": 118489088 ,
+            "type": "2",
+			"type": "1",
+            "versionDate": "2022-12-01T23:48:00+0300",
+            "name": "SleepTown \n | #здоровье | #игры |",
+            "version": "3.2.17",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/9c4870c893.png",
+            "downloadURL": "https://www.dropbox.com/s/sl2z5mt5wp0volk/SleepTown.ipa?dl=1",
+            "localizedDescription": "Создавайте привычку здорового сна в игровой форме!"
+	    },
+
+        {
+            "size": 36700160 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:49:00+0300",
+            "name": "Wallpapers Central PRO \n | #утилиты | #эксклюзив |",
+            "version": "1.5.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/60ce706b47.png",
+            "downloadURL": "https://www.dropbox.com/s/aw1xkypqvk96ek4/Wallpapers_1.5.3_Remover.ipa?dl=1",
+            "localizedDescription": "Живые обои для iPhone, Watch Faces, обои"
+	    },
+
+        {
+            "size": 84934656 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:50:00+0300",
+            "name": "Alto's Odyssey \n | #игры |",
+            "version": "1.2.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c3bbd504b8.png",
+            "downloadURL": "https://www.dropbox.com/s/gxafmmmenr477oy/Odyssey_1.2.0_Remover.ipa?dl=1",
+            "localizedDescription": "Раскройте все секреты бесконечной пустыни"
+	    },
+
+        {
+            "size": 6291456 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:51:00+0300",
+            "name": "Spectre Camera \n | #камеры |",
+            "version": "1.1.11",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/74b462906e.png",
+            "downloadURL": "https://www.dropbox.com/s/0gv6gil15jrqs0g/Spectre%20Camera.ipa?dl=1",
+            "localizedDescription": "Создавайте потрясающие фото с длинной экспозицией"
+	    },
+
+        {
+            "size": 122683392 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:52:00+0300",
+            "name": "Scanner PRO by Readdle \n | #офис |",
+            "version": "7.8.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/875135df34.png",
+            "downloadURL": "https://www.dropbox.com/s/0n6ooga92mzrcaz/Scanner%20PRO%20by%20Readdle.ipa?dl=1",
+            "localizedDescription": "Портативный профессиональный сканер в кармане"
+	    },
+
+        {
+            "size": 48234496 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:53:00+0300",
+            "name": "LifeViewer PRO \n | #офис | #здоровье | #эксклюзив |",
+            "version": "2.7.6",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/183ad70f90.png",
+            "downloadURL": "https://www.dropbox.com/s/9y8l3ril5l2dy75/LifeViewer_2.7.6_Remover.ipa?dl=1",
+            "localizedDescription": "Суперприложение 6 в 1: Список дел, привычки, планер и др."
+	    },
+
+        {
+            "size": 312475648 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:54:00+0300",
+            "name": "WaterMinder \n | #здоровье | #эксклюзив |",
+            "version": "5.1.5",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/ff20b58a78.png",
+            "downloadURL": "https://www.dropbox.com/s/gb4xo8yn1iin0oq/WaterMinder_5.1.5_Remover.ipa?dl=1",
+            "localizedDescription": "Отслеживайте ваш уровень потребления жидкости"
+	    },
+
+        {
+            "size": 44040192 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:55:00+0300",
+            "name": "TouchRetouch \n | #редакторы |",
+            "version": "5.0.13",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/962a32b1af.png",
+            "downloadURL": "https://www.dropbox.com/s/gabknrtmxipwyyc/TouchRetouch.ipa?dl=1",
+            "localizedDescription": "Удалите весь мусор с ваших фотографий"
+	    },
+
+        {
+            "size": 5242880 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:56:00+0300",
+            "name": "CashSync PRO \n | #офис |",
+            "version": "3.3.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/3fd0e7e7e8.png",
+            "downloadURL": "https://www.dropbox.com/s/s88stwcci68tv41/CashSync%20PRO.ipa?dl=1",
+            "localizedDescription": "Личные финансы, синхронизация бюджетов"
+	    },
+
+        {
+            "size": 442499072 ,
+            "type": "2",
+            "versionDate": "2022-12-01T23:57:00+0300",
+            "name": "Door Kickers \n | #игры |",
+            "version": "1.1.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/fc6924298d.png",
+            "downloadURL": "https://www.dropbox.com/s/50g6i8t3s5nqg60/Door%20Kickers.ipa?dl=1",
+            "localizedDescription": "Спецназ, тактика, спецоперации, экшн"
+	    },
+
+        {
+            "size": 41943040 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:58:00+0300",
+            "name": "Fontmania (RUS) \n | #редакторы |",
+            "version": "1.8",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/8663b78685.png",
+            "downloadURL": "https://www.dropbox.com/s/fy4jcw8e655tv4x/Fontmania%20%28RUS%29.ipa?dl=1",
+            "localizedDescription": "Добавляйте РУССКИЕ надписи и артворки на фото"
+	    },
+
+        {
+            "size": 147849216 ,
+            "type": "1",
+            "versionDate": "2022-12-01T23:59:00+0300",
+            "name": "Gradient UNLIMITED \n | #редакторы | #эксклюзив |",
+            "version": "2.5.8",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5e59525cb7.png",
+            "downloadURL": "https://www.dropbox.com/s/fiipm7ouz084p17/Gradient_976_Remover.ipa?dl=1",
+            "localizedDescription": "Редактор фотографий с искусственным интеллектом"
+	    },
+
+        {
+            "size": 98566144 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:01:00+0300",
+            "name": "Water Time PRO \n | #здоровье |",
+            "version": "9.9.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/02326e3cdb.png",
+            "downloadURL": "https://www.dropbox.com/s/gybdp22kxe3zm78/Water%20Time_9.9.0_Remover.ipa?dl=1",
+            "localizedDescription": "Не даст забыть выпить нужное количество воды"
+	    },
+
+        {
+            "size": 27262976 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:02:00+0300",
+            "name": "Pocket City \n | #игры |",
+            "version": "1.1.443",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/b33a928bde.png",
+            "downloadURL": "https://www.dropbox.com/s/agqvv7zok190b29/Pocket%20City.ipa?dl=1",
+            "localizedDescription": "Постройте большой, удобный, успешный город"
+	    },
+
+        {
+            "size": 106954752 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:03:00+0300",
+            "name": "Peachy PRO \n | #редакторы | #эксклюзив |",
+            "version": "1.35.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/d5201b3675.png",
+            "downloadURL": "https://www.dropbox.com/s/l9jlx6ymx7qpm35/Peachy_1.35.0_Remover.ipa?dl=1",
+            "localizedDescription": "Продвинутое ретуширование лица и фигуры"
+	    },
+
+        {
+            "size": 147849216 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:04:00+0300",
+            "name": "SimpleRockets 2 \n | #игры |",
+            "version": "0.9.923",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/d39d417118.png",
+            "downloadURL": "https://www.dropbox.com/s/n819mlbc9kgdt1m/SimpleRockets%202.ipa?dl=1",
+            "localizedDescription": "Полностью трехмерная космическая симуляция"
+	    },
+
+        {
+            "size": 418381824 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:05:00+0300",
+            "name": "Slay the Spire \n | #игры |",
+            "version": "2.2.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/666fd2f450.png",
+            "downloadURL": "https://www.dropbox.com/s/2phzymh90r53o9r/Slay%20the%20Spire.ipa?dl=1",
+            "localizedDescription": "Карточная игра о магии и ужасах подземелий"
+	    },
+
+        {
+            "size": 119537664 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:06:00+0300",
+            "name": "BADLAND 2 \n | #игры |",
+            "version": "1.4.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/67936a9fde.png",
+            "downloadURL": "https://www.dropbox.com/s/w9srs6fs73mi8kh/BADLAND%202.ipa?dl=1",
+            "localizedDescription": "Продолжение сказочного приключения в лесу"
+	    },
+
+        {
+            "size": 607125504 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:07:00+0300",
+            "name": "Leo's Fortune \n | #игры |",
+            "version": "1.0.14",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/43ffd4546d.png",
+            "downloadURL": "https://www.dropbox.com/s/z9ayowd01u1eqce/Leo%27s%20Fortune.ipa?dl=1",
+            "localizedDescription": "Один из лучших приключенческих платформеров"
+	    },
+
+        {
+            "size": 613416960 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:08:00+0300",
+            "name": "This War of Mine \n | #игры |",
+            "version": "1.6.9",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/878cc32011.png",
+            "downloadURL": "https://www.dropbox.com/s/eexulhcon3l733a/This%20War%20of%20Mine.ipa?dl=1",
+            "localizedDescription": "Симулятор выживания в осажденном городе"
+	    },
+
+        {
+            "size": 228589568 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:09:00+0300",
+            "name": "BADLAND \n | #игры |",
+            "version": "3.4.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/fc145df06a.png",
+            "downloadURL": "https://www.dropbox.com/s/fgwr7967hlmb23y/BADLAND.ipa?dl=1",
+            "localizedDescription": "Путешествуйте и выживайте в сказочном лесу"
+	    },
+
+        {
+            "size": 60817408 ,
+            "type": "3",
+            "versionDate": "2022-12-02T00:10:00+0300",
+            "name": "Smule VIP \n | #аудио |",
+            "version": "11.1.5",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/2ec2006634.png",
+            "downloadURL": "https://www.dropbox.com/s/63vymckbyk4yzf7/Smule_11.1.5_Remover.ipa?dl=1",
+            "localizedDescription": "Пойте в караоке - сами, с друзьями или с реальными звёздами по сети"
+	    },
+
+        {
+            "size": 118489088 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:11:00+0300",
+            "name": "LIMBO \n | #игры |",
+            "version": "1.2.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/352b16315f.png",
+            "downloadURL": "https://www.dropbox.com/s/t6snzh9ws55ehk9/LIMBO.ipa?dl=1",
+            "localizedDescription": "Захватывающее мрачное путешествие в Лимбо"
+	    },
+
+        {
+            "size": 74448896 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:12:00+0300",
+            "name": "Rush Rally 2 \n | #игры |",
+            "version": "1.137",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/386af1f205.png",
+            "downloadURL": "https://www.dropbox.com/s/6sn175zci9ygpsi/Rush%20Rally%202.ipa?dl=1",
+            "localizedDescription": "Просто один из лучших симуляторов ралли на iOS"
+	    },
+
+        {
+            "size": 69206016 ,
+            "type": "3",
+			"type": "1",
+            "versionDate": "2022-12-02T00:13:00+0300",
+            "name": "nPlayer Plus \n | #видео | #аудио |",
+            "version": "3.12.12",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/4c569e8a97.png",
+            "downloadURL": "https://www.dropbox.com/s/rv409carowik0gh/nPlayer%20Plus.ipa?dl=1",
+            "localizedDescription": "Наиболее функциональный видео/аудиоплеер"
+	    },
+
+        {
+            "size": 69206016 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:14:00+0300",
+            "name": "Plague Inc. \n | #игры |",
+            "version": "1.19.2",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/0c5e167f96.png",
+            "downloadURL": "https://www.dropbox.com/s/d1thzpktmh7xvtc/Plague%20Inc.ipa?dl=1",
+            "localizedDescription": "Попробуй заразить мир смертельной инфекцией"
+	    },
+
+        {
+            "size": 583008256 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:15:00+0300",
+            "name": "Minecraft \n | #игры |",
+            "version": "1.19.22",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e3416675e3.png",
+            "downloadURL": "https://www.dropbox.com/s/08n3jjue39umeeq/Minecraft.ipa?dl=1",
+            "localizedDescription": "Создавайте, креативьте, изучайте и выживайте"
+	    },
+
+        {
+            "size": 74448896 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:16:00+0300",
+            "name": "Euclidean Lands \n | #игры |",
+            "version": "2.1.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/a33933c4ce.png",
+            "downloadURL": "https://www.dropbox.com/s/i28hsu5ul2jzin4/Euclidean%20Lands.ipa?dl=1",
+            "localizedDescription": "3D-пазлы, закручивающие и взрывающие мозг"
+	    },
+
+        {
+            "size": 248512512 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:17:00+0300",
+            "name": "Machinarium \n | #игры |",
+            "version": "2.4.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/e7329473af.png",
+            "downloadURL": "https://www.dropbox.com/s/0vv1tetzrdghf7o/Machinarium.ipa?dl=1",
+            "localizedDescription": "Красивейшая история из жизни города роботов"
+	    },
+
+        {
+            "size": 74448896 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:18:00+0300",
+            "name": "Despotism 3k \n | #игры |",
+            "version": "1.0.8",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/dba648ba45.png",
+            "downloadURL": "https://www.dropbox.com/s/4506ga5zv55rv2a/Despotism%203k.ipa?dl=1",
+            "localizedDescription": "Поработите людей, играя за искусственный интеллект"
+	    },
+
+        {
+            "size": 380633088 ,
+            "type": "2",
+            "versionDate": "2022-12-02T00:19:00+0300",
+            "name": "Brotherhood of Violence Ⅱ \n | #игры |",
+            "version": "3.0.4",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/5800bd9623.png",
+            "downloadURL": "https://www.dropbox.com/s/i0vfvoesb37zwfb/Brotherhood%20of%20Violence.ipa?dl=1",
+            "localizedDescription": "Крутые рукопашные бои, чтобы победить их всех"
+	    },
+
+        {
+            "size": 95420416 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:20:00+0300",
+            "name": "Noizio \n | #здоровье |",
+            "version": "2.4.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/f89b2b42be.png",
+            "downloadURL": "https://www.dropbox.com/s/55jqjfhojjmd4ac/Noizio.ipa?dl=1",
+            "localizedDescription": "Звуки окружающей природы для сна и медитации"
+	    },
+
+        {
+            "size": 14680064 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:21:00+0300",
+            "name": "Rarevision VHS \n | #камеры |",
+            "version": "1.6.3",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/9a2a48eb02.png",
+            "downloadURL": "https://www.dropbox.com/s/neuqc3xce0d57yz/Rarevision%20VHS.ipa?dl=1",
+            "localizedDescription": "Снимайте видео в стиле видеокассет из 90-х"
+	    },
+
+        {
+            "size": 38797312 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:22:00+0300",
+            "name": "Ventusky \n | #утилиты |",
+            "version": "20.0.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/afff02069a.png",
+            "downloadURL": "https://www.dropbox.com/s/go24l4f2sqzcrqk/Ventusky.ipa?dl=1",
+            "localizedDescription": "Максимально продвинутое погодное приложение"
+	    },
+
+        {
+            "size": 153092096 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:23:00+0300",
+            "name": "Unfold PRO \n | #редакторы | #эксклюзив |",
+            "version": "8.11.1",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c369ec10ec.png",
+            "downloadURL": "https://www.dropbox.com/s/mn8y7649h7k0fgn/Unfold_8.11.1_Remover.ipa?dl=1",
+            "localizedDescription": "Популярный редактор сториз и создатель коллажей"
+	    },
+
+        {
+            "size": 65011712 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:24:00+0300",
+            "name": "Google Earth \n | #утилиты | #удаленные |",
+            "version": "9.175.0",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/2f06e1ed07.png",
+            "downloadURL": "https://www.dropbox.com/s/s1hk93whquamw5x/Google%20Earth.ipa?dl=1",
+            "localizedDescription": "Смотрите на Землю в 3D с небывалой детализацией"
+	    },
+
+        {
+            "size": 142606336 ,
+            "type": "1",
+            "versionDate": "2022-12-02T00:25:00+0300",
+            "name": "Avatarify PRO \n | #редакторы | #эксклюзив |",
+            "version": "1.0.54",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/176af25d2f.png",
+            "downloadURL": "https://www.dropbox.com/s/qe1x1tnjpvpgpna/Avatarify_1.0.54_Remover.ipa?dl=1",
+            "localizedDescription": "Анимируй под музыку любое селфи – своё, звезды или друга"
+	    },
+
+        {
+            "size": 838860800 ,
+            "type": "2",
+            "versionDate": "2022-12-07T21:39:00+0300",
+            "name": "Dead Cells+ \n | #игры | #arcade |",
+            "version": "2.7.12",
+            "iconURL": "https://dl.lazyshop.app/images/catalog/c2ca05ac84.png",
+            "downloadURL": "https://www.dropbox.com/s/4sf8stttiqvzxng/Dead%20Cells%2B.ipa?dl=1",
+            "localizedDescription": "Убить. Умереть. Сделать выводы. Повторить."
         }
     ]
 }
